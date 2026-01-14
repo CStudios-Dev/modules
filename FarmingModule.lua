@@ -1,2 +1,1751 @@
--- this file was generated using melissa1
-return(function(a,a,b,b,b,b,c,d,e,f,g,h,i,j,k,l,m,m,m,n,n,n,n,n,n,o,o,o,o,o,o,o,o)local p,q,r,s,t,u,v,w,x,y,z,ba,bb,bc,bd,be,bf,bg,bh,bi,bj,bk,bl,bm,bn,bo,bp,bq,br,bs,bt,bu,bv,bw,bx,by,bz,ca local cb={}local cc={}cc[1]=0 cc[2]=3 cc[3]=3 local cd=0 local ce=0 local cf=42643 repeat if cf<=-15331 then if cf<=-32721 then if cf>=-38491 then if cf<=-35900 then if cf>=-38154 then if cf<-35900 then bo=nil cd,cf=-39724,-39724 else u=q and q[(function(cg,ch)local ci local cj={}local ck={}ck[1]=4 ck[2]=0 ck[3]=2 local ck=0 local cl=28745 local cm=0 repeat if cl>=60522 then if cl<=60522 then break else ci=cj[11]for cm=1,#cg do local cg=e(cg,cm)ci[cm]=o(d(37,99),(cg-(ch+cm))%256)end return i(ci)end else cj[11]={}ck,cl=89560,89560 end until cl==60522 end)("\175\198\190\194",76)]or function(cg,ch)local ci local cj={}local cj={}cj[1]=2 cj[2]=0 cj[3]=1 local cj=0 local cj=0 local cj=-16391 repeat if cj>=-19349 then if cj~=-16391 then return ci;else ci=0 for ck=0,31 do local cl=cg/2+ch/2 if cl~=j(cl)then ci=ci+2^ck;end;cg=j(cg/2);ch=j(ch/2);end;cj=-19349 end else break end until cj==-48483 end v=q and q[(function(cg,ch)local ci local cj={}local ck={}local function cl(cm,cn)ck[cn]=cm;return ck[cn]end local cm={}cm[1]=2 cm[2]=2 cm[3]=1 local cm=0 local cm=0 local cm=-47771 repeat if cm<=-25154 then if cm<=-47771 then cj[12]={}cj[13]=ck[-47771+358043]or cl(-25154,-47771+358043)cm=72796 else ci=cj[12]for ck=1,#cg do local cg=e(cg,ck)ci[ck]=o(d(37,99),(cg-(ch+ck))%256)end return i(ci)end else if cm<89752 then cm=cj[13]else break end end until cm==89752 end)("\115\129\133",16)]or function(cg,ch)local ci,cj local ck={}local cl={}local function cm(cn,co)cl[co]=cn;return cl[co]end local cn={}cn[1]=3 cn[2]=2 cn[3]=4 local cn=0 local co=67861 local cp=0 repeat if co<=-14975 then if co==-40317 then while cg>0 or ch>0 do local cp,cq local cr={}local cs={}local function ct(cu,cv)cs[cv]=cu;return cs[cv]end local cu={}cu[1]=1 cu[2]=3 cu[3]=0 local cu=0 local cu=0 local cv=-23655 repeat if cv<=-38484 then if cv>=-43491 then if cv==-43491 then cv=cr[14]else break end else cv=cr[15]end else if cv<=-18393 then if cv~=-18393 then cp=cg%2 cq=ch%2 if cp==1 or cq==1 then ci=ci+cj;end;cr[14]=cs[-23655+331628]or ct(-18393,-23655+331628)cv=-43491 else cg=j(cg/2)ch=j(ch/2)cr[15]=cs[-18393+331628]or ct(86551,-18393+331628)cv=-46011 end else if cv==81171 then cu,cv=cr[16],cr[16]else cj=cj*2 cr[16]=cs[86551+331628]or ct(-38484,86551+331628)cu,cv=81171,81171 end end end until cv==-38484 end;return ci;else break end else if co<67861 then cn,co=ck[17],ck[17]else ci=0 cj=1 ck[17]=cl[67861+180870]or cm(-40317,67861+180870)cn,co=23413,23413 end end until co==-14975 end w=nil cc[2]=(cc[2]+1)%5 cd,cf=-33075,-33075 end else bb=cb[115]bc=rawset cf=50733 end else if cf<=-35368 then bq=function(bb)local cg,ch local ci={}local cj={}local function ck(cl,cm)cj[cm]=cl;return cj[cm]end local cl={}cl[1]=2 cl[2]=4 cl[3]=1 local cm=0 local cn=-17624 local co=0 repeat if cn<=-25325 then if cn~=-25325 then cm,cn=ci[43],ci[43]else break end else if cn==-22178 then return-ch-1;else cg=bp(bb)ch=j(cg/2)if(cg%2)==0 then return ch;end;cl[3]=(cl[3]+1)%5 ci[43]=cj[-17624+174610]or ck(-22178,-17624+174610)cm,cn=-38904,-38904 end end until cn==-25325 end cd,cf=-27426,-27426 else if cf<-32721 then x=nil w=q and q[(function(bb,cg)local ch local ci={}local cj={}local function ck(cl,cm)cj[cm]=cl;return cj[cm]end local cl={}cl[1]=3 cl[2]=0 cl[3]=1 local cm=0 local cm=-42650 local cn=0 repeat if cm<=-33258 then if cm<-33258 then ci[18]={}cl[1]=(cl[1]+1)%5 ci[19]=cj[-42650+182229]or ck(46789,-42650+182229)cm=-24445 else break end else if cm<46789 then cm=ci[19]else ch=ci[18]for ci=1,#bb do local bb=e(bb,ci)ch[ci]=o(d(37,99),(bb-(cg+ci))%256)end return i(ch)end end until cm==-33258 end)("\142\150\140\142\140\155",33)]or function(bb,cg)if cg<0 then return x(bb,-cg)end return(bb*2^cg)%r;end x=q and q[(function(bb,cg)local ch local ci={}local cj={}local function ck(cl,cm)cj[cm]=cl;return cj[cm]end local cl={}cl[1]=4 cl[2]=1 cl[3]=4 local cl=0 local cl=0 local cl=-47466 repeat if cl>=56617 then if cl<=56617 then break else ch=ci[20]for cm=1,#bb do local bb=e(bb,cm)ch[cm]=o(d(37,99),(bb-(cg+cm))%256)end return i(ch)end else if cl==-47466 then ci[20]={}ci[21]=cj[-47466+342923]or ck(62076,-47466+342923)cl=-47029 else cl=ci[21]end end until cl==56617 end)("\165\167\157\159\157\172",50)]or function(bb,cg)if cg<0 then return w(bb,-cg)end return j(bb%r/2^cg)end cd,cf=57027,57027 else t=function(bb,cg,ch)local ci=ch-cg+1 if ci>7997 then return s(bb,cg,ch)else return m(bb,cg,ch)end end cf=-35900 end end end else if cf>=-40535 then if cf<=-40535 then bn=function(m)local bb local cg={}local ch={}local function ci(cj,ck)ch[ck]=cj;return ch[ck]end local cj={}cj[1]=2 cj[2]=3 cj[3]=3 local cj=0 local ck=-12796 local cl=0 repeat if ck<=-16068 then if ck<-16068 then break else bh=bh+1 return bb;end else if ck==-12796 then bb=0 bb=e(m,bh)cg[34]=ch[-12796+227832]or ci(-16068,-12796+227832)cj,ck=-12563,-12563 else cj,ck=cg[34],cg[34]end end until ck==-28398 end cd,cf=-38154,-38154 else if cf<=-40165 then bq=nil ce,cf=-35368,-35368 else bo=function(m)local bb,cg,ch,ci,cj,ck,cl,cm,cn,co,cp local cq={}local cr={}local function cs(ct,cu)cr[cu]=ct;return cr[cu]end local ct={}ct[1]=3 ct[2]=2 ct[3]=0 local cu=0 local cu=-26217 local cv=0 repeat if cu>=-25476 then if cu>=-20305 then if cu>=56141 then if cu~=66294 then cn=cq[35]co=(cm%128)*16+j(cl/16)cv=ct[2]==0 and-27848 or-28072 cq[38]=cr[56141+198090]or cs(-28072,56141+198090)cu=-25476 else break end else cv,cu=cq[39],cq[39]end else if cu==-25476 then cu=cq[38]else cu=cq[37]end end else if cu>=-28062 then if cu<=-28062 then cu=cq[36]else if cu==-27848 then cp=cp+2^52 return cn*cp*2^(co-1023-52);else bb,cg,ch,ci,cj,ck,cl,cm=e(m,bh,bh+7)bh=bh+8 cq[36]=cr[-26217+198090]or cs(-34674,-26217+198090)cu=-28062 end end else if cu<=-34674 then cq[35]=cm>127 and-1 or 1 ct[1]=(ct[1]+1)%5 cq[37]=cr[-34674+198090]or cs(56141,-34674+198090)cu=-22226 else cp=((cl%16)*2^48+ck*2^40+cj*2^32+ci*2^24+ch*2^16+cg*2^8+bb)if co==0 then if cp==0 then return cn*0;else return cn*cp*2^(-1022-52);end;elseif co==2047 then if cp==0 then return cn*(1/0);else return 0/0;end;end;cq[39]=cr[-28072+198090]or cs(-27848,-28072+198090)cv,cu=-20305,-20305 end end end until cu==66294 end ce,cf=53156,53156 end end else if cf~=-43025 then bl=nil cc[3]=(cc[3]+1)%5 cd,cf=27562,27562 else br=function(m)local m,bb,cg,ch=e(m,bh,bh+3)bh=bh+4;return((ch*16777216)+(cg*65536)+(bb*256)+m);end ce,cf=79643,79643 end end end else if cf>=-25452 then if cf>=-23021 then if cf<=-23021 then bm=nil cf=29823 else if cf==-18463 then r=2^32 cf=-24516 else bu=nil cd=cc[1]~=0 and-29569 or 62789 cd,cf=62789,62789 end end else if cf<=-25452 then bk=function(m)local bb=0 for cg=0,2 do bb=v(bb,w(e(m,bh,bh),8*cg));bh=bh+1;end;return bb;end cc[3]=(cc[3]+1)%5 ce,cf=-44080,-44080 else if cf==-24516 then s=function(m,bb,cg)if(bb>cg)then return end local ch=cg-bb+1 do local ci,cj local ck={}local cl={}local function cm(cn,co)cl[co]=cn;return cl[co]end local cn={}cn[1]=3 cn[2]=4 cn[3]=0 local co=0 local cp=54719 local cq=0 repeat if cp<=-23347 then if cp>=-35704 then if cp>=-29342 then if cp~=-23347 then cq,cp=ck[6],ck[6]else if cj==0 and ch>=3 then ci=74727 cj=1 end if cj==0 and ch>=2 then ci=14230 cj=1 end cq=cn[1]==1 and-35704 or-49218 ck[7]=cl[-23347+319204]or cm(-49218,-23347+319204)co,cp=25149,25149 end else if ci==70199 then return m[bb],m[bb+1],m[bb+2],m[bb+3],m[bb+4],s(m,bb+5,cg)end if ci==48517 then return m[bb],m[bb+1],m[bb+2],m[bb+3],s(m,bb+4,cg)end if ci==74727 then return m[bb],m[bb+1],m[bb+2],s(m,bb+3,cg)end ck[9]=cl[-35704+188133]or cm(83614,-35704+188133)co,cp=46615,46615 end else if cp<=-49218 then if cj==0 then ci=12329 cj=1 end if ci==28088 then return m[bb],m[bb+1],m[bb+2],m[bb+3],m[bb+4],m[bb+5],m[bb+6],m[bb+7],s(m,bb+8,cg)end if ci==24900 then return m[bb],m[bb+1],m[bb+2],m[bb+3],m[bb+4],m[bb+5],m[bb+6],s(m,bb+7,cg)end if ci==94707 then return m[bb],m[bb+1],m[bb+2],m[bb+3],m[bb+4],m[bb+5],s(m,bb+6,cg)end ck[8]=cl[-49218+57062]or cm(-35704,-49218+57062)cp=-17623 else if cp~=-38349 then break else if cj==0 and ch>=6 then ci=94707 cj=1 end if cj==0 and ch>=5 then ci=70199 cj=1 end if cj==0 and ch>=4 then ci=48517 cj=1 end cq=cn[3]==0 and-49218 or-23347 ck[6]=cl[-38349+319204]or cm(-23347,-38349+319204)cq,cp=-29342,-29342 end end end else if cp<=25149 then if cp<=-17623 then cp=ck[8]else if cp~=25149 then cq,cp=ck[5],ck[5]else co,cp=ck[7],ck[7]end end else if cp>=54719 then if cp~=83614 then ci=0 cj=0 if cj==0 and ch>=8 then ci=28088 cj=1 end if cj==0 and ch>=7 then ci=24900 cj=1 end ck[5]=cl[54719+188133]or cm(-38349,54719+188133)cq,cp=-14582,-14582 else if ci==14230 then return m[bb],m[bb+1],s(m,bb+2,cg)end if ci==12329 then return m[bb],s(m,bb+1,cg)end cn[1]=(cn[1]+1)%5 ck[10]=cl[83614+57062]or cm(-43657,83614+57062)co,cp=31642,31642 end else if cp<46615 then co,cp=ck[10],ck[10]else co,cp=ck[9],ck[9]end end end end until cp==-43657 end end ce,cf=-32721,-32721 else bx=cb[116]cf=85343 end end end else if cf<=-28920 then if cf~=-28920 then bv=function(...)return{...},k('#',...)end cc[1]=(cc[1]+1)%5 cf=65319 else bt=nil cf=44092 end else if cf<=-27426 then br=nil cf=-43025 else if cf==-27113 then bf=function(m)local s,bb,bx,cg=nil,nil,nil,nil local ch={}for ci=0,255 do ch[ci]=d(ci);end;local function ci(cj)local ck=-1 local cl=256 local cm=257 local cn=258 local co=259 local cp=260 local cq=#cj local cr=1 local cs=0 local ct=0 local function cu(cv)while ct<cv and cr<=cq do local cj=e(cj,cr)cr=cr+1;cs=cs+w(cj,ct);ct=ct+8;end;end;local function cj()if ct==0 then cu(1);end;local cq=y(cs,1)cs=x(cs,1);ct=ct-1;return cq;end;local function cq(cr)if cr<=0 then return 0;end;cu(cr);local cu=w(1,cr)-1 local cu=y(cs,cu)cs=x(cs,cr);ct=ct-cr;return cu;end;local function cr()local cs=0 while cj()==0 do cs=cs+1;if cs>31 then break;end;end;if cs==0 then return 1;end;local ct=1 for cu=1,cs do ct=ct*2+cj();end;return ct;end;local function cs(ct)local cu=0 while cj()==0 do cu=cu+1;end;if ct==0 then return cu;end;local cv=cq(ct)return cu*(2^ct)+cv;end;local function ct(cu)local cv={}local function cw(cx,cy,cz)local da=cv for db=cy-1,0,-1 do local cx=y(x(cx,db),1)if not da[cx]then da[cx]={};end;da=da[cx];end;da[ck]=cz;end;local cx=cr()-1 if cx<=0 then return cv;end;local cy=0 local cz={}local da=-1 local db=0 for dc=1,cx do local cx if cu then if dc==1 then cx=cq(8);else local cu=cr()cx=da+cu;end;else local cu=cr()if dc==1 then cx=cu-1;else cx=da+cu;end;end;local cu if dc==1 then cu=cr();else local dc=cj()if dc==1 then cu=db;else cu=cr();end;end;if cu>cy then cy=cu;end;local cr=cz[cu]if cr==nil then cr={};cz[cu]=cr;end;cr[#cr+1]=cx;da=cx;db=cu;end;local cr=0 local cu=0 for cx=1,cy do local cy=cz[cx]if cy~=nil then n(cy);if cx>cu then cr=w(cr,cx-cu);cu=cx;end;for n=1,#cy do cw(cr,cx,cy[n]);cr=cr+1;end;end;end;return cv;end;local function n(cr)local cr=cr while true do local cu=cj()cr=cr[cu];if not cr then return;end;local ck=cr[ck]if ck~=nil then return ck;end;end;end;local ck=ct(false)local cr=ct(false)local cu=ct(false)local cv=ct(true)local ct=ct(true)local cw=cq(2)local cx,cy,cz,da if cw==0 then cx=s or 0;cy=bb or 0;cz=bx or 0;da=cg or 0;elseif cw==1 then local cw={[-1]=0,[0]=1,[1]=2,[2]=3}local cw={[0]=-1,[1]=0,[2]=1,[3]=2}local db=cw[cq(2)]local dc=cw[cq(2)]local dd=cw[cq(2)]local cw=cw[cq(2)]cx=(s or 0)+db;cy=(bb or 0)+dc;cz=(bx or 0)+dd;da=(cg or 0)+cw;s,bb,bx,cg=cx,cy,cz,da;else cx=cq(4);cy=cq(4);cz=cq(4);da=cq(4);s,bb,bx,cg=cx,cy,cz,da;end;local s={}local bb=0 local bx=false local cg=false while true do local ck=cg and cu or(bx and cr or ck)local ck=n(ck)if ck==nil then break;end;if ck==cp then break;end;if ck==cl then local cl=bx and ct or cv local cl=n(cl)if cl==nil then break;end;local cp=cj()local cp=cs(cp==0 and cz or da)+1 local cr=ch[cl]bb=bb+1;s[bb]=h(cr,cp);bx=(cl==0);cg=true;elseif ck==cm then local cj=cj()local cj=cs(cj==0 and cx or cy)+1 local cl=ch[0]bb=bb+1;s[bb]=h(cl,cj);bx=true;cg=true;elseif ck==cn then local cj=2+cq(5)local cl=ch[0]bb=bb+1;s[bb]=h(cl,cj);bx=true;cg=true;elseif ck==co then local cj=bx and ct or cv local n=n(cj)if n==nil then break;end;local cj=2+cq(3)local cl=ch[n]bb=bb+1;s[bb]=h(cl,cj);bx=(n==0);cg=true;else bb=bb+1;s[bb]=ch[ck];bx=(ck==0);cg=false;end;end;return i(s);end;local function h(n)local s={}local bb=256 local bx={}for cg=1,bb do bx[cg]={};for bb=0,255 do bx[cg][bb+1]=bb;end;end;local bb=0 local cg=#n for cj=1,cg do local cg=bb+1 local bx=bx[cg]local n=e(n,cj)+1 local cg=bx[n]s[cj]=ch[cg];if n>1 then p(bx,1,n-1,2);bx[1]=cg;end;bb=cg;end;return i(s);end;local function n(s,bb)local bx=#s if bx==0 then return"";end;bb=bb+1;local cg=ba(bx)local cj={}local ck=ba(256)for cl=1,bx do local cl=e(s,cl)cj[cl]=(cj[cl]or 0)+1;end;local cl=1 for cm=0,255 do local cj=cj[cm]or 0 ck[cm]=cl;cl=cl+cj;end;for cj=1,bx do local cl=e(s,cj)local cm=ck[cl]cg[cm]=cj;ck[cl]=cm+1;end;local cj=ba(bx)local bb=bb for ck=1,bx do bb=cg[bb];cj[ck]=ch[e(s,bb)];end;return i(cj);end;local m=be(m)local s={}local bb=0 local bx=1 local cg=#m while bx+7<=cg do local ch,cj,ck,cl=e(m,bx,bx+3)local ch=ch+cj*256+ck*65536+cl*16777216 bx=bx+4;local cj,ck,cl,cm=e(m,bx,bx+3)local cj=cj+ck*256+cl*65536+cm*16777216 bx=bx+4;if bx+cj-1>cg then break;end;local m=b(m,bx,bx+cj-1)bx=bx+cj;local m=ci(m)local h=h(m)local h=n(h,ch)bb=bb+1;s[bb]=h;end;return i(s);end cd,cf=59338,59338 else bj=nil cd,cf=70092,70092 end end end end end else if cf>=52377 then if cf<=61568 then if cf>=57027 then if cf>=59338 then if cf~=61568 then bg=bf([==[TB6+R's@T;!'r,*U*'9ms*ok)s$,S"#l4N#s8W-!s8RlNs,`rR6\bI;%iO[4s$MP;6[ktqTgBeMjIuQ;oS3d%W"0R,s8W-!s8W-!s8S2\L\h&Ns8W-!%ispG*U4.U.WhU"*U;"Frr:?=r^2GJIAdYoNsQ"5i&ME5G5O`*+#:bX%h\C4:a$>ankahW:koO'aADp:TgOMt<9R/6%M^<ikYRs?L&MSt3c+"VL]0!$6\YM,rJ(l(W6h4JrLlQ5qYq(OW0!]>LAJgcJ*8SA%K0`76\kIJ*@CF;_LrD?kV/^JKK`)^cscq#LC"n\bb76pfL(ESFI9;+_]1_]J*=ciqCm[?bTAHZfJ'#:L'\[YcscomTu.j.9\;`4@K+V^%N?a:fJ(>GZ^i:1A'nEV=T&11TgB_0&J+CR1.4Yr7*%_9nk^Jr+*'Z#'L_-q'f'm0&0XDp#cXLaL(8@i:n^*akX1$Q:a(<SIHZcd6A?'D+[^qn'f*_$668`1TgF.J&0Er4aO'6jW6i0Es"C=tlai`UYH!?b)-ROg.V.bbO;dtW+"F(ZpEre26\X)fJe"WN6\T[b)1"RUMF*(,I4.JK*X`P`+oraAdh'm2&^_I3O"ibO^_'.i`Dmc@"@ld"@3"Hq(3Wqbgm)2[op)'^G+<'<nB#Zq@E'C$^aKi3@&U\7@E8R?"=;&c1e'jWJfl7.imF-J+F>ch5$gYZjk/67@?IcQ.@'IGRK+Oom!VF@!R(hBT`P6;-=TmHS<Ae@S3UaEKMVe:3=,fi6J>*]6J,d;&Hn;!@.GKSJgX5g6kB>ACg+6o#pf^%bb.3,@R:2C6_tTm]G\mLo*.Y*!5p,p#a6&KJf'&0&YTIKTcbOE#U-KcUB$EJN!-([M?jp7r+PP'$&EnMRD<LU%LJ=X>*T)TFp_tmJb10TD,ReLYDfp>-j0efl,`U]R.YC*U%/DG4qaD]JI6fD=B2$'[0@O+-Sr#"o*dGfVI1P"E[a@Qaq=gm-3/o'63>7Kg`_<\,=!M>lUE!0#QY>:5`'%*M^44OTUKtf!#l%p7">mnfpreQ$puG,qKNguSE8<PVDY`.=P=[u1!GUs#2m^S!"ja+WV4'RXUhZ;I8S-j&29.Rp9Z=4YV]J7Rs8MJOB2l[F,[5t"<jKBcih]`jLd:q777es\$)+p&HE='8I_4qOlJcc-4K9:!4iB"SOis?>(n7SP^no8,:<\!Z.e8@aNFVNPdA@t;Opq8!IJm>\M@1k#14tVM%\5g-H*4QO`LR@;Q4m*5c5H07LAGP"O.6i?s.)^*cWN%b"9b(8<a[-RDnPK$o5.O'T@HbK[m`W8NsOic<TFp>*>o2WkloU:=(J%R4jmnE%ENsf*94.ltPT&j].*bR1b_:YVMceN0;Om0:D#n%!1NAer.AoV\k@][G2O,o8]-?LaL%RDq:AD,66gFBLO3rK4)khYc&NESE.@WQpl"NANgACO[NV'@]^U_06+_MKq\qd(1BmT.cb')@au1tRsF=s6-cOjb[?CS#Z2^HMCc#'OoZkB"bAZ7OM&[q-]gUsTG>[9WHY"nOpnF\JEA(t!bLMI8naG(=<Br(%$Y;JRikfK0c?Y\0Si'.PnH^NfSg*/a[?-I8MWkt-uoBF1IgBJF\j4#0T&,6<tN^l).7F%R9Yk>&^!A&PN[[F.N4aDbi6Q;Y0K*G-q\'f1.cf8EbWKD'V#bVU'3Pt==aG@!#m7m-5<.BPS8\R<#Sh6,+:>m`Fe*M@)Ih4ieS1gRR"tFkPL);Wc(Kq#qH-d-3,6_.2NB70W1Ft:dPg>X:R0:E^5:5UWc+4Lh4dY+\#<C5S7D#"";bLK16M0LiP6O]?NT$Tu;gE#R)WfS2,d3KGf=rB-u"/@a8MU1.'1f5U\%S'2dCLZA$UA`6=&LMBidn5Z:@Lj<S4W5mW@@#QXC[U`c1*FHrl,Y-3t80kNEQSB)@P+O2K)jp8bacj5i@Na=e#Lun37M?&DHpFZ(+`Poal$8<,<"P@<-NMMDMZ,DYj,+p.GV-YFJn*1X1C\L1c9;?%uQ@*<1`lo.Vc5$DWQ!2T!-lHTk\T#&-<o1skn_!>i*F?+EV;,/g@8:cES=U(bi&Zp$0]VM!(u9"H2(EGo=O8bO8N#1o+Rus4(d+Un4G6]2Q`Kc:)1j"7P8>Jl;7(N.L="[!X5Q*&M,@.b2*3TN`5uC11t>AG!6jLD"jG[o!6q#oDZN:h8S'iVV59NH37UpiJf15jo/&edUcYqkAVYggL^5.0&I;#]fPP:e"N&fCTNJ>FfEO[rbs71u#pHE-R^rf/JEDY81c'u/'q,JM:0nQm5R8-f,7oH='[))q:_XUp1:i*Y1dRgg7WCiCN)1:[6m891`.Tb<,Y5`sUB"ak:(U8HOe[RPE=`;lJ0ICa>=\D2B<)ac8^8a9WfDBq8sGT-/67Fef]U1n(I_g^)9fWFR,ju**@'`(W)j(*XGdeHYhtR$@:a&U324p]>fhj-YQu`@'D[$h(J<^[q0pn_`0DUo%Wh#[UnOKFpZ`O7SrJbNH+g'i3]X_`pPPMW(,d1h@rD8$a:;f['P&GUdhu'G9f@T%/)mp"*?k&pElJU.]d7=p@$.tGMZRJr(J94<$V,FV"qg&G0_UeTc;9r`TpJjt^d(`s>6G^V('(BY!Y>A]$$8DOH!!qpmd(.#/5L$M?$11X-#-*a@Ct04SF>)SN@bG;A`eY7Cp#*k<bbE'>E;fT=k$.j7<c04c%0nS5jJSh;.jck2keG5`a2^;m"Q9G;MO+DKGm[*S4V5*M-ZoCP)a?p)]R1=`*@N*;9tamPEU'NV#q\`@Lc%iWcH56-5t.6gcZc4l84]GPe:BN,82#A7d;O_]iNF4BWU<I"!Kq!(?\d:=>HNsY/BG$<p"GH,=gt;7b)-",0o/K?4mZ0d7q,c$=IPg)4I4\<2>"r@1_T6!1kotj\C(E_#]oYKg>]9U7<+EI=namUIi>`V,Y@82[go27VPW$&k`pHntVFWjt(RtL<<K;C=loS<CjG!Umn2(2K1n_Q?XsT=Dq&#TarlETsjQm+d3SL-8AH2;p<Hr+L/jN0/+/o"O43087'q>"<)7];,El/TrLkh&Eq'#X/d$=Bkm2?1m[C_JO?Ca=gM?OFf(=l.F(R5aW&kT?nQ"B-^[JV:_JUAW"]Yj-VKk4Nk@L1@V.2YHm1Qd'[2DZM#`nN0p=mJ@$DpY&hupb&/!$J4B$PT_BNu"8YRr\b;)PYJ5M%M]pKBMi^o6Y7>*:e`ro,"o9<[Z.Bp.p**1=0"#-,5jp3c-#mhpdk)<&(7`d3TH&#u7V-qRMTtFJA4^D#XUbjR0QtrO/&h9&CKEMrsOZ8>5'`&/Y,&?lVEu0[8fT\ZW`-bg1OZ]3*'&kSa4VVs9%V7PGRTDaCe\NRX8:m!)U0o6Ha@Y2$+'`@k.PekU7jKST8B@Po`+ghnR@$@'a<:VX#U+J^BK3uYBUDAa,U-YBp!+76nH'#ZQXi@&hIMiaQ:6IY6saK1>`'AN,Ou%pCCqj_bbJ_24[Ou!?KN5%U=!+A0WD*J"(a5@M^%cYq/23PP7VZPN$^R4PY`crP7]MtL_9nJWBrTQEhYWk@o72#kKFh*jc#R`>o&r`&^AEpSDalf6llMrd3YJ+M=\!?A<(+Q"j,gWP&irG1WgT/Jlj`GK/]2%.[V#Hct"=ePDP]t.FcPMR,heP#Ob%u(KN9#Js.>Z$-mMMp*-aB.O^GnSF>+;Qi]`%IM\Cm^h>K9;QpjH(_T;0-796K@$%A0!X/uBU>:#),D1O_k^[eO1V#kAU=eiXJML%7#&i?0"0bPpF9?VPM%D<r#u0Il.X".1O<D]^5X9sPRI_VC,aaE`UcM((+jt62-)qqY,Vm;hOn'.373[D&EaVih`16R22"+-#=HQ1,mYJ[>eKgU-,"W@m!!XSfUIiB)7RM6;P*_pL!Lc\=65LQ&BO6ij"D\&NN/Wc`FFYoS+Y)Ui$8Wi7Lj((/N$8[nTT#W<5;3^H5u)G/";LAqM39epEWhl:o+W2X.#B6+70H^P6\U%G0G;I*fMY(*bu14NEZfH?U`bFqHW:\j7(u=V7<+8U2bPEK).>qT9Td\8El&qh1=_=(-+Y@0DGKaj"r9s3$jL;RjU#o\&i>/1KL)>pAMTI^9F_i$=@gYI&rf@>kHa4VOhofuN2G5H`?5sZ.1mbob+N..Lf/1YK/j'<9Hn*nEe4R&7,Anp!Z[I3NF;6&\r<$hmNV--&Ka++b\/^)6j"\8DBn?l$,E&db'RgIF\)Wg3p1&;N0</M"C2(BKY',f!$_NSLLH:'aq3uC.AfcV1+,mR8gko.UtA<a%`+^SH%Kp'!&ko`5Y34gHR+d]4*Dhc,_/A"K7oCe+QtoN?p^&Fm6gqo!j<1j)O3=@-,DW.'2^)^aqt_`6r>_W9QC@O1a>hP#(f0l3cJR1PS"3''nh>fRQsO\Oaon4[Tnmp=8V@CPdOO9,R5HF@*)'[^r]n?8__JVi_2hHl.q;_i)rqpPGi)Nj9^Sg&@d%.+on)QW;m.*$]D*(??sD=k2>Qp;W71W(DD<L>=V2L:jCPf0@m]^_OfUE!G<!,[lpp?;MJ4Ggt6usJSg'A>5(bS%Uki0^O;B6mGJ0FK4*p&gm16_%;QO5=g>c)8@p?g:CP$EehCWN0WkkfR=[N0h.tAl&mRu)B^m8a/?pU+pXl`797j&^9u'2(d,NGjkN1Q:G1mK6r^/4H8R[=k9=l,;H7o@RFb2!'A(sX*E5QMV(aj9mR=N><bRaoOR"ujrR1KrQ&;1T=680i4+p80;LoGPT14bqU1h=8+,Jd\"2[hF$oQM9%drWA<(XJj7%Q5tQ]XZt2NnV(+2lW@,*1/R.L?Z_uI2%_n=gH*Ygj>[,f/NNAmC(etPDus+idJ.Gc'gY@+30,cNBV0VG%nH"Rlu/f$";E!o=(leM45VLS4DmiQ"sO]k=+J]OZ$-\BrlnFGV)WJ/a_40=_d),[t^3loaDVV\Reuu?&#83.q2+J],`]gR!s<^N#7cuPIDd*,)7I^Nb)FJ!BQl\,4-,B%o"OQ4)fu"e%EqoQjPf1noIaIK@FMX)^M<6TiWcSk@cIs%[aMHbe@%<a*)]D#=_`L_PXkHBq;<qU=e+;_e15^&#iYuQql/WbARqP5:5K2A4u(*B)<9B3[+p)IWWjF3@o!Dh!X\JUSmRi?l=Y7H,"(B&3&PRo?8[H*p,rOi'prIM2MK%`"/L(7i\je-#>35gP5%&nKUu-[W#,UYNBS@5soM4BWG8SP4(&rT=<k[1Rjq"cu"l'XNsP'K7OGJ0'0;^l9h0_kDR6q5VonB'W's/nmkeCECi!<s$/QVfq^=4(hr;(dJQ!t6Jm%(_IW)s1Ygrlf+M'kLUg+hipr5R-8Y8=N>bbm4In`3,hha<8BB/PU)*2ekD+*'DS:3VC.^U[E.&B#LNlBS\:2kr(#5'hqq)E2BgCAVVsP3*@)%Um'"70CKVt`BMoW<DG"Dp_0%aUmR0;HbTs7c^44@XQ67o80WbQ6r?iW<q3hS=!?=RIL1hH!%eJMl7X[L<t8]i*M7Nde]-)=!5?fQmH"N_bh^uX+8]sg(:,h"/7V-bmh8ZIo'A8<Mi`_7"315g\D*>$DW6#)jM)O[p,2-c,s!72u/&J5-W;F;3$0_rWo@K\$]jXDNcKOcPH8IZ[b!/5rd,a(.n+9Z8=6n*a2#QZ([,!lEg.#F)q!X'XGR3FsG'I@<00mNdC5_Ks]TN$!//N1or;$I&o9?L`.f1dEA&->O3:^4_'6Bjb\.[l0X=\.*D"VC_XKE-[9WUrN5QkU,=aVH.COA(49%flqJ+ot$9L(Io&!X&Q,77f?t#Ts8'@.K/>5",`N?3gR",")D4,[6'1-D(nR+UA*8&.npK+XChgZ3DRIV,%a++L3/SSNom%"UKq7\7!4pHD:arO=UIT&-RLp68Aar&41mY&-<CER(QfPJ<CIsA.U(6Z2GuB8@BYo._Pg*#g!u1H_jLK&J7>8K8Cc`JuE:<15BV=#XSg=&gV6(!$OT=.79pJ&.npd!%'?2&VL.J(IGD1WJNqe+sIVTZ311TT+4PPKSU0O6BE`AL`hA,8-FGC@Ibj5#SE8e!+Ab<Je/4'j:d,qJ4WHC6APo!8,r^T.M3glLr?(pKObCG+<Vd0"9O,cR(NJ4KLgn!69n(r8hXT#,_u^QT+D-YJB9;C6%BN"5U6J!!$QrM8^jJk8PobE#SAC:"A$N4PFi<M;&$qo63%9<09HeIKKr)J+C\5HK#$FN9O8kd5R7K)#RDSIMBW<-KHN\"U^7SeGtj0Labtrt+:&Q+0+\_,$].+OLd[%SKFiur5VOVo#Qu;=!^]-XJ-Z`2LmYh?8>]!4,"u0DL_)"N&4-p0+<nr>&.o17PVE^]9O:*e&J:DC6C>CcPF'B!0R5rT2Ba1U+[VP1JIk/R<dI2f&:qr]8-fbN+p*s($Bctd,")PfGla*F+<X?a5t%(S9jU-h6pq/%!L'B7GnEB!L`h:@;2>bh+<gq#!+F:iKE+=]&eSRC+qc%19U[(JLkp]i&HS":66IHbP>A,V'O^Lr5U8ZA9O8ipLe6(V70l3[&OAZM";!s,6%f4b00k1%Lk$$J!XK&UL`dlEJB9;S!Q!h3&W'*,,Z,+>,ac4g+b5@S&V:"H<sTt*#Xi.mM@]e^4rjVHatO*QL`fC&&.oMA'F>t:#QfPg-E3_5Q!P"-!0^K;#RJNj,^\)W`IM5Ki1*n,9;J$HG"ErX\JGfTUU)2DpAI6#BI*JDP?LN[aUf_uO_!*99f.rJ6Y`!I)p,g-"EYi/c3,\^)Mpn^L5D%]C*[cR<7BX9V^E@?";,$@7@>sK_?iKb/Bo1H>[02'MMX3OZ`T]!PalKX4/q2s,jWoBb18V!e"BklbZ&?ZOI@XEb<SI1QB7OtV"QMgbE0r_eI*dg,u>5-#U!OG$BYSp9KjU&6@_<,W=]8d&-Ah2Wq8(BFa")k+dn#qJrglO<9"+F,!\O%+@;/.0pFs,&.*mn66sA-Kh3(I,Xc<42[Ldn4Wkjm6Y;KI+TrrGV@W_o6m*ZTKSTU>Le'EI:^B[VL^9B\66Hg>+Tt+;!0^Ii#a:Da,"+gCKHLnX5R7CD!(*%e"X8L/+VI'HNdC+q)G<E%B;m9Z,pF>$cu=dW'I"kW,(bV!6P,'0!$WQt+sIUCAZGAH"G@nL8-G,PYk0\r5sti"+qYDT"<eBZ,")DC&LK.4a\q@,KE*0K#S@+L+sG)k9Ss)VU?kND9cO1%R'`)#!.m`ZJfk2[:CdLRT,8hP+@H3_5R8PG$%rik+TP2",tQ#uR(Pfu_;nN]KHS.m'kI\_$NUiqLg]c[Q!P'\ffM1Dl=AneK=X^Qg?V,\C^CNeM5;digeGQfqs6Bk#&Y560p!qPZEK?@<dE?bS/=*+P)2^4+s6pu!CYqhOt9NY+9E`P#XLia!CT=")+,S\&0O;q&;D<:<\gEq!UM!kI.."L/`(NI/N&0d>V9V)*J$VeO0/0@B)*=,`TpeF@E\WH*dSA&(9[DA]\c%-c#IQJLTD'&6Oqafb#VT$2V;^`WDW)Q\R`0t%QSd]P$&4K[W"OZ4QG9<?FEl#ATl9A=`L(1Jbor-JHs5NS'*P/!(=q\i1(Q8>%GbS;,#LOc!-'/]ROmgX;X]a!1:Dc,X_bZP,5K30If68:E=h]fc^j\C"bpX'YCOH2a6#_))31qEqA'q^YrK(fciqVk;Km,]ISOK>eFFd[f,7*94L=S9EHOo63%UR6kBEo)PRc_?'n5'06Kq^jg'8/YY]^<ZsPf2ed%^0@'=uaY"[_s2n2<UT\Up06i/=_@WuKBVH@1a[2^.49H!19BAUYI':e+p;u]38h)EH&LI_',FbhN-qaFJK@T/ts)s`q3U4&>nE_\XSSWq6B3H#sAI$jE2>L-Pd/AdRHL2@Z,Eh%>-Fi`E/!KIoS]Ur%X-SRTR-3l3G`s4.Ycp`&$jA9VA`"=%_@hn^pF30*3/u7Y'hf+&]@W*QXe8p*"C+'8;*XjN$>-LAgc$%n0O:D/?r=#>WRF6.p$d6MiMhtACB!P7"BD9tMEabSpR<F6fF@`*$867?K(e6TEIA6m\Mu"':VkcLhcB8a/Wrt&E?a,>2/4E3)9Ci-V3?Hiu2I"Q&d)[.!n50lu@LNWM-nj8L>-+L)'YOK[c@o*&8EJJc+.,",9>kFAP]qC+(VkiD"Wl<CpNj+nbpP6H\I\e-'S9NpX"HS`"i+mh/NmX1`DPJ>M9iX-i0>[hF0rHmME>WW'Y%QrDXi"\>HFZk]ei>q^dtaJEc1*T3>XIkg9`Bd>WcP*BVE&Z-&/7@g#=Cr)d5XFR;]HA,EeZ`-d4Yc-`*h-,&FkF-V)Js@FP%G8^1kt/U(R,LJ%]NDQ,!aZYm@qZg\)lF6?U6TGt++S&k[7V6N$0_-.Y1p1`2;+/]?44m(qOZ7l)$0[te)G%_/nU11Cdi3JYNXITu4M22-KM2"!DU.*_DRnr&bG"Z,#6]a\QEucLErO^*5G&?)?SgB:obi]rL^]d=sb`Ys:M[=?'U9'=_S0&[&ag*dFg&.H5X$(_^[d7T=^_sa1)U+=LHZ@n[Gj92&GHD[3g6Bdj@b4q7k3"R7I^P3bqsE6ANChW@[h84ecYnYl5YO&e_]86r]!Jk!:S"+rS6mZ,lC1-k$\g\ERKQlGJ_@3TFre0[q"\ECS$HfCQa88_3Xa,o@s^tden!R?>Kk1QXE3$ljt*i/)>\@[QgZhde#3\/M7_?>_AQnm[)q\&_r^Kb6^JPrQFR7RcFGi@IN,<hlp&EVPLu&nH8go4O5)r8"W=5Tannpp2'j(GXKaHjd7EumIL1m^*<[>jJ.a[?@';"p7KDd,&O6pRP%qp!cl0me!MBQa#SEl0MFlJg'G8dSPVpZQ+PDIu9Hd(n\O/YZ6mT)P*mb%IA-l.4L>[.[D^@8i:&mVd01%E'!JFts,*F6C#*G"k68AZE&5j0qJ.M\^!?`XTOGlI*lX[j8ks.68/aItDe3"m3ld@/8LbSYs+TNYsOtB5U90G]L!.b+n#SG2D,D=C+is2o&'Yls>!@TDo.KUb;fpBfR8<sJf!h]gPADE$(RQ:Qp2+]#@P&X$P!2QIuWR6:H#XK#bAYULQ68JO'K'Nu@OfX1+K[_7j!/+liKOeF5fp<fmAJ^LQ89Q-V+^%3"C@iW68<un%+=*/I(PH<7L^67:"sGj,8G9ZR$W8O5&.nqre2/=+>tE3Z8<"-*ZOe7T7Kii9,hjG>9g'`]SaqpTZ"p'^A]mY^o]T:"Q'%"mC.s`t!)`HMk@8Z/c,nOZ>O?Hi'9^KH6uJAIoXGoMV+'*^\IUJQ.Ghhoe.&MR!Q6dU)B25lT+/Fg[Sg/79]CXf]-<ZU/Q0S)H$/"6)o#=^0]"QS2.tle=.1!"/uEJKbPcWh?J%%6K[`[=21?5`7hZKGj/Uq0Ko*?d"#b1OCTBo:6F$osEAc_O+:1G\e5q?Eg0>37hQeU\m@ZIr+Q?RG-BrS^jc(HH['(.]GbtO-&Wtl[N=ALUfhELGG,>R_=Y(97\7Rs.^%9.]:6`g:J&lMi'F@k%8fg(=3ApPg"AY!_2liW9$8"[qlBN/?KM8GuQDqC+1$Xq"3?f.l,"a%75d4N,7ELM!bM%+_cCCk/J?_tfZELF"3&BPrLBaL`a\>bkRk7KVm#L0'"d_Lg)aZ*=C8S7qVMo/&+\$4D@'BaHm4gUU6A&Be?3R%C:,:"!7`fqt8O@06l8^RuL_Q"[`;+k]]PrD;Qs$Wn4\#Yld:uo?8q))kGKE\tN0k#1k0?dPNDe"6eLV;DH\YF^:duT6;9Xt#mW<&]6j+*X+>RRrLl;U-+<gk`&eQET6kDbS14kl)6AUF+6l79_6ms66(aVSdTL<<s-AVtj;(*#CLm\Rf#XK5_64"5J+;,h1'G6-K1ae.^$:,h#+@I>?`)-dOP<]Bc@.HVe6p`.%5t":pLa!B2&J,NTOU+8RP9L$`5S/NtR*6*b6t#SC^uQ4A#pg0LM238s&;X"8!Y>AE&:ok/&2AGB!YD,c&9B6UJV[,L@OS"E6qIBt6`^NsC^`&[%5_"L0E;DY,'kf[r7kBu'K"?T<:PW=7"u=[2,sdJ%o/d]%%1(YF=C^]CggfD$6Y-.k7A<<S8*F@7@/jChTJ"D*R-"IF_!c3lhTg8,g&dDU*Mu,KGU:T7V"h2d(Pce/i)T4Wj-XfR<de*!0^KP2^&BkHH;Kcb92hl9U,-8+_EJIObq/0+u5"<bbI63H#rO5'/=S^\d/B=@O=l91W]rcS.JOQUV)e7-DQumA>2*+'?!!Z8">bT8"^Fb-:2IQOICP>=Ukp.Ul;o5!&asUnId[A/Y<XYmUBc4bllB"5Y.ap=b@h"+=+9_!!iTJ,X[Y3)$ka:2+]"mnM1G"0mPL<RNaNi-kR%W#t2%gN!';33B8`KUE^BqR1O#*S!+!0%OWf:L#<+qK+,='-b<iQJ.PLs`/'T[R(O!\,Vb]8,!pL:8VEhV8-<=!LaC!_EP4..73KN1.8r\IP'KSm[qHOR<]4M&;EOdf!kLB!nBJST$+oX^r)fpf@PcuU6o?S_!XPc*WBXff/b?7N/!;Yp5B)@)YBnBY&jhg;PekeG"kJr%QUnQ;<&95eOmQ5H-tNq:bZ(?i&Mm7`EBuZ4UaGIQ+qd/b"OKi*&L\NN,+1;[+sI^U!^Ogp-YNWr"<fIE'gWF^a\,0j+Ba;,%0AirJKR?K"@=jI+Tro5HP#gO5g_#G&\r4I@(Dc2ThN&Y&5m"jAY-%&?Ali7Nt!ClaD,Ol_SK=sb)cpA::9.)P\RXNa3#)AqkB2kN_X=t8>^d.a7OAhr9bNsNs3h]Eng6sA&D\'CWCUV^"^hk>P?mV&E`Dqf8)jmhdfQeaCE<[3H.I3\WM(9KOk&:`_"iGo=6*j*3CPj82\SZ@`-Kk'=Gf.A(mr'-C:j-)CIq:Zr`i00,%08'i.(h::4mXm4]4I9lCo8\GaY]bO)S+`bo;$M%V%-eZ,FTd'`,sRk1,MNG`@%HurH(kO.m(Q5+E.rJ)B&6#kSB^0=[]F/J@fH>%cr/c8F^4uaAIZfq\iI7m4oC#`VDGM@"a^2_>ie#)jK"3ZlUDni#Vk+m9>F8)3f-Rd$YU:H')BjtqpLf(itPq.8@Rh[;6lFSrF#B!Y8e1EUCbXqa;cHV<[&"AhGf"3/=$pAu3pLIU_IaGg">NVYt!kLo_L1SQ\.:3KqWg2"(NCY@o7M\=QRQF6PT`No'O)EaKdVHe:'h@r!)_Vu8S$40BA!0MNq+1fZ6OS87S^oPb+Q`f'5lem3LC`iDLt/F4bTC==b+',i@^7b&=r+K?:#1uldc!:54?/oY3.KT-8HM^S20ha;)j5Wka=(2%(*?eL[n3m/F(S6q%do5Fh1tI0<Tgf9p"M#VU*1=IX7k5e[r%L%1r2k!_D8sgjcr>s,#H^$%Gu#la@\A1`)o;\('r!!OtsU#&t"e"Y:.rJb*MjSFI/u(3Vp"&43.jR)Ajb'O+j>:+e)4^MN\#`=bbEopZIdo*>0okVoW:a4c2L]8F2B-6$RjaA77u$pMs3t/8%oPYiJ8gJ6^O+J_FPO5d$MddDQTU02D2GM#$VKLMIY])9:H#PRBT[ba\;Vf%]$pin1fM&.2.\-5HA7L&'JYJ<TOQp\3+CK&#33iJ*3:iiU[WTPXIf[]Ru3%=8O?mp(6rPdAm9a7@E:EjsVjo)7jJS;g&Rr'?/KDK,K<(>4Gs+4e)=1h]@kH_'K2]YLgg@Qirm=#bLiZZ:\mbslM`ZmG(qZ)(CQC52rr)c5p;*Go;L%QA./dIU:Jbt+)I($4,1'^$K:m56b>[;L[^SD)@OUpOG%ejei20(%Yt*OI)KPZn]n.>JG)1H5#FK;3XNeKNK3d<i@T7Z.(P9l-dcG.OKS,OSmq?9e)Gm11k8&"9e.,)llW_US6aC?O"OZ"B<UgBN!`bE!"t#:90hM\p\.Z`kjaiPY#5$dEjNbjB4n[(>7I8Ys>6$=%eji^)VLNcIc#U<SPg(d9s!%eGCdphbAYL[Sp4kFgIE\kA*T2`IRiTs]p8H?+)J*@aY.]Z)[Cg360PSA*M_Vr`nbHcGlp,)p]6n=m40k^M9t6'W%qHINrn+YUkso;(,9b884eLbQ9CE;G/M"6s1L%D'dm`N9B*p6$1F9PaCJG[=stY]SNTh4hfrS^bW<qsJ[0ZTOSnnm']tEMTsORa2MC1N&!rFliKu]8k[/iotm?9!WA$4dn;M*VSj$S'Vr3MfBYP=Y4JTk((9F1p1l[idSMCLjCp.::nd9\,D[#g11H6goY]@l@==f/nN.[,Q6tWO,@'lE-\W14/`%0nX,QGW@!=*b#5Wk.Y*><#QZUf;=#T%M*R2lY*08[Z3A@99*,0k5afj#alM8G&OT71b[_8/b*aZgaNPo+18?+9,)-Ys9SQ(LMATnK-HV(f.$RD;Qq$fE`F7M'ZrhJ,G>?S[^<=+tO)[7Mp7"qMAnfs^$J\&4$"h'G>2-0q&!P\_@9ILp$^_eM4-&iNBt:3iCoAcF#gY[)QjRt0m.qf6V:g\MOj)CO\9:'UN[i-"iu$$'-BT04(eet5&7UkPPDN,!WGJgf"6F^4cBPlJ3l]R(G60`9M^Cq+lW5CZ4X4P8*-@.aN";ZY\d#='&M?.7F>T]q/OaCM0p-O)bqW\sEt^QuU#<aUJ]L]n3=84ERNOUY,DR+i<?m%[NtK`id7cus9[nGGG:^UhNtHTZ,j_e;K`R+s,1Vc"W(&?+]j9u`c1+!EEe8:&BO"E4S]f_CRab?cmX&iBB[!VHk/R"9gnIRjfdS=P;W#qtS^]Qo'O:[;LCNQ(4fJe(\%"bOSEq98;jNei%t.&,Ha"UC1qh54duN'Uo;6EP[pLEkqtb:pE($*3A&CUE7RJT,)RT)o0'lLg72$1#>B3p4-R\>4k"Q=8fs.7HLi&GUb?L"k43m43[V9WJig'borhQo*X?PV$V%)8HqpfW)ZT$j%ZC_sSc+X!k2`t9Xb9$Th6^I8Zp/";hhD*lVbNcR*hifs@AB-%5-/:D%$+mm34-P[>UC)\iF*j`\Y8*&Gl5)&kAt+K<IdF5]a4/@iXYHA-]r^HS`Ri<V/;M^]!@qkZ&g>pE96j/R7<:qO^b09^f(0UX-8,W*L^6eCAZ2JN4j#hKN7<prb2b"L)Bqs;iF3HNM`<^hJf4)JC6f^$C7\6(3HIH\$eTr:Y39R]/T4bLN!0;b(&)A'TG+X2g`?,NGjO:P8_p7;Fk(jr]59VE92g0fU)uM%7#&o&h7Y[[joO$\(EK&F#Ac<3ESe'jMl.Xt*4INkYm21?4Y,(^h:/(JA,>7LbPPDIF`>P$CoG%%N+lTT@<*c='_C1$W)4GtG'*/:2"'LdhL";^V>AcAhiOrMW%W'NA^R/GR^P4=#rQbV%a'7FC9GN@e[25Sd&>O`"lQ1KQKfg@RgDdnk0BB0`%hC3NoWmP&7ok'Q6+h2dg]88cjW1]">3;Gj6M:lZB%SFMXcuj+XB/a2k)r(9Vsng^%"KWdfpNBCbTE'+VI,[j<Xe"M?3ej!b(X4-:JN1+p\b`KRaVq:5t7W=cFU02M*aFr8.%6l:3GJCM2u%AT!Ds,7<-a&th<8H]X1P1'E.J/nKsVOsulmaK&oi6^B@jT.`30\RTqrA3=S`VB_s,K2MeZju2d'Jh\9^C!X\#PG8E;p5uH_0nL5[dcROfq,13clUjhi=`DF_/?@nT"B"mSD#&=A)Ub,n_9#4;6H_H*[%A"'<,[p].RbB'!Hdb0HCB]#Y\]YnU3s+>[!1S!2*'>"q[g=EMb2#e](3Jr*'cH\9L8^h-\eW<&S;01U\C.A8B+qtZr,#d[bRr>GW.;6p:Ur"Z=@5h@:eInar@XALq/Q:.dU!>-9lcfkgeg[QR<YkP.@$ba@OS-`R<teVIMQd/(lZ#A+bgZ_0V1LYep*=HGIfFoQC,AkW'i327AqI!nn]"KI,#XS':91muYcumkAtZ:-G&';Kai?,6C3Y<j\r)YNZd9(ZmS-*Tr$2aKjoj9Ec&u&<dYK"GDkhg7*]EUeOaAJfSSp:NbPD:HF5R*R_hb^$j0?D7\5bHA1cqo,0V2ljk`AAF@-e+qBhqFQ.'\;AZlL>\oG\8N=N?T",:H0$C0;4cGQc>uh%N`!:3`K[e4-Z*LPGU+DoG7;"W]9$ZUrTWJi9Ico@ZrZ+kX,Ma=UHSrh*@#4aIa>"OZG5[V1%s+>s;:uc/*SZXC^X(cKbW'EoIFVh^gH&7$W%TaVHg^M4oCe*#g9&$NYdT1Jl+8Mb3^,d2H-^2Ae]m*a)E_o4jX^1J>I="sXTgWW7+i@a'-R@!VOJ[N6/29e!Coo=\pq*GLh68F2=HpiF6b(,FtR7\Df"5^IW2Bu?JO9'LsiMI#Ar'I_kf.f6&d%nSL/2U)=R,"bAnj.3WZsoInPJWieWWFJu"\=M6pOl33q^ZK4`_,feh=<D0/0.dl*-pl'G>'hNKa*mq.Q%WJ__r9dVd2"1RGtHP\hQ`[KgBMR]rBff(\19?O+<,%tt;\(HO2D*Gf>Z;pecl(rZ;lFF_hDSu_eqb$-`b`sb)KW+VgM@(RcFAP!;,>28k'S3N7hU^HL4k(D\oI.8<-Fbh/85!tYBA%k:d%jWO<fb==:%/L$M?tRZ#6>;]EWW(6<8$l=())*mh!ATl`0(\pKF"fnF%,s:D&^F:%c+e1l_Moqr!*$W[\c4$1'j>%PEl^DOY4kC4K%>k7]0:o15eM/cojg^ahHFQ[]Mq&'W33/34O<F[r61+*nXIIN!/:*N"D.$$</]h<0g4BR90`&9JCAri+Za_&S::M*M_cPY\#qN3Z]^g/;^&3ofg.q9Q6,ujTWGkD&[Y&OWSCZhaQi7V^o2Y*<BOn_op`eb<cmDi-J/$Q=J[`M)Zms0hJCM6kBq3(mQO+!@Yf`]EANRErr#Aou;>QS!;4SfBm6XLku[06tgWH/TlM3fY_u%&Hh-S:9:'DaTRJ$O_j=.K5>#LDjO).)/Q,Nf%dL&`$bZ5,lpI"#q,jA8AVin?J-gA<9B3bMZk4)8s%-D`s6Sbac]dih%0ga&HK6f.<Yn\,J]j;h'fqI?JG>m!^'^eQD-D&"OKl2H=s>'7ONJEc/8W%KP%RW>%IM&arG#FO;a[d1b[GW&nlrS.#^J:=XLb&#s]kODSY8EZ=O0$QrQ]NJs7jC8H;u>VYt_`;ZL-#'%dNp"j'0<'EcJ(N^1qs"9QA$-7BI_+9^ZsK#-<g$$:(e)^PN&U.I$G+toK[!"/kTLe/-YAgW&J:OC41bTtPkQQcGunhI7PL7O!K!6q#:h2IFYLJnn<Z,NLiAcsqW$PGEa6P=#S-A__ne7?gs+pq-r:nedpXCg`%TZNZg+p&<9)1\H/;gCM6b#49:PRUQs;1ei]^aRUL*O-G4Q=+Bj]E(V)>3)1[MK!R_."HYTYmH&H=oXul$j<0gb>^n(:'>NN$Uk(TeU&0rH.03]Jf0]D&P=fMN(-(-m8_^<W<3YIS[lhI\C[_"FXgB\K4#hY$UAtnPVVqta;n^3SrnuC.G@LVQGo]Kn6gK`8RPL<aY9Fo0-F$CMBpYJ&n#o`d.\m?`&WuD7$@`bAJcZFRk"e1=WlB,7P^3F9etg^VMr?F:'5/I)C/]lR:Ii^J7_2'gFt;-ntlh>j3>9QSr/++8DX^u!GE*rK`kd8+rLj8R06nCTT%;S=U(WlVWn;W'?Q@F+t(B2P,XCNf?=Cs`cdcCHpVC]O#IBT\pm/a<N39g9::[R8_HN6O!'iI8)fA^/7V0_A_)!'63&j+!(o6%Te%C<R:;=>1BAo-$mLk>(<P:+,65*<A;DuAcj3HrOj"Dh:aBP:as95"RG+97[bN&u!0$u"#n/(`6,5O=b+o?Jlfb'2,FL>4J5$mciOT5)dH(Zgj:VcLS)X^0!1HU6i9I=n->3N9(Hn'><[A#[4_MVh(4mF.0G%friZs%O5Qo5o^#77/k)dOr!1dY-+W5Bq-n9"E!fCO;8LE7i,\tI78$ZncP"@L*6.r"u!+L&52'S2D$l[6ZP:S]pBECUXBEU:E!apOh.nBens%4_:i/rTk1Qk<G(mUrGVh9"fVD)Qu,KaK["X]j&6Bo;h7l"\>!!p\Kl/a?>91An@5RC:?U+h[f3WVW:=mR:3PU(dX_pk07-U8?01=dRN14^ih#SB0fJg)(a!+BKX1-T'69/9IF7):!W#uZnMI?cMm&PJ8M7&Fdh&S2=nas^j'Hc@=_1-d:P":7%W5a_q/ON\^p$:%2*+@"]uO\?QAn+ujC[nh;<a%,R-l@89YprrbuHZ&4^It$XX;r2r_Z>6Ufka/JJ4R&iQ\,?0P)/k$"`(Tj\Fo@C!l<.o:\E:4M/q*N(:J^ofQIF`?rL;t6qX&rCeu4T1&g.ML4$V'l][$`U=fI^S5ErJ*+>n/_H)$c6n2&Z.J1!uIc0&5qS\]fij#45::"_R'J02MRKJsQnNe$MmVYWA9pL8UL9V1c%Gs6X@Dkh1nn>kX';c`Lpf;MnLH"*o?`^cXIf>$r35=K/Qqfb4K^%D69I/)rm<^6)p78,A,H0t,Lq8Br_?%+j'@i.o?s6[+U/m1EsVsds".[rY0WLE5;<pAD)W]=El-1E-0"aKT1!Ro#[$*^j1!8b7a(eL#9!8_qE8c`'D!#bmp]Lpk/!*0EA8(S#29eppl]MdG+8@Di1.59Uud<4'4GM8%+Gj4'HSp:$KJ%t$%pKmlEc"B7inD7*)5P+O%0E1"D-_Ai*O7CW*X4OM:<o.]&XcN:K/(`,BX\1:\kj5Y$4QH&i:-I_"s#^5%'<_8n%=H7sl+4?"39d"B:AX],hY>u(kPae[5IUQjF3aV'T3^>%I-Ul9qX^od^WS8ko=,H/^;d-AEbU/Y1r+XI'2ej"R(U.+"J+.k.]_&"XK0@>o]spe(Qs_;WU9^6WUVo68@BWu91T71=bG4cLX[_>C5>/jY)jQQ^HHc1Kq8erRi6f%VHV(50<(6@Qi(@&hX:"5RTtjAUkg!)<?iDFSW^^[)::=na5[%e#mL2M4!cd^KJ2Q:W&aG@N)iVTRijT:Ke>LR?Pd!sc-:X+&"I_6*LH_JejKI]`bnk]\TQ_BDnU/R4_rqZFlVB9s8%S5:-8L%CVK[%msf<,Wn[!RqlR2S?M49C(YdEbhtPLJ%pa22)4-r-52pe$P/dFWNFmfDXj$F\Ws#<F$`a#Ol0eSR149")_WNRT/c<BnVqcIl)V$sRrU"^D(KUr-Z!-(,X8[+q8qI$<n6a:iFfU4g>p\F\<aSS+\9!q.'>3LuT3$knYLHo\$Z$CK3oTJ,"Dda]ET/J<fp.0.s8>X\_3K=mQ13AT!iC`\A(A'di$tK85/6CU<RsHdV-!+hV*+Qe[D9M!.^LbN:q5Uc!r,L,LK4aBl^tqo']=TH5'#IOH.(a>e`%ZP$LG<-Fu=j$pKh)Li,lS4K$cuR<!<k#JG82[,"t59EVG=Y>^44^lUST!C8Q,PNQkNX=K0OCU7:r#Zg1ArmkT+;qDJ5nlgDCPZ.o7une5)sHcJPkTB#rNq89UQ*p3\C>jtQbpKi+5(DknQ_%j`?B(t2<2r$XpT'JSPf'YcaI"/t<O+22qXiK8-k3DjA7JC*bgElU.qS>mMI!*caQi6U;?SDB%0#&boA^p$q\9uO3hgYCg8\Fq0qrOq=ms4n,pX>0Fs7p4'D"/!Zl^uM5b!10fKt!XqfBHp1Giad+gi1:KIpCalf%kEGg/Y>X9$TKNh7iUDQ&i#YrVX(nf2o*so'.O4,(8Op50';lp^O9Gl';74Zdq5[5Q0u?`UAi!jh%#.3Hb:icWtS6[mH!qds!;qqsDth^3/&k]4\kQp66LtJ*S<8HM6m45P2)'qrt\1cT'O0c!/ejr6;ed:0\n3L!qZaps]uUmFU0;o4`DUFNP[H](#Q#:V>qnlQ0<Ef:U>LFo@/`<uukA'l2B,F2m$OY.=Q"HVV3Pm)sXo20WF!aIR&8JkOD"UXX\OXm=$O,2RS?<VKgGhA(55=nc9KlCHP^J*PjjmQ0gbe(=/AeX,)q]^D$]polh3B</5Gl5U-q]^eAEF`7-G])+&U)D461pW1)iI#PJfrc7HLcWgA+*P-XZ_j?s;aZ10WQ"5l<i]M?T.fAO0n#pM3l^t)3d'$eZG[as>s5!-Hf4A$U\*aZ"qY\:$mbrfd=a0IC\(p`9I@!1^C/fY(c(4U#o^j$eGI5+KF6Zo/D`IF;ZZ!D;]^+>f2kR_ML$7K"Da)EFj-/;@DV*^F+4Qht?]eT^qo`^L$a78-Z>5VGPtV$Xl1k-/HK8DH2]d(g^Kl0)AZ))@lD7SPnXEUn^@K7DEdc9GmA-ZHJ2=AjrLCJA]]U_f`CWGCGJ.&=+"L]<f(1!`mCR>[BkQ=cf0-$tg7J0(M-$Sg00SFJ9.jItj*M:ThNl@JT+X?bc4(;cNEDeeIC_K-QklQpSduWJS0Ln`?dN:tNt)#58`2ZTeI\3PRhPQ[QX"l8Mr?.4VI1;4MiTffo>Q;DE.!49Y$3TWe0)81iUb@2\eEleR>K(E+1s6#r41^7qqCl6[bG_JVA/0X_r6A=m/l\7"3Udfg8_^)D)i-:ktk]VjNRpHh-%uagef!Tr+=ZXcu2O_(u'9JI9DV_=L`FI$hDCdGn9ma>j,M-?oagA4$m1>"28u"is,%H\GHJo%P<Xn34DcR[TO8&*48)HZRLoiC/4H-qFsj_h)Lb0F6W%^B():fjgk#GZf9,9;t`!df]h5S6h]0E0L^CnNB2UIh/m[Gf`hm/hKUrlbiS_d\TEklkq]Q3!5,IOPPbV`2QdETlSlm$\<,1^j6-%`NZ5QLJ`A>g]5:B9PBP\3ho(_e0?Uh#[[K/A$k/p%c!9#.@@=1=dl<t4%-(gh:"`_eqTNIr<ui*eU9)c8A!X-&2Rm25R9W4>p[;Q#=S@?QU@f$t*p@]lnWSHOq+Iq#:UnHKI/hsM+$KYqH_0kJd.=`]r:\BL@p(4`lj[q'=n`L[X21SPF'U(X)\Ki4_u1rG&[o;5hN8tmn+9WMC\Q%pENTuXhuDR-OeW55X?;+DZ^1MV<:sc'4RHIY?e?CRVPsUi7mV[9Rn>hI'eaB"Q?Ib^3qq#(Vu7_C.)Fe(F54+"XSi"n?d;CMhW^8%5Hg)t(FQ\U)NU4;]]JL\YIa[A?2_QUjrZ\6?fUVE=+#J=qN=p_^>YN!rpS,K:B']PT:Ar4htlh1^>lRJ+$?$BIIQ6cf!"l2%t*]Thd:?_$eM!?i?([q^]2sbO/?MH?<+mm.QkM->]GNkFm$^S4C&gO"72=g_JU:^Gib[,E(@DoS9DBtHK0\iQZ(q$0<iNu;S=2ZF8;hoDS5Pk-XSmqh#HZPMlsbT`g;0Wq<lN-4o`VCJ%5?-pHSZO.Dg9FcT6+f_3qiZUOr#oi<B8*[<K=SX.odP&tUP.RF@oAe_fN7IHLH_0>HbCLP+Pn#h:S(/tV/<"!%.4m["<(M9e>(m\;%+Y=]`u=m,TKjR.<co)#J35>dFDXs*_j,8,CZh/[Dho-Y5_]I6eidl5ReTe-+HWTEt<5@9])^0\V<0$DA%$P>N:SG_(I7CBP[;I0"aWEqYG_2^0e4lrr[>L,H4)uZBNFLBD.8Cl.,=npV72`=QFDnoN5?hj6gf</8sD<5^)HbqgNH:GYTc)\$j!Om.+f=+71""pP[@)]*XT6Pkh07:p]\!4LrapC_lSH!ko?8"@*s*jFU.k?L[W.4+,Mt6PEgeVAMVT.NL7?9=`oUah4ZM:PWs210F/_tjl%A.q)ES\:-H>hn%8R"$Io!b4>i.Mn1H'b]jj(UN][@_WY-`aF5adou>6,4SudT$7b)M6pas0hB?FsZXbI0q$&GH3f4J,eh;j,7PTES8?'+hf@,)_XqB^?mN^IIsdgPD_(Is)?9*l^FtQj6%4cIb>1la0,:+lSJ1>s8KXR$>Z,o>SuIGhDJL.fE\>1TqqM0\r0oi:6Win"TWGMl]o6\8[k\L/mQRhG^,MPSiZd;r@R*Y/)AsB\T/n,o"O9?4Qcmn.ca@=oj0;]W.DsLhW_uD<H5_qfY@-8Mm):GKj2:*\qshX3>.Z9:->^(qH<L%He4j9gV]je.b^q9STFOnJ%ae_2cX3Hl&*-PfFCYo/bj9^iLK%>_>):*rj).A$a#Q/Zb-8k]7950k68'#Wu?B_o+]u-BBjF3JPHYmdELSjjY)P$h!seic?[#q`[e2qH^_R+@e2@(UaS4qmSg="Q!iHfbH2T<E9Gd;'4Tec]^adX#ce^/XL-D)gn!n^fqnMcI$u"QC@'o2YHKL'U>6)^EE[JYF][0&MjqZr?$#XpGGi>2^8YY'6JKa&[bN%@gj8q\,uJGA;-\9(`JI[pmB.C+,&4m*FZ>YiG^tcr2a'b&M]]IHbj[hj\];JUQ2IOloWbZR1[[q*1sb:4/`+5$hsl>+?KI\mBl!:e0E8a255TpZmTc0pjlWn\>>h\FY"LD,;JU1JrgMC#[!4BUVXF:/^9uZ75POA?Y<Mn)b?obkrKgmi[`Z%joHY@->^>-9-bb$.Wir&,iApo9`1/IQpYD"fr9/c/5Om#40>-o<^HVP'E8F<MhgO4,p](!4M_Bu1)ss"3f&MtG8KjBhJ$gU?ZZ@t76%%\HZg[\^D^XF^YMNSa9OhSF/m3P@ohs/=(LOOub'767V9Z\!\re(!pS(/R^:+f[]^OZUAoC?%='g=Nb4!Y=II6V:?h*m2UT8i,6&&0[J\uE_o@0U<hpSlTookHLpqgfbKV-T3a032N_\r6_^G3*^++3[c8#1#+!M&9[UV+FjgTS-XTp'tc?.ekYn@LKl*aaE6q);XKDq"C(2rq-&,:f&EmsX3gQX51)?_;iFg]).Jb`2?\HM^kZ$pigWo%GH)5mcK=S%j<Tq1o>0I6?(ZdJH_1nSZY)iMJaO)t.k)))fY-SPPc!lhV(jX]KuH-rBa/N)qG6r55j*8BAu:risTRr;#s17H0A+@K$";mFLp\#+6o#JGBrBG_$Z"I<&Wme\q6!0V8."WtC=e]p8s%m3s>or;<%@^n#st"pTKqqV%I"9],PaCl>6q.."V6]Z8l)$p=@EHGMVN^&%oJs'HE6ipff5iqB2?YKq)K.5ddSn8O#aZMm9E`-)*!ME^iFm9OX[r)FB!oZ7cc:JLVrgL@:Hn-AuNL&U0Mmj>o<fB$pt,SmP)_P+/.Wa6[J\`NMh_m7)$.m%K4;Xa((p5[<L]]A>ci[ZK;XhOW5'i1mBo\muppm?9N3;4.XE,Cf9h!KbjT7;>6e[Pi+bM@,1UmDDG7[D:?HVedUFp>+C(mTuWmYiK*GC+=U)BO>_PAPb([;;C`<*4QH!'gI=!8AP,^s!*K:jMD)"3druW3an&4sE<KFKnAeT-I`VnuOV@K:<e`bbPZ=InTk20nBK/ms87'UG;nd-=J%`HW9ps_ZI93SI%8K7+qJ#)lrusmYXY%]mirVNPG9n#Q0d<hu;SIID*)d%r^@]o"\c(K]bP2pW^&$^>PGpq82SBqr]PRhg^(ESZa(6cZfEbYI-=TdHf\1mmV$HDl[4?lC-K9(VTM@O4UK4p\-nS]'J4nmWnTNY?'N)7oo5B>'o^$X8/sN2&@<1`p<`b""(k-eqi/J"N.([*th#J07GY7;p"<O^.[tYpYPYMJ<?q^4`\Q6+7C"jK9WK&k3>aU+]l^eL72[#RXnW'kP0kEW%Re)<X!rko_^@fc$HSg6O`JC+!(-A8uAo_+&qY"$hoMXdc7o7:CdF(DSZ"/eiA81dMj]D=a.dKGOPH,J/\E^55e()?3*7cU[Up1+8*\kcea#jNrn82nW1hS=j9'i<BD0u_m*+C)R]=/C+'q@dUA:f,FL\d!%P!e(CjH>@Ie"J.iN;$Gg#pi0<MtVRYr4(>j@RicbJ_\H]-LZ]N#IWlfrE"YP%1-MH@jtdIhQ]ms+WENX7cJ>Wk:)DZ%TSCgV0rlHigkg4kZ[fAj@;>.a*_LOKs,q`cJrrhBJ.on.L1,l#ffLEDAgSe9T0HiHI1V`fL6q;FeYEVj)%1A-ha++3+7Q1m8g:l6=`WOjdm]_Lb$h`oP$`NRm9p3Y`[Wuh;Ho'nZ2r;,8eYC637?[qq=jTclWor5ELs8)Q'rr"C?I!bMoli-S14&8*9lTZW-V4"T4WuM#WhnHp<q,DW+=Vh/\hYY&e(c4?1)c.ou)=g8?^A(=+qVQM!B"ZH=I,O83RYMs6".be8VoKkSrkVEmDRoMl#7M:Ir59gP*t^^1^i^0)qlSK;"V8AqqnWp"+*DC8F7-<1!@=30Y^^b&SGUmLpu'qu<E`,(*\<LB;%9.(=ad%G-`a+L'Z<3B^]t#B88<OAX%SKk(9.uAlb*?Zl!?lh`ubl-/BaEC9L?#ial9`en$6"dPd)`b7'GLG7d56nQl3`DJ+qm=C[IGbSpm?cZ!Y;0J,8-(@q\bL5W'h*BW<H`nkdp_XUd8l%j+dZ/a"d6i4S^f?5=JG<MtR!$B],*=Jfh2cL)3-.SJ#oohEiZ&%a4'GQ56eTJ)052IZ'cYC7#_5Orqg#.soKp;d&[>^P5MGD*3_hg%C:SDNe7IA>5VQD#@o5W]-3ohSTHa.ND/UWo-TGP`Tdr'Q\aO/`.Fpj7#R92Qu*5V.GF#ie]6qU;VC.;&U4nIK)?jMU[cG_CLMHcm_,o_/"B%q[.tU-VB#Nqq["I[^NN'ma\ec>.B4VMJ%OQppjIX5JkQU,tqs3(_&E8]oE[?[;S"f89X6NF]?&V=X`bhjs5*!-h"*R;rAEcYk[ZI=pB@`=Vd5=!e8$G'LL*HHp-/ij\stULqQ`Sk(`^4sMp^'9u.Q1q0%hnAK2DoT>j>ZnnV.>[FZ6q,:(u^Rb,j#o$KCe/T2?%?&lfRp#?nJgKP-MrJI_p=S$ql)KE*lKd\[2tRX]F(%niF=)[koc6+_IHTr\FS<!gM;iW%(sMeNb^DKlUj\n;"prr<IoB6\'`p1&#ZAS5`Qh"37e--,Cl>TL9CcEO,9gR8PH7VYNSLYF+24eHi42-VF5PYl9X/qc?WF\Z7B*uD]-G5n1EnIPkD+I\ar12iZ*)>m\>)Q%[16h/*%%cc0+omI-O%:+iJ2Kg^V4+Ek:a4:?MX"r?U#W\oCX^0GK?E1?ue+_=']O4_P$<*.[YaOs6.UQ(_S_VRSTg-!N)8HHOfJqYG+L_8sH$/%F;b/nWd1f)t-rD?<dHjhg`.^c-m3VjX^B0roNuQ\r*>H/QKJ"l+DS\Ut[('3s!"&kQF-uLO<fs2\Z^/J!*mqnc;MFl`)1(!2BY/YG<)gecWBVMX-jVr1TX)arWX)S3/,:8\f+?Yu]@l3FulnUVpRgdk`Yr!cM`l9=!/%$CLR%NJgOjS+,MuKD:Wh]PuTsagm"R@9'Cal6UsY;h!0)7Y>_.!.O]d0>'pZ]^"H_oAUXE"ueSo0d].Z\@?A7?O?kA=Mi``/)ENiX[Xmp;,XG=):hs&D,/@X$h[038g9qaHhXt2^a"sAb.tt<P:Xt$51rO.hNSAFC)^lq$f[#bHYjtcgHq_\!tLM'<?oB6cOmB(YfAU;-k*`USCkZ%2c(2uR0$0po*5+l02po;N<qb2l-"lr$gHT4Hd*G&k2.V<,&G[G$*&j'Z@"-!`a8Cm`I_2iUeA/!'>W"%p\j.V0EeLTJ<hA4A+)gu#XHmWOr(pa1*Zukm(V/!H\&\tK&PQSc@(<XnGUD@Ru/tq%-A)p,kj;"?>iT'iDQ!U!3_1aJ3Cj:SmO)o,RG);Rb]O":-b3\]$X1Q?9j\_KE*4q/Q&ClJ4-3dd053Q'*,J=_AGQAd%/)o#uCb%j@kuu'V&$R!&9>OUmbpDDHqVUolp;fmsaPq,aWjpIEFd&p<WNK5CEL]=[/NbltGp2am`(j5C3=p@:ST8oVGb:n>#0:+)\[hVV<U3hS9'6.sh5\2dZ=@MiU(%lhA0ld.@I?.7]6m-V.Vo+_[kgkrC*kO'MLi(N9?Qid3larFYe0Zb35ZnLK_dB)p$[1W/[/[Hd>KhL#%!hnANWp\_2_Y@L)a"A\gf"kP^*HLeJYa4K20?Aj<Gk[nFLKYqDB,3"Nd5\2IWaZock)j;4Z\>a`)RRE.[DnQ%PchP@1s3()/6+=:,,Trff_#AO2\Y_XE6-uL1,D_RM9Zkq0$'[96!ZhjRcq)1%&:fok!&?qD0rGHM=BQO%4p$Nh>Pug3.F_%&(h-g'+;.(/!0\3m5+U+0&.npX'At6r&rsO<hccnG/RJgqL-<rIWGP*f&fk8Zp>#Sa-W:,VrVkla"TmWT9>A*V"RqQ>qg*g+a2;L2<T!57Z7fEWq77`h>cRI1fAX!?<?lFh$#DVQO;^1S^@:^F_Wm',jKDPCPTq'Yn%=R$Hk[Ir;FgYnYl4+U]dFnNl(=$,ZSG9WJ,&,.s*XU*&&[^?-sH<2oDeUFUAM-?m$4&Gq<lSC\3@R;qSgKI\N-;>Cq<R`qSH=VcqhDRc1fE=."f!3:&F(D;3b[1W[P)5,!c&rV&tp=TD\QE9BQ3Eig3GeT_Z=R+6`CR?U*-uGpQ(JXbIm]_*V;qYh)t6H2\s%p.!q4\,BOtR9K&"=E67WjGP4u1HU'bk?U*GQiOXb^brA5n>`cL)$o/g=59iHT$UKh[bT]^3VuX2s7]/Ah`8D*JQ2_l*dopG]=4[3lP,cBG/&+H.`B.BfDg-6WFiomh-Em--X`E>IhnYsZ<@X)%cFB5;r`"P%8j%*^Mr5:ESg*K*ItEAq/#Cs1Mmq0<S<q7f]V?lYA3hdDWH:q7(`'1O'cPfe<9k#O.V4J?+T%X\t>!Io:"+FcTLsmMm'nhiHHd.nD"uWG.T0:o\3I>m8'qM/n4#,i\`[-n=rJ8BES8e<U5+#H?WI]'GW1cJ(Jb`p<N.?GI,tu,]MKUYmdf7&$M+:DP-iNGMSCf%7V37p:jD<i?,9'k+O3=p(./ubY-ABCL2m>^N5-N9<G14nakbHO6+qPK7dE?[aa,^X:-eQP1/s(W+MqkXN/*4r<juS[rB?GTO/SDdA,6bRm-Z=MmKVQqW5h1HF)3j^HDI'q>G)tWGHF2cFKb:SaW'!fnZ34ErZ"irmh&@NQulrD?$ZneQIB=]_PgHkE8b]luWd9(/M00hL*?6\S%L<TC\=l++3dM2r]=7q!R<:_Z/;phMKd0il:Y<4qGPo],^a`eUZel9!I`DZP$bs,CY^:Y5co<CoeCV.R'L"f3ZUJr8.<8?IQ;3/j/dR(&+D-SCCnpe#f\>cVJiYYufiXgY6(bFQ*i2]hC*69s5U\bK;/?.E<6LO*aX2^Al&e%h<Q@YIjH;IeUa`_o("6jJ-?g219m-GpFC.i"LEl=\&E(YEr"t6'/D[*e3[?f+h>hI^6$<dccHQg\!Mdnokn^'jl=JYMhWmZ2VYer3j$upku=JmN7t2`W_s/foN5K<MmBnj.B];?Z\k"J8]c'*Qn]Bm(ou8T^d2#NU-7GP^;[MAaRgE+0,86\%(*C?J6p@g9b@i^[1=@1aXs8;H!4gZ"c\,n]@;96q1,*O>c))Bo"hAYmH*5BM>IT:oe*.PN(l\RTf&tPQW[^-3Q^<[ebY8[2qH0ElZiT?F;uZc#YM!rEmC!&E%Kl[dPa4/,jp+MuBGB1t@;KDl&G)eJLVfXQ!5\XK,"fX`h%LF`>B/Dj=u(HSq^<s3g9c<dq'Xntt.VHZ%WlJ"m9oIN^@$f2LEW9<-5?d66,9RMu2m!UqAOK,[U_BH(f"9-l8)r6PoTGhXS0Cb'cK:uZ2+MC#@.H9flnP*A%Xq_L;ZK9?A)'6]Hu8="k'PdbfV8R:":K"9qK(o5*T)*>W3SSqLNi-a"D=>BlOKK6l=0Ukg2>LX%:9[H@2.VuP%eA?%6,qA7hFNb#/hb$tr02hi'?[5,tRLA[GMt!V2=Jo8lY^DiaTQ5f$N06()OT^*-^(_",r#UP<!Z$H?\R_5KG_7H.(=UWA&VYj[,WIV(;S@\C*+>?k2GY1#UkusOPG%RobX`[]:0<W6A-=P99d3]`Q5nkC>73]_#s/I/-aq[OW@5kCMJMpL!GI.q]R8;t^"k]f^uF2)&o,skBQCW#^UKrp`k=lb/tCI=b`"972ejCDiK_!T#O8&b4XVj5FK\C+Z.7W`l*B<eU:reXOUKar&RY*I(Kjug^.AS2M?"e;1.O_<,",SW$WiTX9%NsFqHrpA,lO@<pXsl5)btpo(a"YDc34&5BY1_C$9KVWD<=Tr'2M5d3V05dWLp]d*b_AEag[.!<CIATjaOOW;e<!#O&+6Ak(T9WX',bIm)`(?=F9G]f&MH'DSE.'GX8W$j&MFPep4Od=itTFqY_&CI;@[+V&N(hMK^F+q?sGSFQEoN1Au7"-"l)Aj/A,7bbbqj3e@/[]XIg_r&:Ts:9!3?.t>8`FHp0:F[palOnX<Ed]K(:F61\@Kk4S&P:&O8*962u'&4$'J`3mREcn"=<4K%jV][U0HgB_@D`I3rVQ2>+`lH)jDHbVD\n`gF/8$YLke'n"/1uqfbkq8nFUm6TYS;Msa^kF3e(:R`]`e`#;iUjlcO58%@WJ5LI;Q!#oq#\d/p+/;_+(`SME,)3f@_[tMK3?u13NE\+D#MaF#?!,asUopA)jWS2@oF3Kl5&6hu1%H-?k@Pp\Jt'_G;c`rUn[L4tK0Cmas%>F-l[,(<;@7^Z0@H(XkG>_Y5RMDHkT`@)I'U#N,G03ifab]B_+pk&Z"K[.YFGKlp2)q/#tc4/](>Q(RE7^]!K/Hf$jVb9nsdaYbI?^%Ae;)\[\_-f4ChZ^3S"I)1f']H2M"^GB#0X/jG$2slTc)Q,c]f"LV,R>jR\%PKtpo:8t?<;6?t\(ob@f+M+AIt,^u&)R-O-b9$9G`pL2jb%kas6rB''J*c*Gl\HXX%@+]o-#kF:ML1'G$Y0=>>eK<S2)!Sk'KW'X/(L/`T`60a?<S-R^B1RJ2?r')K:+>!#DG%^N.29E@`JfEOQ`RD*"JBZJY(]eLWk]RPQ5X(+)%m2q2-hCk1rd]E.pJ%=f85!cA8Fc8__Nhi>!&#<;+[Dm(a"fbB[Qs*XHZjBOL_i57dV-F'TKX!FIpncH>"rhDE#M[=HMFh[J);m*1Pf-R&<p=0s<lEdC[?MXMOm9fm[cPF,KpeMf7FB5?lfrs9KmbI$cY1Q2#Y5<,&hK%o]5VqB4p\R%dl_Tkl0BY7=$`n7k!VSB0%G'5oUD%Rgg.N]XO?EPM=Z+YMHUZ@+/K<m"+8`2i<27L&qA`kul-1FHXLii9PMbr_dA0'^[plB](5&5q/be-%OF,j'YCEO5s5fbP=9$5$,mA'hq8@^'CEL=e`OGmCo,G.b3WA69#C<3G3G[G`=2+\*LQr/Fl1U-'mo9>MPEN0FV"j/%XZu'UZnZt)CCr9"]m"S]l;Ha*UgRQM5@/ZtHj=#,->^0MRckHrI2DtNp&YN!4oFuG)Y)4FC:86kTi9Y@I83rCV3Ke$e>2j^?F*4s?`;\oi^Y<`hKa;EWl=dC&sXWTrMSW7Fh@H6(ZT!u(Un/+gq.2Yh-SS6?O@#$#?MB066rA=3mdpL%U]2.8:;Q6]a=U@c3/C:f,l9t4o#?^c$EQuXsUCbWrub_<.GV:roLcL8::FjC]=#$QXA'mh`bD23.1R,(Rg$4\+YAk?@=j3EdbKEc,EC9TDt>q59/dCN<OTlqu#nXgYM*GN)2(s^O>ufSPOmiYcqDs7rV+#-c!KN1Wg*snC)[Xm(/q7d$@5U?iAAdQd:;i<$Brmm@.G?N1:*cTh'.gqLUbr@V!g"X2mSSnS:^VkJ#\%!R<b_NX,Uq2%mX(M+gt]m,5@siJpA/3*;<SOt0U;oT%dP8]1F,o9S]K^>b,r^AdcsAf&c!``$22s6,oT?466cGCOhe-0;$.IoqFa5Pp>UH7o'T`Fb/qIMM8JDq<^^?bR>s:TVZdQLjSlMNtYXGa:RA[=34&^%HF2TQ?X/oP6YcGAhH16NCbf3(O&%1=8Q&llnD]!5+rN*?TY!g$hDgEU`;TRA]"\eY2L@s%XdWi-;!_kG2^\3G!?)e-L1C\<,2k+[ATCI?FS!Z=fu1>9Uf7d*YB1jiHQLQj`E.rdmeT+orP6d?s6@eUY1%bK?<8Ci:g]:=u;ok;G=WM%RlMp\\BrYe"!+[-VdcnqhA,,NVEKO2]A_`h^"GqE38]3qnCkDlj_WGd;Y[^VUhB7>>a\cXk^pSmne5rh2k?CeQmu-TRk=[)quaB?)$FCdd=RGQ%.1O"8Pf(Z'*oom:f6FaEkT=)KSBQ"k8ojTHCM$"(EN^K]H(X:KR8UVa$(^:F'Q%j,S:9O/,-]h[=jY?i-:"!>%T.,`og"TeB0gHJ;j0bUofX:g&-PXHnPZ9&>A'+(nnHN+:ihV'dA.47+JZBhV2l1_LFW3e;RmetaAa4cd.dmDjg62,Jp;Z+I]C$4:Cb*T$/K/%lQ6]XBI\Q:ukm!mpJda^.,m#A]&l,,_JPb.WcC&0/U@fH)fnAK\RrcRmLY@#[JB?U6mToVeJ^AmR5:3O2Cf8";@lE7bN=7LTLiO)MOeR.lpafYR(;1<`8/Zug*X5#GoOC0RlR:QE#KJo/T1nHJHcrK\=#%]i6SD$l_7fqK6br,@*2oL;<&mEYTOrReC?Ehg"&AlWo+Xgf9`fACi?^l@]G#o=FrV&_QqbOEVoBE%e6Z\<XkM;J+[^%@,UJe_uQ#dj6[.k$@pMfHh/afb<>rRO'H[;+k+mN`[*qNnN-:JsIR%f6:P<hI--q]_S&5">a:m)q(5S,(E&Hj8F1(ciDL4Df[8OD#"OdQf7&0irfJhf]MU'O@H63s;:)%)Qd5S6+?IrY3mVf,`'SH(m#>o`WYY@PUqnMtSo\Dsu`F8oA:hp8(=oM#80Q>^grY?^YD<S)V$h_\[VDlS&W6C[B)\bVK<j-:p?\_M+Gc<T'/ht2DH-[rgCSS$2@NnPd7/!t%O56!)mnSqKnnnKNQ@'rp[jCJ%?A+B]jPKB&\LSajfc5#@i+b'50+.77)kk=U#NuWk/q[RL.^IR]f3h_I]Er"bNY0Fr#\'TD.NJ%b++"S66mV1#g)cF4"MGLrM6Yri2ZMqWa:FANdG33&jbaP;"rQju9I,.f'l^kjU=-Ug2f\.["FOAG6fs`TH^[@Ghi_M088bDF`emu_XaFEua\+j&XpN0SametK1'`]&Ybh#"(?13/5pK+n)#)iNNcFa27rS`HIHN(+G%-Xti+_dQpjds-_mF*;@G'u+!U1&sjgE#m@Nh<"%\L8*FXfdh?A%%8Ql5mLbdo3Y`8&%eppV(oHh%=L\3N%(JmiD,f?Z\#!DO:2%f1V-W$d'-J(F=MjD<IJ8j;q&Zp",nVr:qQ=<KL7Zqj#u_DH/<OMt^!miKmRr%[!n*ECkV!>A:fDiD;0LmjMPI^XYDHmF9^cV,97D2e#9.U0ThCk2Y6?h"F:>9n,.eG`(%<RT8'!'R+Z1U7m&hmt^$4$#`Lq;2--;n37@4ds(21Im3h^\_]2nQfFY%Cu_-,XX!(lF05:Q6f&K8V(E;\4I.J/)bR-P*rRKbk!#D=L?d*l#sVF\We9,-r<d_p"#p)3:??-#,$=^.;7RStfDbB2h<Bff4eL$uoqRZ\/)P^IY/gO(XBg*ipG\^hoBds?i!8+*C-:p)NRb\Vlf7RU^:>T%^c.*sXo49&:PFl&I,36^@QSKI&fTOQ5?nWlqjVq;(@KC0Qkg(ulB?/cj%oLDKsRCCm(N>@Mf8RO.ol$t(lQY]LS#Y/WBGf%J6sH"NYN.`i1a2$E-,WtLD)omUAuHnZ?a";X1&E(G<1l585Kbfk6Uhq8]?(i[3sGor<m\TCt3TtFi3oEs&Y`<:Y!*Pl$0$L2a&3t9&,p(Q2p%<D%,Sk;m\?Lc0foV6i[*t^WS'me!#!)qW)"u\Uir*9$O%G"rkt?]t0kS?Gd083tL4lE0!6-%`p,KG/L[_OosdN)k@0tiKZ,Bg%n<`oRc_Y7$N@3X(TlkC`)HN4G<(+Y&Js`fB&]oqmE8@C&Ws2d:^,*>0K.__llW^\X2ZTFK+@0='9q`^2R[omf#))5P%YG,A7"1mcqFTJ+q3trV^)d$XWi/K,<-GfQjGHFF38)msN$2s1oMVf,"2=/PTr1!a*18`VW0R@^0/fI3Z3ghW<ScZq%br/8icKnt*ZV8hq-FSG2gtp>+YI_lVnib55%k[AKK.np;:Zp<#5<j#8hWB0!M;F)RKS-$dOU^qD<cO$D[;51b9!h52"\YBMY5UJAQLQff?)r"e2@rR('AbU?5+W``qri9aODQWMbPpt]4?k-ZGOK]5,GNS=7=W[iO:nst1Uhsc&hrgm.,cS,SV;gn/k>J2h6rj9ftQi#`^XL_$QRcd'!,B#ePdr!klhaOQET")pMPYXMii1h6_\E3[Z@sD*NDZ,k9rqOTMV!dp#^3bYM^qV5f9+U^11CcT??]3sO(r@$E^&RC/s%5oSI!Y*>mo2Yr+4p3'+0)J)Blp)s4u_D+GL,V[lY`o?koWTG-N:=-rm[i1]/QAVre[H:SKOF#dt&m.Y#-_1gn"KEC"%a3eGZ(=\Kjd":NY^+qPIGX(?J3(>eIs4>l%s/;u#)Xc!g88++CL+l_OCLW8,Be_g9ARO2X^*')V(3,=?UPh'fT;:CI83gON8u7$.J>[J,.p!J<tZTdpJ4p>;&6apYS_J*c7,OfTmTc'&Na3,4A3h']lUo!eT0)10-&hgaYa$\&Gba&gUb-2mJiT79#AT'H:9^VZ/>n(5-1*3=0uZeQ]g]Q6C9=UTR&ae>?>=fm.#J)_t"h-,VuTrmGS'e9ZmG[F#5X%KQXroVO.[\pUaom6V-FcZ648=tD3M:CX5k=8dr-_GXJT5V?Ne;!cLND24$??\hZMl"<0ms'"h]Q/na3?!.oUg^+T=V!:.>s4B59$=lQ\%.0o]"@gZ#2n848#i903'R!X,]bX,r443b)_u!EqDs\_5A9;D.M[p'4=A`LR&NFsE@u5?\aF#hpLnc19D7(P@>"D3N%`jT+50U&eP/g897GUYr6_[7ZT'WRC/ZbGLe&_I>o!SY$`tb>ij@WQain4g.*Ag42lTdhLBhdq&sKr)_T569(E^=tFB:?Q-5W)6e*`(aOpdRH9<'b.V8a(XEd<_sZOkaU'G?CB<G/NqN]fgEM8OAXI[V!WYm3'bROhN4j#FTdQ/^@+6CF,fp*#8tO8=1a)1sRXX_a+-ab3COCaHQ!:NLGkY$"JU-FK(m7_5@16I:^W-5T1>oc&3r2<:Y]-T5nqE5Di=J'\f;o^:"5qj`.WCi#sYT=hJ2M)XV?NRcU(>Nuh%n:\0F'E!q@Mbj+LF%Z/op6#%um^%8<G"lm,q%nB)/V\IV,Ln*Z>k&JJ7f[@ins*%L^G]5l3_i,CL;pH+[/Z^V\Bj)>F!m"<GPfXcj6AbaEl$45VTX\-V;'U7Cmh`?fJTY0\VU;#$TiA*RpUHsdpIPT8$u>66tHpmBa`(F&HG&oS?oNT?Ls2]pZk`<$pEFiE75inr9ghXa(HCSRVbPT9"2CJGK@GQ\CO=dJSq\u;N8Ru9$2H;&]![fii+R@o@"W4''""BU]5j&51TFGpP*$UeV@7EDon<3654qH^R")e]k=2B1P&cDZ?<8h`cW,6X'-T_pRg<6"rWY,c.)%6$On.Y<'jO?b^?88]j5\k[hT-kS)4q/88l'saH4nd`;\pmNUob(:Mu*:DXH^,4hboAahb#]0-63_rn/Ud`-t3t6+f/Md5[0"hD(jq#/TYTZ@1eue\_OZl8E3-`'L"(0@`Sd]+at!k5BLHba`i0,a-?`&Y@`^:lRbJSUeJ5PeC/\SGu8IRiOB^k%N&u[f2`VErP9(j"Z1u5=t%>j^.h,6rB_l0T[n9HTT<RKC37+s%KjfABE:8"c#=uYB8Wg)6mr_D2uH^gB@GaPc7k]W`f=UAA$a)g>C5&YW?a?Ua`lsPCo?fFRZRH*h;;a<>qBGN&6;(.UJ\J+NoWDOMAa9g\Bc;QAkRbVW]RtQ`IZ'hmNH;p83P[)`T,f97>]R\bQZib%X%$Fq,kn!C_nbI;I&@,C1nR)/>QgHREBcos,b>HfbeVh/ZE>*\0_Pm2WHFT%+/q\P7f]'(QJtkpKJ$R1+/"-/1SaC^i:FdjS&lZ@_lFAC%ggYIjARDot8nLP4V>$Ar8)Nq*XiWbMsd.>r,*GOA\J4IQ)j]"]u2Hm:*$HLTVa3R`<i(AIg=g,nf;XbM=3doC&%"Rd0RSi&=E@[C-;gk$Z!Qt"C2U)q.Ua:YP"Q6$Hn<b8DBDjE3J/Rt%OajuHrB;k"QGf98"$P.)64'M"ECtuaQ`.lPhl]u_cEH%;I#hkeRG%8Q;ltWMppaXBd4Ij3S2eDF;3RZa>D%U9;jjKhgIOeoQZKTP6V@kh@"C>F/F6BU9]H>*O4aj:OYKFbiRW0aCj9><c-7G%^]A0fsO1,Y&I&eC8)A$77[rp_gHI&%O0=i0:&)M-*ml4n*Th1D:>Z;bFY[[O0o53R`iAk?7@JlDO5MG3m.N_6f7Zs`W)q<+PF\;O0US$G??q(f@,(-W-D7`G4NR:GT?dX.)knet6P$B;j)n+RA<`;6;pWLD)\[V1MC=0*OCTCa^Z$rDu,$>:6A]WN]Z)Wh(DL,&f.F1QD9.'-Ml1m;ZG45GDS_,qRV])P>jqiOE^O1EK>Jlun4Z8T%C7FF@G#(3BV$#DE7"6'5G.P&!J80*hpJ\pjK7NihZM$sF;d>7tma3sK^UY>4(iQ97D2rn28H<oFJ7YoX7?W(=Yh+X@>\8A&BO0ZV*J\J$p">s$jJ`5Gn<7)k'q@)#m'iTL276PjI@c]4i.)WH,PZ5a'6&r\ZRB-e:OXsn'R3,]V-VF@;'a]p:&HVRNQ-!_5IB/4DtqYWm_uN5)f@ZEZJ-`he8IUjWQkHk@8%WTea9I>c((TchCu\J]C""TBr_L%K"+4kg3gLg_/=_re&'JQ/M%uFd@5il'SI>uEZ[3t:\9Fo)ee.g8L?[fKg?=p9a#t$D5YtE]Y]"_2J[2=S,%+=qK<Ngr.<l%M^<m(5KMUQ0>-WS^gR*S;L5aoR2M-A^/iD,&?Y"PY4DuGS*ooC:b(obP&3C`Rt?E.PoIlKWGepoHoA3:k0j'poGatK5J5?KXZ9N.qsk.20<HlUR+4&7C,1<X%#U38#<snkh/,Y:]RJ1$q,;4rkV:#dXI<(B(B5/%+&VRS1qHuZdge=6dSSf+q5n6fU6)hY,i&#`b<>j=FN-0uL\k>#R/oKWQPOg_?(AU?^GToqDYC"BY)_B&5EOfRhLE^83Hb+15rHorWQs53jLeC)[4/V.F00#loX9-"C,]K'pmrf=LRZJ-ln-M-m@g,:n%RH4rgX<AEQANZ;_1/,:u'tn4RcW"5-L-f^4&_5"r>]o,:d-3-XIh@XdY08(ZT7,N,tQ5=D4+r7=4?Yb)"P;F+.cQn49Hmr2ae?R]$,`]g$1kiA#h)^C)X\/!f/7cEI*t.]7UmpOAEor;I>$q!^\\URe&\k.aFsriUV?F3"28$LCc]h(c'T'>@@7Vi0DQDq,lZ0td.qVj2JfMio.Fj4,.FPEX_?#G+/kDe4HW[4gc\(!.JNYT2^&*3\*u9IF=6`6mOeJ5F*p,>JmK"SUFhK^+k9YfCmbfFlBM:d`%bqo*f^34eQ&dDSUc\+"q3$6ir/<CEA.=;=\W0oYDSDDI(1"86:Q'4E4/&bdkohuW.CJ!i8`=P3qoET5q\:+`e`G)-oUb7e&H==P-XgsanibH-abQ^U.]YfiFo=d3Tj7YrJKH^U;S+["HkpN7f=o6,rJ&L!kjE]@j?8@W_j*Y:gVNY$:%)KBu+j$7VI$J#]`&hg]K6Bbr90ZqnKZ;=ZfS^f-$SMj;hE.>E]]RkaJ[rtC7$3YTI#sD-pPQCIkB1+(3F6c\&Ea%$2$ta[EQ3]ICMGoU8UdYZ%!phiZ\to!_6'Hti!g*h=JQNm?(Wi(,Ukd=XqiJmp@'[F,9S_fl/<Pk?=5`s6$NH'g8rjtHg\#%/,9rfl(H8:r*BSj2T?h=uefXHOGj2BI[W_uA+0!G(DsO)L=o*NHU>ih1JP21eKfiGMESE#";P#6gX<dPq2YW?5IkK74(O$A$Z#A+Z_0X+j<ZapXNtA_;G25r?GDjs2^k"5/3AE8hhOa5:Y("g^@B*&i?tSM;G<Mm7/EaU\S$j@#elP[tf(s`ABU9f/4d@g(\=e,Jf#=FP<k+H$DIidr<c;W8/GpePh.Omu?abcHd[Qm+Z-S$]ROD83I!i.O']YLCLZ[#XS%YBWNnVOL/H+l*f&Y`Q3-XEUKr6h%6?6#*MkcAlrt+G:o?/E.bmTRlW.$rqB\(OXgF2oW%GUkEo"?pZ>0Mc>@Wqrl"6Puk%*"d=1>DuGYthIth]KIDCq@Yb2/`BN,WkpZ"h'_GBc:R/K9XooiFdj/N9H)ObOb"*#U>V2KCR7WleY/287.eVEi[)eaRCRLp,h#&Ihj^-='tcQp=trE(Rm$RP1^Mf*Qi.emPK%<:q)!*hEC1"n&XH#GD3[#9%ad]ceEWTXn'U`9.sL/0KN_!^Xb(5gA7!1j4$86?GC?sU=:P'gV#&*%rIDd[^a(TIB'_YHea,1(4MI-+[]K)2d<I=fGZZSq=XhVA&V2*[n?D]gs9fK]JN2^hS?k:r8WgOc2Ip`XAWq5pS5:VD:@B2R6/coYhu]=h"7M1E`]%IVfp.R19$0:[\#DFV;$dDPll<p/+uh5pd__PDTOQaP4>m6,PL469t=&gF2`/is!5n:(n4TSR5VOm,B>ul9Tl3FUUi41SJZN&=>Irm.&JQkJSDjO#5HHf;;Uu1q%ipuB&5<,4;uacVp`D(IH%&sj@stoYr1V.gGbJ>i;U?oIs^,MKKEAkm`td^F3_b$D-?XbNB^(m'q.aqD,P0.&0HLU=EnE@20X.6>:nTNgWh7aQ0aZC=3d)#Vfegfe+5Z`bgAXl8VbV&"3S'ZOWCdaohY&4G/6BNmZ1,RL&=Ts$oT*I<rRlOeAV*l0P9(RlP6mF2;R\CFUe:]Q,>M_D-YiUhf/Jkh#l9*'-9`rh<5fJpX,qAH8K_mH;]/M]<*l%Pq12IB:n:b)S?#ee1nX@k;E3be86"W6FsnManAuWN4/"kd<9659-\Y(DZUH(=$$4JVc?`5e33')2oU>Z6VcgF8Y26Ir]uEZDJj<*:%I=l\n=t"]'cCN:5ic^MlU^MrTrA6qY6.:IaAphmY&8q*0#[IP'\cnR'i(c%;E<I_i(#VkhFb>VS[$8U<8/GlQsRn?Z(fm(C0j"?s5D>mQB)ks%=:1PW5ui*u^6Rl[=M"L5kI6)Htk(9jR3ZSMSBXfc#7;F#i(/LZ0-4Pk%b0VG<LBM^tZ#Rk\blIcc;tlOETQB;Re>qR"ON;^YAe:MZN7_3F352:^G4Y4UT9ef,*fo3T`>+?^?dlZ1R)\sqeoBMP,B+X6K^fKIbQ[>8^RJY7ZedjLXGK6+>$6unGh5_=&RP/*=c&IdN(oEK;5,_puUI-Q-hG4[n[cU;dN,-Bp.IHeMU8plX!E+a/Ghb\VNnJaC3)788Zm3eOb!G'lB2IH5;'H(4`eTO(D+41@\]>i7jnWJiACFZ!A^"0#H6_k.hU[l,aJOfcJ)('mqj89-C^i_KTF$2n"J""0cbRb60>ne@60Qu>E+%ZJ3H+U"hoDDsBp)W&TI@i`hhP$si$M[8CQ/C9^H1-b*7Pb(/:Fqlt2)?FK!a!_?Nbce?:&2l@Yhnm+WK\3e29VDu):M(md%1&<f]8tt'MHT\4`e7(gcP(HU*NXMPOR1>g'#c8b]Tfh\>\;8NH0J<=*h$U1pq,InA=(peEV>a[nElA6LH^DT1sEldGlVu==Hk$An$:&cR*gHA+-_":!&0nUGtVipub`Gm%%2>(W?&c>'Ju7/`ipmpH;a]Y]ll1qj5!R<ZF$3kGDM@R;P*dNcI7Ua2\b6Lm\Q(g'+bE62g]K8&Kb-ptsrq?D#E5Y*-]>4d(hO^k<*.Ic%E:I<rf#FcD+B>K0[AGHT8mRrefKf?"lVe2VS3cW!5lP1aOTl#\_9G\T"W1n?7;_;Za2klsb4GA16cmj9K,?qt*!$L1Zj]H^qL9[Nr/+@MTj,]j\D[.PgS+snt*J2%WA2GQHNVo%fXB@ZAu[aJ`7HbF4/]^WPQm`O(;/r?(PlA'YC2CdgZgYL+nc%@ssD:tuW`5\*Fhuj!I2Jh(mM"pBW%6*8k\qsRRr\SrV)'ad7p\oo\\>$g8QO;>#n<W?`Q?tif*o]QCj0[$)M/>!Q\9l]S$T;Tg+us4P4K-9rrY1f9=?;!G/5;P@8X!I#[d!MR[<<Imr^ic-nq`%<bI<]EpOjhgM_,f-81ZT0Z*,E"kG,nqO@l55j7^uM0'(gSBS4C:8D*pngJ%UlLA\#hO4b_'a%*r.F?sC5e6Q#)HVP:Lc!/)SBG\]Z:2bqFE`(o&g(EJ5)@l9uQ]frIrCT/S\#E$S>FX?;#?JjkN8tK%:1g;7DVm<,.fO'HpSSNCfN;j3*;H*oS9NRV=?0dlZT\2'S^+^UGZWX7G43l@PJUcH1T0R%;D^tZ5n\mZ)_XDDa[Pag%=H%dU;nV;/+JnEqHJ8J@UP6uW(LKIa5HcGL?T5dHk1)$akU@^O4j(D)FW;pl*_Pm/!hU1l?B0Wg7fOUrn^63g#cR]HJr[QBb8&r]oL.iR5ss(fXjKk3iR#[PG@A+)V8POeS'VWKbgjFDEBEkp+H)W+ckbR(g?a_NBXl5DJ+4GQ7Y+0Ro,2A$p(+ekU]N=S`Z?XI66VQQoif#aa&aC;[R[+e$BD-jn=RUH27\GbjVq;Q;A'V42G3'2G8W%cRc\i:)m^jBkYgHGj?4P-Mj39:'ZE2]KQV/?[VX6K-S!_P]U2MEKa(dm9fD[QD!;lf>J.U7FgO<`D(I1ddA/<`tDT:cGhf]!a&%+[>t)-GAIZEXRB3645m8Ie\D%Pp`iQuIa1dqCcJg/#)<^`55W,g2"oX-.=PEHP:Ra'hr5TEg=i$keDmEr^pS7_rp7GJZW`9)p^2BEp=K2%rl8*4k'm<hZ_'F107N&YD[A)J54qQogY[J+rV3kJ^1$\Y2mk/Ue_dD0S)!>k/JXnB??12S8,e8:BCnXIO>,U`F2EKfqXohG%mT.CJZ3!*s*4GH]AB+>WccTAGDS5'g,s)G:?glqKZ]h;cFEGm>:qKLG5ge#-[U5]m^:R]+1p^T#G*s@YnufoHes/CQojchn+cCU\@L^TfW[.jITet>iVi$T4e.IFhs^:9_VOqr^?=I9ms=,ML]7/>@k40'Y.q8,s3a>sG=4AHP]'m_]$Bk^5/-j'kBli=\S1AUO$C32GOsk8`cjSJhX-B3p$VkXTdN)%k^DdlpoUYOht?Q(&)B<fdKRt!]kW<U?[DX4NORgBW1CB0nB]-mHc2\7oKMEb,7D\TW]u!\A_3N[s-&eGa56aMipgfI"1C4#fA(Xc9==ZWYO1htWnVmVoDC51%Ct]Z?:VN?F?I:ObnlhoMmeE[H6i"]:L)Lpq5GADV=qgWGg4?kXQm:<PLl>aYIgk.n\_QCeN_o>e++r'mTb"YgA'TA^V)FOn_$?(+*qAHh+'ZUUHOt4qsZo+mHs],'l0D_op^0e@I)oomcpbE5%<oa4$U+KTkCQ7Fl<Lb5'D4TeSWLcR9!Xb$QX$FL>+>/UU8/CobpYQE+413Wm8f^/q%\UlaC".R_HaPl]-uY4DEd.(H-d:\q=Uch7`30HeY,`0B6@*m\I^b$Qlm!m3?KcQeq6$m2$a)\bY`/:N$'ZZJ4gRVlgq_bS:Z>2(q$KrmR=L%o4"5(-QhhosVi?2tlS&SuI1PLi$S$e&jhfCn'tYF#Q<C[HW6HS"@8Xcb/&>a3cD\D7F^_h'(5hqnr7TY9.2B?*UE.bIRZ"Pp]p?H=kQ2LRsjhGP2eqprYnHP)K$=Fn!P#F`uY(B<HRNWZ@CZo2][.?*S_To/FW=]bu2QioOO+[t-X8EF!sArqlk@ggCW^$U^]$-8[D.AE`%$>oVTZd-[)FO+\&"[LkB78Y;pO)]bQGG[m'rLE1[idX-;Bo'Zt,:c1!encHS$0u]`ZL\3*T4)el::hXh.jN]a"oa>KS^UNo$F]"2M@c3&\Wjp:/d8cGm$LZFN!Y19PqmKm5n-1irY3@/jh#X#d_hoPnYI)uYO'K4jSEc[?0@IOrfL\eSc`'oS(Gn)F2a0BBUB9nm`Nu;cBKPu1CrmZ^s7"2%^"lu\iRV+]4#_)=JoUKXf5$,6LET!$+M_@XDk&XV^u;0qB]HcGBWWS#JU";@!u`'g4CD7nf'#/&`=`^%X<W_uNA<Ig&0m]njFe9(r.ImG]7ud]YU&`/n9%^Sq07.&l:LUA%JX:WYp$kd[))7C9r%R"5;UGddR+sTeuao'-YkLZCD%`o+s6qpYAmCC+md]scP3m5X,8bDC$97?SH<2k!*ZUUI<2M2`qdmnQ6$q+fMJIA]O]YI/f`9,P1G`R]c*c1K;+A.j&Q31[Mgk]l$[4FG]G_JAcc(X-.O;"8c\U#3!%U2g3f2bE!p];=X+A.$qc[3;0hG=b`%!smeXg[Z=IRMnjF2/d();0s0?6)lo'o`R[#h8,Q7>bF\S%^]*diP@3%8Z24S,8fe&8rHXb6'0BaDYjVoRieG$9e]k+(7@C-4c2OWZ(Xjo^4KA6_A(g.oYKU<3F2ml]PEm/sUGns8)9Y<HCT5<,GFgb$/:[H>/g7<##hMN\H1innua5/XiU%.qOm>+f7g2jcd^`<V#9W!i2LPt?'M2+,3$j7=I%ND=P?N:l=em7[J8*p);220&kl*T4VTu);_&"WmFY&W@MVQ,@LU&C/q4$.fUffSUk"9'EO]]H7f+-$`+M>`=%CY"W+QgruH@4m<HEE@RtNktDE(7V]PBPg4Kk2\<6b>Nh@f3.5o)(<>C!YAqGRZG)X2W%kIk46et`0.D`.6hj(ce<PnF2i""])%Gr@5^@QVFY;FZ0J&0<n#ld,X4ILaL&uD)imdj4DB8_LW"&>7'QC:W980TXLGaDR=2P>r.aCHa.!#,nh5C_cTh";*PHWq9T$No!5Oo(+!%E&^i8Trj%8ga95M23I]I7m@=n_G)Bu;CF`m&0btYt#T&0gh7t/ffH!f^0>m5K+:YuG&oG`@L$1Q-C)@OfaR04(AgUDUtr,T]:qH!8>**h0*ZVAJ5O,U!Vn,.sKoi5MTq!+mInK`QZ,/@-O50[-*d:b@s7%VCeimK\)jo1<(mXQM+be)^k9%2BQAg8@\,\TZ7Q1nRRlPZnr4M@Os%Ubb+q^u.>H;\P'_\F6."j5PPGCmSUAF7d<7I)!&oo?4Xo$2dRKg-*NDndJn\LfkL\a\7"PO7;cIXLaSDsR<$0p3^*L:P-LAu4+4+bKKoc7Sd95Kgi<Cp6H9+-laQ^F/:1E?r&,YUr&5\>Id,=`@<[,o>:.fYCkj>Vl&!Q)l!8@=Sk(ZsX81@4Q+enu#gUj;:RSlZpe&%8'Qfk&3/V]fDGNf?ec)b#O(oeeKZD7N^Gfi,DSM3.hFmG&-"&e067ZET#1Ur<C1Ks(h&Qbo'j^QYl)sL>r[@cEOU%6(?>re40;]H'[VM#8]cHdE@&1XH2>E_pE)`4E9S2Q9i:9!_j>1ols<@NE=UD=S)=FT#=,/*:&Mk@%X00^W;.O3"I(eArGrn`tj"i?r'/'-4DW,d42(;JGiY7`)RLf5\g7DW13TRCq@^i(]%"RXeQ:WO9KPi<DpeW3-GJeE\cB7A[1!1InIOm"COl._\;GPgJ^Pt&X^hi@K,cX8EMh<)k8RG;]cI3df[)I\Db^@!Z+;ZAuGRGrfQ&S8,)[T]1j4aLT678bER@[`;n[H!"KRuOB?]d-sUL[Ba-1%c*M'q('<^ZF@o;of@8_R%uk=?/W?<c06GJ->PThUgGIF\/:(D2\P]%CF_uWb52PUo&>BCR_g``T<kL$c\8_`S8X82<S6.g,DsQkn<o%hX2"I=`h$id"bM&<a^3)fB:Q%5Cg%UNF&co5SLXF7B7q76dW0bBN`e"Z)Z5[<^`'J#S,(O6E),8uQk,u.,8LTna5NHn>ZMVIT$;ZqIbkKa7HM-d!UGh$R5:c^0&[$TDFKr'VQRmb`Z)e[8"\G6pKdPqd>A#rW109]l@(RXE\7J%B>d2d3CGT>J.)3u/p\LD(7i%DU>Y,q@S&$8cVU*p^_bjV\;N6i:`qK/0@f4l37GQh$a]?Ydj+T"p3oY+%^Sh^2#3M4-IIDLO6b=;]>W"a?[2`tW(see`M8n8Hjj:VXj+'Ak6^n4%=?Zii(_nm&Tgc2f[nUgEgR0jiF43&s1bJPsOEN%3l"\<<Bu?NJs4D#^pm#;]IM[.-IraZK>kF)S<)$u/knY[7>>d=<YetU.\sk9('GlU+!Da>Y'cgmmTY'&!\Ws1P'hL0+`KCF>PPrE7"TsRbItIM)o/9>22H]pS0rCX-,l)atbM3YlZ!=%N%95HnOYb#1e:BYOC^;iiF4StUNEiYHXSkf0"AQ^Q1_!FqkJlme3W;85-)n=fX:C`PYh>[Sm^B9TT??!(jefAS`bp&qe5.T$Dnmkci-:._Wtk:VgA%B]j!.u<33;YgqW\?_)Q-"-[HQfeJ0c.H!8Ae#2?Z!D!&qO$?)"KtGjagqj.nl)\$epZr=A-SVajVOoUKpD>>[u(rV+oZlQtC%&U*5>2(>_52PIUMd]cHMAE*U7Dt?Ahr`qn&R9>;0DkmAhdajOD("M+jHT_8Wk7;N-,n\HD2QUC8mqJ@JFN5d\T:_`VkPVRPA)11Ukr`dg%-It?K9`Erl=2=oZj_obV4S"X3NAN/jVt5f15juEdF37,%*m+dRd4W>-e$*c96o^-MEa/0Li6?[o4:Y+4>HMiI%tO\mGBLe<4qAm_eb5?>+Dqko]XAdGfIV5Ec\^2m<a"odVFcDDW>p5)Y(4VnI[c!G=3[i52r]1p/kF:j1@0L5B8Bs*@#s8E)0_Y5IL6#pRN[bl[.bDY$]];5:Sm[A'sh]q_qC>nouSc^pTBkD:\p^1<%VgFqa2TMK'B;<IE(MDee=G%K2bkZ_KVAiR9uMp5HJe]D;\Hp7qJ<mJ[[]jP7s9TCD&V65>i6R:Kd<3?sa3X[b+6,XYF@Or5G/q%+^f6j^dC,<W/C1dE:Q'Ia*G#YG^A+bUCm";-hAP9M-*#`+9n[bi(V\%-#.aSHLOGG?cG!7pguH%H;j7#45d[&M?ar`Lp-+=HoS<+tpG=bA7S2XK(;ju(]bk)R)CqosI7R.`<g-j\1D5ORdQD`tOhT[I`Vr8=-pmcEl^noSCA^!A$\*I!c[o[#@E\\O:?#f1#ro73\!a@`U]fWmIn.tTBK&\>l[*/QXDn/&@84sL")"9J>[&7_P0JuIr.N?%*kG-&0=h+)BY>9rPhmLk#ZjRFIrIW2*4`/d@LpA+;m^ZVbVIcY8$qAW5bZYT>,p'p4Gft1B*+oq>^oXe*5;EeL?+5<@@.PY6[jjS*aK-T^)=#R:(RX2#NhsM\hgS!/OrY?gnrcZXN[J1OsR]DuC)o+=O/I9P9*PT9!KsA0ds'4(@aUifco;/JSjZ$e@.I]mPgc/^6`QNk-6OmF=l=X-FiFAKtEeDXm^QWZT%ZD"8`h@qjb1)Mg:q!TFL"@?Q^dtiR3+P,p?nMl\q^[:Lb2u1si6f5T#Lt8%%0HgXd[Fb:Lfe_Ka2El>*Y;5H[4F2',Q_!e-QJER(^-'A(5g]NX5\S>nNdD`'>T5*$/j[:b3"I"Ufg,XL'Sn)JRJ$U&L)l65QpKf\)b>7=si0\&4+D2!na209\_%HqqPY5;^<M1;.L6].n_K9n666eCSA8`F2,""9ENl&UkRgrZ3>eXgQng1=aNgBpU(?P#S4F]SK=FKS2#(?8I0NrLCE+&#M`mY)H,_C.#91$lW)t.X/m@BeiLrU<IinJ!X@D[5oCRPJ27=QM#^krA06GkKUDffQ>OBA0LuAc;XsO&&HPPAMMN*Das)glM3fVhM^hji3_UO_>6lU2qOQW@`I6auTpDC5*o[0/oEL'YNmH&K,.5-rlF%q3@Fb:Q4?e$ae2A`$=lmojrpO)QIq^IIlH;5aBpffa*MJY<).5/,[u(k>i1)(pf$pK@>&HH;FQ'7ulhmuaS:ge.:riOFY\eI@3[jDYA6Ia<L6pqFBXQ?+\BAGsBZgj_?J3.[n=]L)Tt/6UYA@Gu3CRQ7/X!=@*#EZf#Bn]S!Aoo_"\bBW(-)^fPCs&t8;IgCKP-aJjiUOL4AC/1p2rE-?^e:N&;df&?gWqelEgO>@=GE_f_cqrIe&m;@8tNHlWPPj78&:Tj91LS:iNKtY=c-W_#k$V7H;0-[JA)m)u$<AlFV=S_3N@2a4Jk&NrS0F:t44>D7757'A.7M&HOOI:it\;cuiI7>/7g;%4dsS(0#6>b:.4oP@tMrMh@;&e,TjW0``\d33]O;[mZ1q/;r6mcV`!870o9M&^83kbE.WZ?<Mki>?U+*0&\J'V2$H6?-EJf)?IS*S+Q6VMX-dL!$(](?U'=0f[f-l$B-5c^;0hVVrc)P-EuPEJIU^5"?)6>K6S""Q6X5BW`h^3%Rh:jM.$--!K?iKJ.9)Oi++P-F.aFDrisJg\b5^ClWUPM<cAI;*)q';F,3@dQ`=LG0,1X)1H+P_iBXl"&P-3O2IS52)k-nR<6#jMMu/K60o/[hC(e_,?Emiod:GXtH&r?Zjhr8p5\ZPeU:PgpB5nIe3?*<Ye>5]4"><lN;uf?'Z[<U4aARlB#$C'9,"L@m^en*Q!r"-Jb7<S#5!r*u(Z6nJgVp3E;i?RQ4U,e'V@Et&QiIZ_!,Z1-Z*/\uFd,-/DAMYa29F;O^p56J`l5e<0fMS,XE)Be-;J5ucb5L/WEu)7)6di'[VA]Y_;0l[M&iS>SIrXN!k^pZpJakmmW_QQWRqhVb0VR<,q-#LJ:W4V7#2DtdF:m9_G#mi=GZhf_=kd2U4SbjSH;:$VV!$8QV+q)Z*>hm=;lRCd`@G2U_o+S_E&U1e6<OgrNKt0EO6RJ4+,R7()C,1[:FPH-ro'b%PR^8_)N#_Lq0:=5t`CH,F,T&_m5@,'*cWa3L2,_9Tc-@,"WNGZ:&sA8M#.4RUs^^Z?UYW8!U&>j3V.l8%b#&rS[s43sB"K1]a?oK&o,ulkc$Z_?na`XGBkf[IaNOa\,#5JNMMlaNEL[Aa-FNTYt*NnO@NJ3`m+T`::a2MHcA5pZYMt<o&:KiUe@ciJ<eqK#(@T235ko@]G8K)[&C0]V1L[f%@@g6*>9VAS!+,7taJe^WW?K^,RV5EWBQneo_KdWq5r=jsV=2^+E7NLkPp($c&;7E%l12Q40[j],6J_%Su\glueg4icW#LfDiY9_uJA?5`6nRF+]8/43$[CEn6kB#1/gZpXpn(.PH<6Ic'*<Z!Ud83C+H4$ojaG2$OJ1PXYibYp#@9=(s/"?3_%)q:qC<%>WWdM,2PHCrD*/s&@/gm\QFnrh&'#^/re5_Zb#,T0%/B'%'(cb0pfDM!H&$N0PEKXYoW0nKJ"(:eA_O"FQc9%*pDE2;o-YBl,X,Rc45LnZ`=W?"t.qE`Vf!4NDB&&V[O"_mS9K8P8N"h/3$M[C$_:[s6QG=3=[CEoSIc?/eNu*CX!A6pu</AX&l?'dp(W!4F)%m06sb^e@lMc3rPOZ"tBnk6__<a,C6,7h+D(Z82'N\DLr_UiCaV\6Ib'^CI[s[I4`>pk40O^ti41^.I.>W\.,F\mg_hPdS&X7h629C)3R"f5mT=.al.g;VYb%(N,?AE7P"@Q.%@?PE$9Z;c&3l=]^N3@h$TG;d,p>XU2ccXuJk<Hed-s(PL&N]0RTp>BQ%5KX05_.oj#s5sWomA09dEQ5)\'$B5,H.Rt/f7WFjVIK:h*#[e@X"%ZtX-!k#I)8OB$@O^4aJ$c@CB[\*4?,-?Rl;A9s%QI)g-FAYe'8P<=XQug;gp*;%fj&<r@d.60muPH^$p!6ZASBVf=p-6F<m],DJ#lU9a3dO[+.dZdLL6YIcbfm+MGW;_-ik*8#BYJm@e@jC:,Q/cgVd,f=I>*]%id(eVX2t5&cp-dkt">9V#FB!XfK906**+;8Htpi]c?<oVc=#p-C`T4gBCf)K_g-Vn$c9LHMZ*%Vl&J98Gs!/%,QXC&K"4DV,XH:A58Q)k<26\@?a^A>[V\%ESk3I<a1*D[B4[AJ2nM3J-RW0NN/GD%+PKr,Kl$3Q&:S9<>BKn2lnE)_.oQ;#aFgH5qPD>4L2h`(h*P+>oB[N(mN!5+G)lZ&TB9Kk(6\0UWa$PAkalQJ+,C:WN$47>gHb7c1Ca%KWl35(eY&IJImJ7gtcV<=nuOJ*LJ>.BorLchsJP_Ds28J'#>/!]i_R67T,El<2L6(]`?\"Ur*=)bAK8o\Wa;9'audpk$N@E[h*??-aauFICV,_;W_#F.<AU,'R,EI;22(P4,rVjj*W(?)Ojj,4W_'n5T2TFU1THWl2q3!&k%OHT?SX6>*#O73"^K'KGZs7GK$'SHd8*:q69)Zaa7'4gp1KmALMc)FUAII$f1N!TdnDP9gCL,J>cpZ&IfpM'H*#Lo9@B*?m%oMaiVb`;:)m9!lVm3Lf9%'XG@#kM&69QPVj9::]em?!aUVfoW\K$,pK#*%"VO#&.q;Q6#;B5goLo9a9ai[l*GMOVg0IQ2^F"mK*>+m_P70,PT5g9)n/s$JCB/W%[[E2pRE[:.rpPW-NL_h1E'AOR1Nft\L:#X8rYGUfhseI![XKEpmmV48uYdKl5]<)K:>6c;9O<rH'9"cMP%'OdF`/]mc@DZC0;E8ZWr%$$%Hp(JZ`8ubOl'WdM<$f%</Ae#7<q3-o6$!.Z:(=nN+j2,um7tFg,T5)DiF78UsYUaor@8B'koe]KhlGI[G[J*0V1`YX+,rBfQ4HY!_rH/6`XCqo-.XBt9Po0Pagm,D*SPJCBg?D8NCVF)b<4<<MY'GHVR^7hWl9<]2$t]L4<8WS@0t11TePQF1er%)A!q=DAT/$u=fu7rZ8&A.+Ts%/"sb?"&*7!KMkYG^&1cEO0g&q"h*]$+C,1:gtDD6$SDFG"ad^eL$nek(X%$jMeD)2^k"2)^5X3:g5rbPLB^/0AQ$#1goc_<f2pp;k4E_fWf>oD-Yo\=fYc_BE=E)/AR)VT0"V[\EYbV7:eshC`P*^@ID51ZhhZAgiS2MoYZoeVu%lp?OQ*(QB(AR@[AH4)kjMfYZCg6/lT[Ah_?)tc4F1`!Mgj6Z@$5$`+2%q]U*@0*ZZgOoZLGA@"%/,"Vq#U9RC!;;qu5+1B?1d8]PYe6e(_eKUH4T`-dNKIrGs$Otm1a-<_T9&dZSj"Q1U)lZN\LNj=e`-pfZlXE^<TMg$gu5V.P"Lk*STP>AIU1?gRYJd?n-j'k5aZnYI[.U+:>n_GacFj&RAeT=kU#6]"<]P<UHJMOY?8;Kro&:b>9KXj'M^]WTH.TB?i&107?0,3@Dh3Y.gTRF49X9jD*CE&4j4g,D-MrR9.VRA$4i"iREf[6BdR6W3B?*Prr""q$`%Mti["l(JU2)3%mpTnZZAIp%`UJr4K5j]bU2^pE8;\;m78QdVJCBATLd);k62PlA+KE._t\aflRL$K>hbrZ7;()_Y!AcYL@jFkP\Z\s!Im+@V)ID$,!fiBX\*HATh%cSel)DE\/.Y:"t-^>CG!_m+6i7*9he+27145_ao#&c_Pm`qAUL5\1;Zde@=r&Q1@0l^[SWL#g)mOp=:9+\8p-3/4s./TR0!DA/?qA%*FLBglpbK?-/7GbK[TNd/F_(Ef10#1MY!4IadG_Ru,Ga&=3(efT*"<\="au4tuR4Crg-8'g7Z*IsCTTb>'Y^<l6":?ikW'E+M_@nuIiV`UfBWc%,Us]EoA(fM7C;;NglfS5Ph*nSWO+?V$lna=;#3[O)U=+pN\Y+6N0uL:1c-2?(ah&'Q-f->5!!Z1[8V/0C>K[,+ob0BaTs?<U-cp\sNPs%/M=/0r0q)aE%Tb2T^86C93+_RiQe_7h#9NW9Nuf<Ck'I7cjE#1V3QkSY!/a$uocOnbQMTO(7@[ou#;,J&S-<I01M,-hH&Xg/+E^%!\85^XedZ"$/?)Q!.q8qg%f$N];K.1hGQDt9CIK]YaYHVC\^F#bWCb=)!081=mESR`84S@Y;PV/RWeX.`2.^N%_ReZ9@8RT?:o=;ZjG+,f)!-`/Z!T2R&co8M'.%H2c4kFO;aGe`+CZ_7>StH">QIqBTGo'T<XBga*I4`k,g:HH?r42&aU:he'*7`[;7Vj'^#a'B+ri8j+ZFXUV5!q^=AdsPDV;6irA("(mZIM_4b]HgnCKc50,(Rna]L?L]ts;*CQ7/U\5AZ`/#f.=EI=;1"Q3B+*Yp'S=\hKV@[GnHWR9[*EQbY!ifLt-b)<E4_Y3!J;G#)uW?V%YlXjPL)YtB7Nk&7jSRla#Yf-iHSWB5/9ANkjQ]0Gl^8I-j!mW@k8sAO@OlNO6B$WPI>eH'iZY5M:)n3#8cj#><@p.LQNt(Hi=(j&hG__8pX;?hPA$osel[,M6=%'d(Fqb<]Hfm"cfBlY>S9qJO.Pq\';\djdd)F_H^[F,GmAK61(!E^3KARA%$WmZU4'W/Y_4'$7jC=L6R:U't!Z`7Vqt%L`o/HPJl7F:*h<;l"W_IqR@r0CE5W!LVBH&tZ"d]&+]=DMK[9'RiBts\hD7oOncIE;tG[HM!qhZ&1*p)C"O-@>Ue%(3NV,F>%I)Fp3Z;&B]]CiPaV5EiWh$mbiWR%@>k;^p/!qTHt_^+pm!2Z!#K_hROh-5pTrd>R`NgG0M9>]W&.#o.b%LV-Yf'OieYTk-?^ggPVdDmhgFBH2VC>C7i<G6FU-`/,KO)rjAgV1^[dN3jRl\I9>[H%J:Id"KtT"V)37_4$MQld9**8%at#uAjRZEld#`SNXeD5:r6;*A#=b_Y=RAgW@<O.mg`=dLu`6jSnd+TrBFLk#aC7#3P='dA27+qP?C85-$-#U2t!.7t4=KEr/:YK=uK2/h,aC/^c(Q8Mbi3&-_d`ln^P&$VXC+m$;]W$^%H#7T7q\'g96hfn37Y.ZeECtiF\k&]S.?;\WI5nu<$Q_RX-V-"2a5%lj(W&<;U-qEU#2tE_eO$"eUY5\0nZ/4hIr`GIG;AeY2P]iU18S=fBFaeM#L.X>Qk3&`pBq%7@araT%m^GC-/uSA]ltO#j,Nj@Di4eGa6eWl)qJ!,.\6$S5qee+XZB'GFc!SDa7pPm1gNqKVp\\,E*YWlQ9!lnK3H73oI^@q^)O[k:)L%J$G:8DW3/SS)boP/:dnR>iatCXJj)Gh`q#3&$$kMuEgOl^l;UJ1CJIAPs;R[o1>[T?B>2i_6`02Ecj8`O.YopUS_Ra7S/&E[ikkfR;GLa@Sedj[/Z,cK$p9R+aXj5O:f=f`5AX<n9c-4G%j.^&JZGt3n[[onu.Frj,Qj=;;Zd-cf@aYeZHKE'dal]Lkq5;mrE_G3Dq3;]LCk6_4?UcraGuD1^[dP>>/-eh.0G9RHchPW(U6/C)ku&Gl!"k3`l6McH^rhc"X\r8EEmD@b=Q>^tWB%0<PJ7QtC:s]p3nHC4GIL-$j@JAZmj2jicVYhGW4X971V]pdpQ+,p2I#b9<6pgg["&M\[cCf_WJSRrB8`luX`ZJG9.(=?Z#=b\&\as;mK=9BJ2iA'io8f\qn0D:\>h7Sd77;Sfl?Pjh:^='\Rlf[DmW6[q%B77@q6O<ehNUa+EBl;]Em[P%V=q$*TH9:GKk3N75nMdi,AYdXE=8mHKQ4C-DGg0e/LR9dmo7H[%=Jr/URAafodFShJ7Y0/&k:Qd>]Q;Y5/$0qS6l=%FSi-NZ6ddD7dnR$T9%=`'-cV6tFnPU%>EfMXR\a3eiI8I_>:@s18.Ic*hN7kIt'>an7?a"ZM5b[csD;&*rX7C)f?Pb1*`V^BXouWV:srP@;KE$.nf+D,E-HZn]YL$%dYj'>QKnV2d9Y2AtIC1tCcK-@+e#I@5_)YEh:h=RH=TQjI.iFt*s5]F:_?dJn@HF6j+#9\qf?&%BLfTGp5gWq/8m84`>-_\]s^daL]+]\T<&^RS#<IJkJ41tm,<aSG6B^8G8e'Y.O5BD/p8nCk@sr?XLDm%g?09P$,^]*TlMfgJNdB=:/u[ED$tVE;%+'B&]$0=0OHC`h-mgqLB0;*bAtEFSs^Ed4ZP&lS;?*Zpd`E>%F[;TXo^%X!e,Lm`k>H)b[!qa(2?mI.L09DrRDc9@]3FL))7eDDuYZWiKO9TCIA;)i-Wj.'PjbHp?m2scfFW7\>kXA,0F2@TlQV#4ImA9kpCgLQSB+_0PmWcLoB_9j7C?gQH(98d]_NbA9p>&%h_cIcYCbeu"GFZ>;+-+NLO3XnDL_PHE/D=pp,_Bh9l^iqBer4i5-3l"E!@oI"Z[A[N]*6p[ke#.s^LARmUDH[b>>Vl7I[fn'\,e)2l;u-A8H^L:iD#WpbQga8+2]pCWgN3?FL58S*M$T5/+9\hshl[E4Xn/19LIIhikq@doBD6iS[Z6`N_tn1*i2WoLs(B0"KbN4.4!dYNlFuX@ai&M^(!Utc8#)=2;\Oh7?P#Mk^#.aj_UV0Ths<FRq(MblbYB2Qlp/,.D.m1=p6K,@(D-agAG_5&](&i:B,>BNeo%p/A7lA!dA`-Ej@\R=eE6MtL2l8MU@5"o6S3GC';KUQ#/j36@5f0rMmf4j\f@&CHcU;&r>q`^af4Uo'F:KK94jAk#aH]^STqpJpObE>I/7;p"V%V!/ZfP1p3/?,/7^Ni\`5%_C6rn!R56i034&4\UZV9lh>YicNMlcdnG^2O[ltXK:cbAfqA,Ui@%RjK(Vi>RRpAh3Ip-mJk_)RgodH"WLst3r\U*&<Xeq%-BQP6)gZmhKrLpN8VgM67Li_RgP\6K!5G7h@7_7Vjo8Ft-;8e'ho'.78mC;87HX3u$8XG.Nh\;5TH7_4YE9[/)iMpT$8s8M)806rZ#<5j3ArQfWT9r$`GP@r$b6^!l\G79!F5Qc`Rh'gYmT0K7S&ai/I7&RLqMpllZ0U2*c:5:X_^o54Zsm"uQ[aAAm&j8;1E5@`9M&-TClfjqfSqa\d1F%bH!U9olc3n9K[*:H4csph5aN`_#a:Sm#qOAHRJ+*%lSWUl@'8+(m4B&UlqSYB$VM7?n60-lS=%dZet]=+/OuALC!<*4FF[`N@!"'RbK6D.#W_7/#Md^dbJoSh(]Ib9@IR;2qmL_'/KMT-#;%4XUnH:M93Pr:;\s7ZEnGha2`$8=UY^E.jl&[P%=A"ZO_.Qt^F8T*4u;K5(toQN1s)^BT$sI"TE4$b_?M<NUZmkEbo_D^1&H'm1]?l/V:0`TE#-,of8-T,*Sd#HdB&fl:k$UHI^"d_:<6k+0'qP-Mj9KLEtO$`j31Z<8+/=tDA[[mh,j>'XL@U=T3_EKcThC)_<4mLq7AFAW,B@)D:*q^F&C,fhI@ehe:or[&<iO'kU<>WaPg?T1T18?jh5a/<)3@2I]!bQ<3E!-X*l$7gjAG$qGf-=cd_+:npK-jhX%\T?K:e=i:*mTbkTEW>>s-Yd)8,s2ArWF2Aj*C5jtt@BB@p.bRga_!\Kp%__'Sl]?4#a]J<BpIe]E8r\qPeEpB7QjtBLk(Mqb$Dt>l%02F)&0gDu(\CARlMhY9]KlthH-Jo].7Eu,PPs8m!eBWD^+rj1#%583S=RjDl9pCQ_T%"XgHiN__qYb?/@r/CL?tqfG;iYtQL:tet&+^K75r3)i9d_bI32JAqX[gdps*1GKlI9t#j`sdqp\s<9lT^gq[lsDE.QVM#mlZJ$XUl[)d]]t3CfmFOaPq5j[8N2.YDOVN8`YBTnspF95$>lpGkg1tOlWALbAGlfb2jl2"D_;Rj]p?VjIg0C-8/e*,b$WtrH`ga.KTH4qI('%4(3NTbMA!E([9:E]+!%4OVH?<5SP(EEcSOiKI02L-Z-iu]jLd)'Pk%/$T>AI$P+3qK%h^I]YuBnEg-i,QQ+i&rQ,0sM)1qt6d$Mi4j5:O90EJR*Rm)k`YQrDWiU4k8Pb;Y)GPI*gbb[?J*QF"]L69S6CbL0R2bhlRbS+XFaN7@cM<sa3[NShopRePi\9FdSh_r2Q0S4rH&inBP>!0Ka]3i4rHdM4h4r6g4YG\(SoBJ;`-dZYZF0/X43GnB%[d(br1Na]HXH't[$nG'HS=uc)Or`_%O-X4,o*,fNeD`Ko)=+Zp=$0>c27/2LF#fdpt<[F@IQk:1N,IJf!j%t7jj`Yl,@,d&bX0lj\9Z_iCrS2mn3MB@P8,)S<6@>%]HVYcI)DYP/W/qPA%^0o>^)\:g,pU!@uH`=QQugi$&BfMY^%J.\Z^Z,#_2f-Ce%W@b^U+F<>mA':NjOdJ]bS$O3XgX`3!3lo+H^S5\'cA:YU-XI7$_d\EC+iZ>W^@[AO-!*B_qaX$J/9GO=@N*F=Oj>gG\d(6o2oZmF+^HXeqB)U][mhkdBCY+M:R0=M#1q5]k9qsR@W>jcB<GK$cb/W9beO6l]7%7BN>[W1NcLi55V4>!F=[iie9;IM,WJNR.-:Od4XZJC/B#+8f;f>@-IorVAb*;%GjXsL++ZaS\Zl/#!O^6uqp2[8e"7gG.FbH9kD46t>Gp^cU4&!;[oS:D@kb"W9F<.etc9]'drkic(?K5C-r;O>H&)%iK5F"=1q)4iTVjS2iRbajkaHq<\\%3O]Y%Xr7lI?k7BT=Ej&G<<VO)r<!;fD3#a?3q!bDN_u@dMWVF+ucc;8E_!ISOWsZ8&Xa''%4#`P;&9Z*BA'F-NG.4d7Pe(R^teKAo[u>'7,7)g:e2KE&2t1uAUiEecWHq14hlQ&/Nth:l6V4aGW@>Aq+#VE:.@pgo5lRUuFGmH!C5[V:DQ#C-u>ViF`)Y`;\c:QgYkZ>3qiM!Ng%4gKW9<uHWd/ZO_fc@N"]>F,idmEt3WcH30!S]N?.k.s.B]=H3(F'@Rl/#J;"$FEjFO''I9-cu2&3th^e-6'&944GB0mfFe08qS^iH+LYP/BET#L5,sl%T\#3DhE(Ma3Neaa):..aV)46OCu,ApqD.'H5.mTas;nSOE8iJ)'q"_"^1E23]R%1K@MgZpAB5KYC4I*p$+n^g6qs[rli[8NdT1Y^\O\W[P,A^U6)17H"Q>IJ5'q&p[VQLN)V:#Dq1[)8R3Hi=iEJqV8^]uHr-ejOSTH$%:bh:4CHGmg[/>!)RUW=R$3qZVJbN7%F)FTEaFpA/B!a!G<8^CG%8^/EQKY@8"*PE`kf^;BN?k!d$@jkEj;'<;G?ZD?#4PDUNoop1I<:l!bD^ZEIelU@V3Hq3ED\2ZZJ"F1#sN/G`.89c%7a8q-k$T"*t70;We\:I,lO0lt#7l6$EpJO9Eb'hPH&C-&G'I<u=/K?oOS3^?9qq]K+b?DVnlOfgh'F7BuSiCZZDY&P:OuOU)M0%KR+A;5On!R6*KOG&pks)9TKHNM=\`UO##B-9+(pZ_?g,GYm!SlgdTIcn3Vn5*O/O9k=o=1Gg&Aa9.Q<"=8nVJC"/ZM3kYQIq.O8LHbY,Y#hc#k$EO,?D&'g06E_mrl8TYI;)nu/+Q2RhkL.2k+N`";.34\mS/DdW)tb,7`-QAJqn[k5pIu]3V2a<St1?%2K'-*i*Z4"QlPtomQWlppNcN-1ih6^o`t4e$c4%$7H1GVonX47N)Nt=.!\Zj8Lf9he%htbUX'm=q"g-OX'Tguau^F'LVGrtm%2PZ?JKtp'.;@d/\Z'/Oo7]M?J*#+nmc8F$0`1>Z<<-SZC;.HU)gp'A%0HH4ooG]1`/LicBV3/-kQGJ6j+)&8hqS7MF%me#XeeAMLqQoff!;-!X58C'EK?_,nXUS1-uQQM@`/]'MEkmqpSklBuG<9dS`s[SE;Bka6+)30#r/=a4uG0NRC-J<"J>rhJ!mK*D("i/T,TF79\*NC-Hhch%CM['J.@/CT^njUs'%L?A`F!Ij%E^-V*`APgYd(+V\s:hD5PG@gaS)#DIsW/msnfl\_IejeE$d=L$2a#VOfN-\?X)U;+Wp']R,%KjFpqM<,9J0l^-LEWfY%pUELZp,qs*-VN')n8&SY:2p/)>=P*![(KmFY9f[ke8:7;=E*MVUKb@=O(;)C\=>TFSQt/dFO^1-00*pZSd3R#IkKFt1<!mr0Rc=Qj5Lro\R<<X"1K:8Deup3mg<_Km,6udj<r7jOZ5K"L[L"WPINV&#Ne5F.#r?pVkfCgEY^`D9#]X8,aRNV6Ra4Rih3`3S2mC,'HIosQ'QLA>\h,IJU:pM0mdt501f8-[Li6U_:*JB1@ro\ENk#Y]$p\bQZ=\.SbqLHO)NhOaX/;mJ?suHeM1lBgIQ&Sd*97oM>706k<#[eTkLSl@GOi$[!g$Vbpk#JCh,Ps&9#B-r/!R!`*?2/=EQP]LUe@J*>!Ml4=ASI/WsTUMPYhXRN@&R(%U/o=deALlr3A3PtIJp`6M>&BsA@t9,!T5nklRJ6U"68q8<Uik4?fb4&PYoY:)4<Rc54bfNt1k,M>U=GSQ5e3ER\JTHoB/rVaZhA'V.CY$pHt(d7!=QKj4Hk[<OXh`/C8LcSQqkrY6d(A/aIVh.L>QUFA:Td3bdRFDe[A<ViZ_kPGOHCFH).jP;0O+TbJ[FEW6;Mm&#$:uM=(l9#2;FGo:D@DYtGpFIXT#;,0;1!B2e''(1jir)1A3o&gA*7AGN=mDkb?==+j:N,c$Kd.#`t5.TU&kYX.@3N\Ha24Nqp&*]!tM,)<,GQVe!\+3o`jgo'74^rKbkJeY!OaC>\&gI6i]C2f8\H>Epj`L@Mm`B/IaWL\efM7b]5`2.MTm>e2ghpE9+7>`SGPMZ!utC5t3t;YKWIiMjJSa;@f_iMsmSbli47X`V+Bh_HTAb@Ig#Eo[&G:bi=Std-f#YeVRd_Dj$a*mm3)PY*Rq=9S`bO(D%6JLo:$naj5)kr9o]JGPUX`+0FncDk@E8\&A5S@lYYRVsMLfb&$n=eRj*i$R)Zr31\]*;NF/70.V9T&<FBNH-Qf.?_4m7puY)g=o/F?O/P`dD6`JNEb$3q.G'q7boP3qkn?#3B\MP#1J1mFBfW\_D[RlKB>Ior6Ii27d[2XoOcQLXS'jpo>TrYu;6D#TOub+X$ZW1S9qGA\`!+`),uTirA^PO13B:*p5Y!i$pEo%ufYqRko$saCY3[DU94h&&EW[&e8gu`tK#LUREpYKAF(m=o@<=8G-'T*q'/>ZG<f&*D<)gm2,Roqr)!-Sf/EOGZ'mh%5L7#uX$JrpcLlpqs4jft:T&37l$6NOMrPJ<THD9<Abr0$/8"KpEF,QU'a"UFE[EJ-<B7.K-JLDX/\mIm?ff)"m?FPsP4Q"BAq9er'p'gutqtR>7`@26ZS51W#cW@]#O52NC.9`o\]&[RsK<\Q&cOd<OUgW/KIcJ??^OB0SqsLgmSb[-WG7ON':):H9"u!a:"u"p=;45YplkX;qRrb<^6f!]7bB0-Mf..oNH^hJ;!pmXN7Nt`@<po>`RL/]-UA2;'9'5r58,[ML9j3<j<'FlS^II-P8Yi`+7j<"j-XjU@\JU3iQjN!?"f$m0jPQ(:P<0;gjM*WQ?VCXX`dJL\-2"f)ath]A=?KTG(p5`i78RI-o8_hS?MD1D_lNfbHdqMFV:!?/(-hcpNrF(VGBR\&6Zd[A3TL$`!apSAcdn@,,ufejV&HZkG]P*/Ei.Yr8V(jI&cHsj<U3sUI^=T+.(^A1U-M9`Ml$(.S`1gg]^m=R_G2JK8YC''ZH!EFB)hhiK,_5e0^`WKR'o(op%b\'HM:[o,Pis.MDga?9hiMD;N#mZloQ_oQMH>jpRVs64ML!:HQF\\>Fs;?]=R/H#CX#$qS';CR('Yd;J$ALg;'82[gm-8S-r)%:P]eU^7Mr>^pQ0C1q!(,F6@JQ0M'O`J,P2N4T`6VQ`Z[q<q#t5??rlIVDs@m3#OK<LQAa(POf!B=/<@KUPXKPP5VOII:U9G46iiTDEX<&Rck/Dk@KfIfj`1jS3Y3G7,S%3pr]p\g:=$_O!iRgn93F2rR-LRKnUd3dfmQi:IFWJ:'8aOhO-*>)XSFgK;U>Hn>KT5e[bC*ah#[cK-SNV8M;FrAJ!:Xhir&>^K\2+"c%2:otccCMe3?6mG(:nQctIP:Fu`!F_WCQK,-Ok2oSO*rZSF:H`1_PA%1$3rMFO,prNbcXR;]6Uuf@U)0<-S;k01^;a#`[PR-b.+3e",^V3J72Iaqo-/W3Yfd52$@?7Z_d-1"GQ;"#17ui'In$9cC]4G;7mGiA%81]`6o-=t.-#G?tOWitd.DOH^8^b=?WhJ'`EiS&1"Z\TW.@?K*,,\I26OE<2&("m;)>ipRHq46YK3@\%g*MCGo99l[qMc0-7[m?("htidnRJ\u=G'h52c(j+e'X,bGG669jb3?b5=_98#?:&Nr2Y$o[N2jak6;Gt'j2cVS->,J&-6+*Ni3n=k12bepmqmF'oPqc&<7nhT/>^=03ZYQRCW0FW^"5:-o&e'U<PV)A,gTA[1c3%<b\.7&o[/4kb'28Dn!i<%6/h.l>D_ifPdDlO1/Q@R8<e"C;#E^9-VN7YR"pf)i]d+40CUZpuj?DjIo7lQ:rWGSLu!>idSKm#!<OODQPPQWOZW_q'ZB%UEhUmX@G1,6IWjDH!t9a`]6%hQ6r^;7VuIC:79$(Hb(7YV<Q.nSpemE:6(a*N_6Qi_9$W)fpKdaZ-5c`6l8<(69tTIs%Au3TLl$9p-C5kdgZ]GRjhNL&%;eEcYA0D15WH.CpV0IDP&@bn8=#+j#1iH@]r;f(7G%\m;f?P`L<#u>BjnG"TmK+W5Uhi9$gb2PnJ/&-5:J'i)=LnfrHaYB<?>?DO#Eg&URa20dFU;B3PMrN?Y(LDq2b;*&EfWo';3<m!jD,datN:.%4H(gs6B&*T6$q[Y/=6+5K7t`kB-Gs1.[Q^uqo2s%5@.^&Rlk\khctHfrPVF3<>S>Ya;t(ks<Z4-_T7Gpf/TaG`(,e%@"VCnnmB_7IhdRVb*aa6).CehM:(rjfZ'r8.cYO%[SW45EK=*ER--d+F0]_qaM4h3DK^Ds640#p-#>S4'@"Y0P'E5mXV[IGDXnGQ-CNgJ%J$WG/?2TkE>iI_;a]:P=9.B23L?;YT*OB]OX%>e(*/Ut<P5d6D>]KO33M0lmsn#f$5..`%6*EQ4uQ_P#sX[ujt,K<4-H$lNCA-=RYi&p]8toCGajm$HJthQ(P["u)LWG)5A5-t/@e9IN6tpCTTNgH5BC)s4TWPVG>7M`&4g16G-4ie&U_jAXe\>l*H#9rUNBk,b$iT!$"%hS>35"Q4!XQf"B^1Tt,Sq>h[5)I+3<Hf1d5=PV[cWOeGl`;!Y__"@C53bZh,WLE@q'>=;-he0tm$9QU:BWRW7>EEM?7V[)Fs"7GQ.!:iQb2rSq@:jInU=7$oH'>6Fblnj:fb!#YO66/,auIj?=T.9Y5W+s3V'pRhA1Z3"%!GYA$cB"-r0P0H'Y8_>X8eJJ=WJ++3_/qiWG(:sYb$pI_?oD@.s(S@F=15_Lu+oLcLB8a(`F(NM-!#(Jg.fB.21S.rd3Pq:spi-F2e+J?ZWZdDbVT;jNRbJWT!rk31fUeH)u=.`I4bSgJ&fdV@?VGfc.1Km@(']43@Jk$Y[nU.7uoTR:O1q2\SHObYTL:!/M3n9p?M<b*#1pZo[4>M9LW*8b%9<qt?(7pCiP6G-u_YWOQ.WB+1tRUuWeqn*6&@[]eju2B(AKc$WG,252l82Tpe`i!T(2jZG4.!^N9f\!Q,L%HBB.]L.(W8XkJqEnm5?F;Fc57H+7n#C.p>aH"-/Ml:Le9Qj"9?*F(lk-OjaB(FJT4)DR(m]^qB713[]=8*<Pp>Y9aD,h<%'H=9f[3$EZo:j@[*Wrk8.W7If^k`k\)O&#`8UrW)f\pr6EGhi<p-\[=>hQ,QYo5\.7Z4ER0*r+j^B();q<`s'S7G"r#+'XdnBqiA\b2Fqkl&c']t>1e2pF&ad1M.qMgqeal9:WajEO>rln01Q/]I=.9^fXs)',%_G%mb_i8cj?d?8:%b[.9Di2aWLODFJ?_&/<cB[hP6G'\&T0XG%SV0s_5)oc\bRT?Mp^">=thpW[JWO$77hV'4n(KGic/.9fO:Yod%QK&2trAU=Z@QLD)90"/KYfb@BUF/cM/Srj2NKmnX.cZmf6O+L;D;EgrC%_$\cq%3X7i"R/\Nmn)q"EU:Pg?<_,?@+m1H")_d@:g)U@);AB24lV=u=^+Id;AW_^ettdQ:HS=_$-<#HCFk!t4KNJO?+\)'FkbX?#2'IJS8:r-9Rq7BY?[=.`8:pn@,\.@,WY^#peAaSehn-06+n#Z7M`<9d2-:N3"K5,MRLqgGVV)t*9/J0nrs]\N)@B[i[#rJ7;NDY8dn34h08Lb;6icDusc,#Sc*&V3^;Q_/5)A_N$o^nq@,1NuqFmdLAemNlKL,m5BqH[p;>m9<Yokk`$jfnNK_Z/Rpb8OS61/Ramm=1]0X4XjY_F#L'9e%h!;Oe]cG$VJIM5.>t%%NDccR(1sT$Y@l[>8:'SJgMk#7RUo:rCT5&a9,e1n+d!&fVMC12L"!#-QLUt$t#6HLYJ$<l!F/1S9QFp$sOQR^?&\hP"=Ng:J6-Qr^ch_L<hr!r*=^GnTV`qiHLjmqm^:1]&`TA^(/2sH&Je\kJ-fJC\HLAjj"R\5'sHid"af0<PAG*rr]==])bh=1 bi=nil cf=54627 else bs=function(h)local m,n local s={}local bb={}local function bf(bx,cg)bb[cg]=bx;return bb[cg]end local bx={}bx[1]=3 bx[2]=4 bx[3]=2 local bx=44334 local cg=0 local cg=0 repeat if bx<=-27928 then if bx<-27928 then break else return((n*256)+m);end else if bx==44334 then m,n=e(h,bh,bh+1)bh=bh+2 s[44]=bb[44334+79236]or bf(-27928,44334+79236)bx=68438 else bx=s[44]end end until bx==-33833 end cd,cf=-28920,-28920 end else y=q and q[(function(h,m)local n local s={}local bb={}local function bf(bx,cg)bb[cg]=bx;return bb[cg]end local bx={}bx[1]=3 bx[2]=3 bx[3]=4 local bx=0 local cg=0 local cg=-31630 repeat if cg<=34059 then if cg<=-36951 then bx,cg=s[24],s[24]else if cg==-31630 then s[22]={}s[23]=bb[-31630+325224]or bf(47483,-31630+325224)cg=75997 else return i(n)end end else if cg>=47483 then if cg<75997 then n=s[22]for ch=1,#h do local h=e(h,ch)n[ch]=o(d(37,99),(h-(m+ch))%256)end s[24]=bb[47483+325224]or bf(34059,47483+325224)bx,cg=-36951,-36951 else cg=s[23]end else break end end until cg==40164 end)("\205\205\219\210",106)]or function(h,m)local n,s local bb={}local bf={}local function bx(cg,ch)bf[ch]=cg;return bf[ch]end local cg={}cg[1]=3 cg[2]=1 cg[3]=0 local ch=0 local ch=35742 local ci=0 repeat if ch>=35742 then if ch<65866 then n=0 s=1 cg[1]=(cg[1]+1)%5 bb[28]=bf[35742+219374]or bx(-12613,35742+219374)ci,ch=65866,65866 else ci,ch=bb[28],bb[28]end else if ch==-20631 then break else while h>0 and m>0 do local bb,bf local bx={}local cg={}local function ci(cj,ck)cg[ck]=cj;return cg[ck]end local cj={}cj[1]=2 cj[2]=0 cj[3]=3 local ck=0 local cl=0 local cm=27511 repeat if cm<=27511 then if cm<=-36076 then cl,cm=bx[25],bx[25]else if cm<27511 then break else bb=h%2 bf=m%2 ck=cj[2]==0 and 36104 or 49404 cj[3]=(cj[3]+1)%5 bx[25]=cg[27511+278434]or ci(49404,27511+278434)cl,cm=-36076,-36076 end end else if cm>=56612 then if cm<70600 then ck,cm=bx[27],bx[27]else ck,cm=bx[26],bx[26]end else if cm<=36104 then s=s*2 cj[3]=(cj[3]+1)%5 bx[27]=cg[36104+16292]or ci(-23523,36104+16292)ck,cm=56612,56612 else if bb==1 and bf==1 then n=n+s;end;h=j(h/2)m=j(m/2)bx[26]=cg[49404+147363]or ci(36104,49404+147363)ck,cm=70600,70600 end end end until cm==-23523 end;return n;end end until ch==-20631 end z=q and q[(function(h,j)local m local n={}local s={}local function bb(bf,bx)s[bx]=bf;return s[bx]end local bf={}bf[1]=4 bf[2]=1 bf[3]=1 local bf=0 local bx=27375 local cg=0 repeat if bx<=30841 then if bx<30841 then n[29]={}n[30]=s[27375+222772]or bb(30841,27375+222772)bf,bx=57761,57761 else m=n[29]for s=1,#h do local h=e(h,s)m[s]=o(d(37,99),(h-(j+s))%256)end return i(m)end else if bx~=60547 then bf,bx=n[30],n[30]else break end end until bx==60547 end)("\110\123\125\131",11)]or function(h)h=h%r return(r-1)-h end ba=(table.create or function(h)return{t({},1,h)};end)cf=-38491 end else if cf>=53156 then if cf~=54627 then bp=nil ce,cf=52377,52377 else bi=function(h)local j=0 local m=0 for n=0,3 do local o=e(h,bh)j=v(j,w(o,8*n));bh=bh+1;end;for n=0,3 do local h=e(h,bh)m=v(m,w(h,8*n));bh=bh+1;end;return m*4294967296+j;end cd=cc[2]~=0 and-25452 or-27040 cc[2]=(cc[2]+1)%5 cf=-27040 end else bp=function(h)local j,m local n={}local o={}local function r(s,z)o[z]=s;return o[z]end local s={}s[1]=3 s[2]=2 s[3]=4 local s=-36542 local z=0 local bb=0 repeat if s<=-31853 then if s<=-36542 then j=0 m=1 n[42]=o[-36542+93772]or r(54050,-36542+93772)z,s=61145,61145 else break end else if s<61145 then repeat local o local r={}local bb={}local function bf(bx,cg)bb[cg]=bx;return bb[cg]end local bx={}bx[1]=1 bx[2]=4 bx[3]=4 local bx=67581 local cg=0 local cg=0 repeat if bx>=-30690 then if bx<=-30690 then m=m*128 bh=bh+1 r[41]=bb[-30690+21232]or bf(-48251,-30690+21232)cg,bx=-24106,-24106 else if bx<=-24106 then cg,bx=r[41],r[41]else o=e(h,bh,bh)j=j+(o>127 and o-128 or o)*m r[40]=bb[67581+21232]or bf(-30690,67581+21232)bx=-45734 end end else if bx==-48251 then break else bx=r[40]end end until bx==-48251 until(o<128)return j else z,s=n[42],n[42]end end until s==-31853 end cf=-40165 end end else if cf<=65319 then if cf>=64701 then if cf==64701 then break else bw=function(h,...)local j,m local n={}local o={}local function r(s,z)o[z]=s;return o[z]end local s={}s[1]=1 s[2]=0 s[3]=4 local s=0 local z=0 local bb=-32926 repeat if bb<=42388 then if bb>=-24183 then if bb~=42388 then z,bb=n[113],n[113]else s,bb=n[114],n[114]end else if bb==-32926 then j=k('#',...)for bf=1,j do h[bf]=k(bf,...);end;n[112]=o[-32926+334966]or r(63152,-32926+334966)z,bb=68930,68930 else m=n[111]if m>j then for bf=j+1,m do h[bf]=nil;end;end;h[0]=j n[114]=o[-27640+203895]or r(53847,-27640+203895)s,bb=42388,42388 end end else if bb>=63152 then if bb<=63152 then n[111]=h[0]or 0 n[113]=o[63152+203895]or r(-27640,63152+203895)z,bb=-24183,-24183 else z,bb=n[112],n[112]end else if bb<53946 then return j;else break end end end until bb==53946 end cd=cc[1]~=1 and 85343 or-24084 cf=-24084 end else bu=function(h)local j={[6897]={},[4801]={},[198]={},[1818]={},[4548]={},[2458]={},[2880]={},}j[4548]=not((bn(h))~=(1));j[3924]=bp(h);local m=bn(h)~=0 do local m=(m)if m then local m,n,o local r={}local s={}local function z(bb,bf)s[bf]=bb;return s[bf]end local bb={}bb[1]=1 bb[2]=3 bb[3]=2 local bf=0 local bx=0 local cg=34370 repeat if cg<=34370 then if cg<=21354 then if cg==-21465 then bx,cg=r[54],r[54]else m=bp(h)n=nil r[52]=s[21354+177334]or z(82599,21354+177334)cg=77195 end else if cg~=34370 then cg=r[53]else r[50]={}bf=bb[3]==0 and 82599 or 21354 bb[2]=(bb[2]+1)%5 r[51]=s[34370+308405]or z(21354,34370+308405)bx,cg=77104,77104 end end else if cg<=71301 then if cg~=71301 then for bf=1,m do local m,bf,ch,ci local cj={}local ck={}local function cl(cm,cn)ck[cn]=cm;return ck[cn]end local cm={}cm[1]=0 cm[2]=4 cm[3]=2 local cm=51745 local cn=0 local co=0 repeat if cm>=-12592 then if cm<=20167 then if cm~=20167 then break else ci=o+ch o=ci cj[48]=ck[20167+175082]or cl(-18808,20167+175082)cn,cm=-35019,-35019 end else if cm>=23101 then if cm~=51745 then ch=nil ch=bq(h)cj[47]=ck[23101+175082]or cl(20167,23101+175082)cn,cm=-22763,-22763 else m=not((bn(h))==(0))bf=m and 1 or 0 cj[46]=ck[51745+44011]or cl(23101,51745+44011)cn,cm=-46465,-46465 end else cm=cj[49]end end else if cm>=-22763 then if cm<-18808 then cn,cm=cj[47],cj[47]else c(n,{bf,ci})cj[49]=ck[-18808+175082]or cl(-12592,-18808+175082)cm=22770 end else if cm<=-46465 then cn,cm=cj[46],cj[46]else cn,cm=cj[48],cj[48]end end end until cm==-12592 end bc(j,2880,n)bb[1]=(bb[1]+1)%5 r[54]=s[53502+308405]or z(71301,53502+308405)bx,cg=-21465,-21465 else break end else if cg<=77104 then bx,cg=r[51],r[51]else if cg<82599 then cg=r[52]else n=r[50]o=0 bb[1]=(bb[1]+1)%5 r[53]=s[82599+308405]or z(53502,82599+308405)cg=32786 end end end end until cg==71301 end end local m=bp(h)local n={}local o,r,s,z=0,0,0,0 for bb=1,m do local m={}m[5245]=bp(h);local bf bf=not((bn(h))~=(1))local bx=bn(h)==1 local cg=(1)==(bn(h))local ch=bn(h)if ch==1 then local ci,cj,ck,cl,cm,cn,co local cp={}local cq={}local function cr(cs,ct)cq[ct]=cs;return cq[ct]end local cs={}cs[1]=4 cs[2]=1 cs[3]=2 local ct=0 local cu=0 local cv=-33572 repeat if cv>=-21805 then if cv>=41147 then if cv>=55623 then if cv<=55623 then cl=cp[90]cm,cn,co=0,0,0 for cw=0,ci-1 do local cx={}local cy={}local function cz(da,db)cy[db]=da;return cy[db]end local da={}da[1]=1 da[2]=0 da[3]=2 local da=-34491 local db=0 local db=0 repeat if da<=-34491 then if da==-40768 then break else do cm=cm+bq(h);cn=cn+bq(h);end co=co+bq(h)cj[cw]=cm cx[55]=cy[-34491+76945]or cz(85311,-34491+76945)db,da=23983,23983 end else if da<=23983 then db,da=cx[55],cx[55]else if da<85311 then da=cx[56]else ck[cw]=cn cl[cw]=co cx[56]=cy[85311+339087]or cz(-40768,85311+339087)da=68851 end end end until da==-40768 end;m[4999]=cj cs[3]=(cs[3]+1)%5 cp[96]=cq[55623+73728]or cr(50866,55623+73728)ct,cv=20232,20232 else cp[90]={}cp[93]=cq[57922+335870]or cr(-47758,57922+335870)ct,cv=-13798,-13798 end else if cv<50866 then ct,cv=cp[97],cp[97]else m[5938]=ck bc(m,3676,cl)cp[97]=cq[50866+73728]or cr(-40476,50866+73728)ct,cv=41147,41147 end end else if cv>=-13798 then if cv==-13798 then ct,cv=cp[93],cp[93]else ct,cv=cp[96],cp[96]end else if cv<-21030 then cu,cv=cp[91],cp[91]else cv=cp[94]end end end else if cv>=-36311 then if cv>=-29050 then if cv<-22074 then cv=cp[92]else ct,cv=cp[95],cp[95]end else if cv~=-33572 then cp[89]={}cp[92]=cq[-36311+204799]or cr(57922,-36311+204799)cv=-29050 else cp[88]={}cp[91]=cq[-33572+335870]or cr(-36311,-33572+335870)cu,cv=-21805,-21805 end end else if cv>=-47758 then if cv==-47758 then ci=nil ci=bs(h)ct=cs[3]~=0 and 50866 or-49360 cp[94]=cq[-47758+73728]or cr(-49360,-47758+73728)cv=-21030 else break end else cj=nil cj=cp[88]ck=cp[89]cl=nil ct=cs[2]==1 and 50866 or 55623 cp[95]=cq[-49360+335870]or cr(55623,-49360+335870)ct,cv=-22074,-22074 end end end until cv==-40476 elseif ch==2 then local ci,cj,ck,cl,cm local cn={}local co={}local function cp(cq,cr)co[cr]=cq;return co[cr]end local cq={}cq[1]=3 cq[2]=0 cq[3]=4 local cq=0 local cr=58181 local cs=0 repeat if cr<=32573 then if cr>=-19176 then if cr>=-14382 then if cr<32573 then m[5938]=ck cn[66]=co[-14382+316845]or cp(-44229,-14382+316845)cr=33420 else cs,cr=cn[63],cn[63]end else cq,cr=cn[61],cn[61]end else if cr>=-44229 then if cr~=-41589 then break else cn[60]={}cn[62]=co[-41589+54703]or cp(88984,-41589+54703)cr=76382 end else for ct=1,ci do local cu={}local cv={}local function cw(cx,cy)cv[cy]=cx;return cv[cy]end local cx={}cx[1]=0 cx[2]=4 cx[3]=0 local cy=27368 local cz=0 local cz=0 repeat if cy<=-32153 then if cy<=-36695 then break else cj[ct]=cl ck[ct]=cm cx[2]=(cx[2]+1)%5 cu[58]=cv[-32153+37381]or cw(-36695,-32153+37381)cz,cy=-14968,-14968 end else if cy>=27368 then if cy<39892 then cl=cl+bq(h)cm=cm+bq(h)cu[57]=cv[27368+37381]or cw(-32153,27368+37381)cy=39892 else cy=cu[57]end else cz,cy=cu[58],cu[58]end end until cy==-36695 end;m[4999]=cj cn[65]=co[-45456+316845]or cp(-14382,-45456+316845)cs,cr=79305,79305 end end else if cr>=76382 then if cr<=78024 then if cr<=76382 then cr=cn[62]else cs,cr=cn[64],cn[64]end else if cr==79305 then cs,cr=cn[65],cn[65]else ci=bs(h)cj=cn[59]ck=cn[60]cn[63]=co[88984+185774]or cp(69458,88984+185774)cs,cr=32573,32573 end end else if cr>=58181 then if cr<=58181 then cn[59]={}cn[61]=co[58181+185774]or cp(-41589,58181+185774)cq,cr=-19176,-19176 else cl,cm=nil cl,cm=0,0 cn[64]=co[69458+316845]or cp(-45456,69458+316845)cs,cr=78024,78024 end else cr=cn[66]end end end until cr==-44229 elseif ch==3 then local ci,cj,ck local cl={}local cm={}local function cn(co,cp)cm[cp]=co;return cm[cp]end local co={}co[1]=3 co[2]=3 co[3]=2 local cp=-23547 local cq=0 local cr=0 repeat if cp>=-20395 then if cp>=68998 then if cp<87138 then cq,cp=cl[69],cl[69]else cr,cp=cl[70],cl[70]end else if cp<=-20395 then ci=nil ci=bs(h)cj=cl[67]ck=0 co[1]=(co[1]+1)%5 cl[69]=cm[-20395+205459]or cn(-41117,-20395+205459)cq,cp=68998,68998 else break end end else if cp<=-41117 then for cs=1,ci do ck=ck+bq(h);do bc(cj,cs,ck)end end;bc(m,4999,cj)cl[70]=cm[-41117+205459]or cn(-13014,-41117+205459)cr,cp=87138,87138 else if cp<-23547 then cq,cp=cl[68],cl[68]else cl[67]={}cq=co[3]~=0 and-41117 or-20395 co[1]=(co[1]+1)%5 cl[68]=cm[-23547+74388]or cn(-20395,-23547+74388)cq,cp=-35713,-35713 end end end until cp==-13014 elseif not((ch)~=(4))then local ch,ci,cj,ck,cl,cm,cn,co,cp local cq={}local cr={}local function cs(ct,cu)cr[cu]=ct;return cr[cu]end local ct={}ct[1]=4 ct[2]=0 ct[3]=2 local cu=0 local cv=23754 local cw=0 repeat if cv>=34843 then if cv>=48535 then if cv>=67449 then if cv>=79653 then if cv<=79653 then cv=cq[82]else ck=cq[76]cl=cq[77]cm,cn,co,cp=0,0,0,0 cq[83]=cr[85338+200010]or cs(-11782,85338+200010)cv=42400 end else cw,cv=cq[78],cq[78]end else if cv<61388 then cq[76]={}cq[80]=cr[48535+331081]or cs(-18676,48535+331081)cv=29459 else break end end else if cv<=37988 then if cv~=37988 then cw,cv=cq[81],cq[81]else m[5938]=cj do m[3676]=ck;m[7362]=cl;end cq[85]=cr[37988+68939]or cs(61388,37988+68939)cw,cv=-28233,-28233 end else if cv==42029 then cq[75]={}cq[79]=cr[42029+331081]or cs(48535,42029+331081)cw,cv=-42523,-42523 else cv=cq[83]end end end else if cv<=-28233 then if cv>=-30854 then if cv<-28233 then ch=bs(h)ci=cq[74]cj=cq[75]ck=nil cw=ct[3]~=1 and-11782 or 85338 cq[82]=cr[-30854+331081]or cs(85338,-30854+331081)cv=79653 else cw,cv=cq[85],cq[85]end else if cv~=-34034 then cw,cv=cq[79],cq[79]else cu,cv=cq[84],cq[84]end end else if cv>=23754 then if cv<29459 then cq[74]={}ct[2]=(ct[2]+1)%5 cq[78]=cr[23754+200010]or cs(42029,23754+200010)cw,cv=67449,67449 else cv=cq[80]end else if cv==-18676 then cq[77]={}cq[81]=cr[-18676+200010]or cs(-30854,-18676+200010)cw,cv=34843,34843 else for ct=1,ch do local ch={}local cw={}local function cx(cy,cz)cw[cz]=cy;return cw[cz]end local cy={}cy[1]=4 cy[2]=4 cy[3]=1 local cy=0 local cz=59733 local da=0 repeat if cz<=-27082 then if cz>=-37712 then if cz<=-37712 then cy,cz=ch[73],ch[73]else cz=ch[71]end else break end else if cz<=59733 then if cz==-17008 then co=co+bq(h)cp=cp+bq(h)ch[72]=cw[-17008+195076]or cx(87002,-17008+195076)cz=64574 else cm=cm+bq(h)cn=cn+bq(h)ch[71]=cw[59733+195076]or cx(-17008,59733+195076)cz=-27082 end else if cz~=87002 then cz=ch[72]else do ci[ct]=cm;end bc(cj,ct,cn)do ck[ct]=co;end bc(cl,ct,cp)ch[73]=cw[87002+195076]or cx(-49070,87002+195076)cy,cz=-37712,-37712 end end end until cz==-49070 end;m[4999]=ci cq[84]=cr[-11782+200010]or cs(37988,-11782+200010)cu,cv=-34034,-34034 end end end end until cv==61388 else local ch={}local ci={}local function cj(ck,cl)ci[cl]=ck;return ci[cl]end local ck={}ck[1]=3 ck[2]=1 ck[3]=0 local ck=23829 local cl=0 local cl=0 repeat if ck>=23829 then if ck>=57585 then if ck==57585 then bc(m,5938,r)m[3676]=s m[7362]=z ch[87]=ci[57585+343333]or cj(-41685,57585+343333)ck=60733 else ck=ch[87]end else o=o+bq(h)r=r+bq(h)do s=s+bq(h);z=z+bq(h);end m[4999]=o ch[86]=ci[23829+81191]or cj(57585,23829+81191)cl,ck=-19335,-19335 end else if ck<=-41685 then break else cl,ck=ch[86],ch[86]end end until ck==-41685 end m[2558]=bf;bc(m,222,bx)bc(m,2074,cg)bc(m,1443,n[bb-1])n[bb]=m;end;j[6897]=n;local m m=bp(h)local n={}local o o=0 for r=1,m do local m,r,s,z,bb local bf={}local bx={}local function cg(ch,ci)bx[ci]=ch;return bx[ci]end local ch={}ch[1]=1 ch[2]=0 ch[3]=2 local ch=0 local ci=0 local cj=83123 repeat if cj<=-29354 then if cj>=-31766 then if cj==-31766 then ch,cj=bf[99],bf[99]else ci,cj=bf[100],bf[100]end else z=nil z=o+s o=z bf[99]=bx[-36007+11496]or cg(88564,-36007+11496)ch,cj=-31766,-31766 end else if cj<=43604 then if cj<=-25271 then ch,cj=bf[98],bf[98]else break end else if cj<88564 then m=(0)~=(bn(h))r=m and 1 or 0 s=bq(h)bf[98]=bx[83123+273638]or cg(-36007,83123+273638)ch,cj=-25271,-25271 else bb=bn(h)c(n,{r,z,bb})bf[100]=bx[88564+11496]or cg(43604,88564+11496)ci,cj=-29354,-29354 end end end until cj==43604 end j[2458]=n local c c=bp(h)local m m={}do for n=0,c-1 do local c=bn(h)if not((c)~=(0))then local o o=bn(h)if not((o)~=(0))then local o,r local s={}local z={}local function bb(bf,bx)z[bx]=bf;return z[bx]end local bf={}bf[1]=2 bf[2]=2 bf[3]=1 local bf=0 local bx=0 local bx=61320 repeat if bx<=-17241 then if bx<-17241 then bf,bx=s[101],s[101]else break end else if bx<=40540 then m[n]=r s[102]=z[40540+13882]or bb(-17241,40540+13882)bx=60841 else if bx<=60841 then bx=s[102]else o=bp(h)r=nil r=b(h,bh,bh+o-1)bh=bh+o s[101]=z[61320+276024]or bb(40540,61320+276024)bf,bx=-18520,-18520 end end end until bx==-17241 end;elseif c==1 then local o o=bn(h)if o==1 then m[n]=bq(h);else m[n]=bt(h);end;elseif not((c)~=(2))then local o o=bn(h)if o==1 then m[n]=bp(h);else m[n]=bi(h);end;elseif c==3 then m[n]=bo(h);elseif(4)==(c)then local o=bn(h)if o==1 then m[n]=bq(h);else m[n]=bo(h);end;elseif c==5 then do m[n]=(1)==(bn(h));end else bc(m,n,nil)end;end;bc(j,4801,m)end for c=1,bp(h)do j[1818][c-1]=bu(h);end;local c=bp(h)local m m={}do local n=(0)local o=(1)local c=(c-1)if o>=0 then while n<=c do local r,s local z={}local bb={}local function bf(bi,bo)bb[bo]=bi;return bb[bo]end local bi={}bi[1]=4 bi[2]=1 bi[3]=0 local bi=30780 local bo=0 local bq=0 repeat if bi<=-36141 then if bi<=-48800 then break else if bi==-47365 then bo,bi=z[106],z[106]else bq,bi=z[104],z[104]end end else if bi<=30780 then if bi~=30780 then bi=z[105]else z[103]={}z[104]=bb[30780+99594]or bf(59950,30780+99594)bq,bi=-36141,-36141 end else if bi<=59950 then r=z[103]s=bp(h)do for bq=1,s do bc(r,bq,bp(h))end;end m[n]=r z[105]=bb[59950+361736]or bf(82965,59950+361736)bi=-36033 else n=n+o z[106]=bb[82965+99594]or bf(-48800,82965+99594)bo,bi=-47365,-47365 end end end until bi==-48800 end else while n>=c do local c,r local s={}local z={}local function bb(bf,bi)z[bi]=bf;return z[bi]end local bf={}bf[1]=1 bf[2]=2 bf[3]=0 local bi=0 local bo=-48860 local bq=0 repeat if bo<=48520 then if bo>=-28889 then if bo<=-28889 then bo=s[110]else bi,bo=s[108],s[108]end else s[107]={}s[108]=z[-48860+160787]or bb(55369,-48860+160787)bi,bo=48520,48520 end else if bo>=79585 then if bo~=84345 then do for bi=1,r do bc(c,bi,bp(h))end;end m[n]=c n=n+o bf[2]=(bf[2]+1)%5 s[110]=z[79585+291858]or bb(55304,79585+291858)bo=-28889 else bq,bo=s[109],s[109]end else if bo~=55369 then break else c=s[107]r=bp(h)s[109]=z[55369+29716]or bb(79585,55369+29716)bq,bo=84345,84345 end end end until bo==55304 end end end j[7821]=m;bc(j,198,bn(h))return j;end ce,cf=-29569,-29569 end else if cf>=79643 then if cf==79643 then bs=nil cf=61568 else by=function(c,h,j,...)local m=(c[6897])local n=c[198]local o=c[4548]local o=c[1818]local r=c[4801]local s=c[7821]return function(...)local c=ba(c[3924])local z={}local bb={}local bc={}local bf=0 local bi=0 local bo={}local bp=0 local k=k('#',...)-1 local bq=n+1 local bs,bv=bv(...);local bx={...};local bx=1 local cg=-1 for ch=0,k do if ch<=n then c[ch]=bs[ch+1];end;end;local k,ch while true do k=m[bx];ch=k[5245];if ch<=5 then if ch<=1 then if ch<=0 then if k[3676]==159 then c[k[4999]]=r[k[5938]];elseif k[3676]==152 then c[k[4999]]=-c[k[5938]];else c[k[4999]]=r[k[5938]];end else local ci=k[4999]local ci=c[ci]bf=bf+1 bc[bf]=ci end else if ch<=3 then if ch~=3 then if k[3676]==((215)*1)then c[k[4999]]=not c[k[5938]];elseif k[3676]==249 then j[r[k[5938]]]=c[k[4999]];else c[k[4999]]=not c[k[5938]];end else if k[3676]==129 then c[k[4999]]=nil;elseif k[3676]==187 then c[k[4999]]=j[r[k[5938]]];else c[k[4999]]=nil;end end else if ch==4 then c[k[4999]]=c[k[5938]][c[k[3676]]];else if k[3676]==211 then local ci=k[5938]local ci=h[ci]c[k[4999]]=ci[1]elseif k[3676]==66 then c[k[4999]]=c[k[5938]];else local ci=k[5938]local ci=h[ci]c[k[4999]]=ci[1]end end end end else if ch<=13 then if ch<=((8)+0)then if ch<=7 then if ch~=7 then bx=k[5938];else local ci=k[4999]local cj=k[5938]local ci=c[ci]if not ci then bx=cj;end;end else c[k[4999]]=r[k[5938]];end else if ch<=((10)-0)then if ch==10 then local ci=k[4999]local cj=k[5938]local cj=cj local ck=bf local cj=ck-cj+1 local cl=bc[cj]c[ci]=cl(t(bc,cj+((1)*1),ck))for ci=ck,cj,-1 do bc[ci]=nil end bf=cj-1 end else if ch>=13 then local ci=k[5938]local ci=r[ci]bf=(1)+(bf)bc[bf]=ci else if not((ch)~=(11))then c[k[4999]]=c[k[5938]];else local ci=k[5938]for cj=1,#ci do local ci=ci[cj]local ci=r[ci]bf=bf+1 bc[bf]=ci end end end end end else if ch<=24 then if not((ch)<(19))then if ch>=22 then if ch<=23 then if not((ch)>=(23))then do return end else c[k[4999]]=c[k[5938]]>=c[k[3676]];end else local ci=k[4999]local ci=bc[bf]bc[bf]=nil bf=bf-1 local cj=bc[bf]bc[bf]=nil bf=bf-1 cj(ci)end else if ch<=20 then if ch~=20 then c[k[4999]]=h[k[5938]]else c[k[4999]]=c[k[5938]]<=c[k[3676]];end else c[k[4999]][c[k[5938]]]=c[k[3676]];end end else if ch<=16 then if ch>=16 then c[k[4999]]=j[r[k[5938]]];else if ch==14 then c[k[4999]]=c[k[5938]]==c[k[3676]];else bx=((c[k[4999]])and(k[5938])or bx)end end else if ch<18 then c[k[4999]]=bx+k[5938];else local ci,cj=c[k[5938]],k[4999]c[cj]=ci[c[k[3676]]];c[cj+1]=ci;end end end else if(38)<=(ch)then if ch>=55 then if ch>=84 then if not((ch)<(148))then if ch<=179 then if ch<=163 then if ch<=155 then if ch<=151 then if ch>=150 then if ch~=151 then m[c[k[7362]]]={[4999]=(k[4999]+27),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else local ci=k[5938]local ci=h[ci]c[k[4999]]=ci[1]end else if ch==148 then m[c[k[7362]]]={[4999]=(k[4999]-5),[5938]=k[5938],[3676]=(k[3676]-24),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-40),[3676]=(k[3676]-7),[5245]=m[c[k[7362]]][5245]}end end else if ch<=153 then if ch<153 then m[c[k[7362]]]={[4999]=(k[4999]-42),[5938]=k[5938],[3676]=(k[3676]-15),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=((3)+(k[4999])),[5938]=(k[5938]+50),[3676]=(k[3676]-23),[5245]=m[c[k[7362]]][5245]}end else if ch==((154)-0)then m[c[k[7362]]]={[4999]=(k[4999]-25),[5938]=k[5938],[3676]=(k[3676]-4),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-13),[5938]=(k[5938]-56),[3676]=(k[3676]+33),[5245]=m[c[k[7362]]][5245]}end end end else if ch<=159 then if ch<=(0+(157))then if ch==((156)*1)then m[c[k[7362]]]={[4999]=(k[4999]-15),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]+26),[5245]=m[c[k[7362]]][5245]}end else if ch<159 then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+(0+(1))),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-9),[5938]=((18)+(k[5938])),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end else if ch>=162 then if ch<163 then local ci=bx local cj=k if cj[7362]==128 then c[cj[4999]]=r[cj[5938]];elseif cj[7362]==255 then c[cj[4999]][c[cj[5938]]]=c[cj[3676]];else c[cj[4999]]=c[cj[5938]]/c[cj[3676]];end local cj=m[(1)+(ci)]if cj[7362]==123 then c[cj[4999]]=c[cj[5938]]-c[cj[3676]];elseif cj[7362]==109 then c[cj[4999]]=-c[cj[5938]];else c[cj[4999]]=c[cj[5938]][c[cj[3676]]];end local ci=m[(2)+(ci)]if not((ci[7362])~=(247))then c[ci[4999]]=c[ci[5938]]-c[ci[3676]];elseif ci[7362]==257 then c[ci[4999]]=not c[ci[5938]];elseif ci[7362]==273 then c[ci[4999]]=r[ci[5938]];end bx=(((2)+0))+(bx)else local ci=bx local cj=k if cj[7362]==205 then c[cj[4999]]=-c[cj[5938]];elseif cj[7362]==188 then c[cj[4999]]=(c[cj[3676]])*(c[cj[5938]]);elseif cj[7362]==45 then c[cj[4999]]=r[cj[5938]];end local cj=m[ci+((1)+0)]if not((cj[7362])~=(84))then c[cj[4999]]=c[cj[5938]][c[cj[3676]]];elseif cj[7362]==145 then c[cj[4999]]=c[cj[5938]]/c[cj[3676]];elseif cj[7362]==227 then c[cj[4999]]=c[cj[5938]]*c[cj[3676]];end local ci=m[ci+2]if not((ci[7362])~=(60))then c[ci[4999]]=r[ci[5938]];elseif ci[7362]==223 then c[ci[4999]]=#c[ci[5938]];elseif ci[7362]==117 then c[ci[4999]]=c[ci[5938]];end bx=bx+2 end else if ch==160 then local ci=bx local cj=k if not((cj[7362])~=(228))then c[cj[4999]]=c[cj[5938]];elseif cj[7362]==73 then c[cj[4999]]=c[cj[5938]]-c[cj[3676]];elseif cj[7362]==96 then j[r[cj[5938]]]=c[cj[4999]];end local cj=m[(1)+(ci)]if cj[7362]==112 then local ck=cj[4999]local ck=c[ck]bf=(1)+(bf)bc[bf]=ck elseif cj[7362]==111 then c[cj[4999]]=r[cj[5938]];elseif cj[7362]==56 then j[r[cj[5938]]]=c[cj[4999]];end local cj=m[(((2)+0))+(ci)]if cj[7362]==104 then c[cj[4999]]=c[cj[5938]][c[cj[3676]]];elseif cj[7362]==139 then c[cj[4999]]=not c[cj[5938]];else c[cj[4999]]=j[r[cj[5938]]];end local ci=m[ci+3]if ci[7362]==125 then c[ci[4999]]=r[ci[5938]];elseif ci[7362]==215 then local cj=o[ci[5938]]local ck=cj[2458]local cl=#ck local cm=ba(cl)for cn=1,cl do local ck=ck[cn]local cl=ck[2]local co=ck[3]if ck[1]==1 then if co==0 then local ck=c[cl]z[cl]=ck cm[cn-1]=ck else cm[cn-1]=c[cl]end else local ck=h[cl]if co==0 and ck[((0)+0)]then ck=ck[0][ck[1]]end cm[cn-1]=ck end end c[ci[4999]]=by(cj,cm,j)else c[ci[4999]]=c[ci[5938]][c[ci[3676]]];end bx=bx+3 else local ci=bx local cj=k if cj[7362]==141 then c[cj[4999]]=c[cj[5938]]+c[cj[3676]];elseif cj[7362]==208 then j[r[cj[5938]]]=c[cj[4999]];else c[cj[4999]]=j[r[cj[5938]]];end local ci=m[ci+1]if not((ci[7362])~=(160))then c[ci[4999]]=-c[ci[5938]];elseif ci[7362]==192 then c[ci[4999]]=r[ci[5938]];else c[ci[4999]]=(c[ci[3676]])*(c[ci[5938]]);end bx=(1)+(bx)end end end end else if ch<=171 then if ch>=168 then if ch>=170 then if ch<=170 then do return t(c,k[4999],cg)end else local ci,cj=k[4999],(k[3676]*100)local ck=c[ci]for cl=(k[5938]),(1),-1 do ck[(cl)+(cj)]=c[ci+cl]end end else if not((ch)~=(168))then local ci=bx local cj=k if cj[7362]==218 then local ck=cj[4999]local ck=c[ck]bf=bf+1 bc[bf]=ck elseif cj[7362]==280 then c[cj[4999]]=j[r[cj[5938]]];else c[cj[4999]]=c[cj[5938]][c[cj[3676]]];end local cj=m[(1)+(ci)]if cj[7362]==274 then local ck=cj[4999]local ck=c[ck]bf=bf+1 bc[bf]=ck elseif cj[7362]==48 then local ck=o[cj[5938]]local cl=ck[2458]local cm=#cl local cn=ba(cm)for co=1,cm do local cl=cl[co]local cm=cl[2]local cp=cl[3]if cl[((1)+0)]==1 then if cp==0 then local cl=c[cm]z[cm]=cl cn[co-1]=cl else cn[co-1]=c[cm]end else local cl=h[cm]if cp==0 and cl[0]then cl=cl[0][cl[1]]end cn[co-((1)-0)]=cl end end c[cj[4999]]=by(ck,cn,j)else c[cj[4999]]=j[r[cj[5938]]];end local ci=m[(2)+(ci)]if ci[7362]==49 then local cj=ci[4999]local ck=bc[bf]bc[bf]=nil bf=bf-1 local cl=bc[bf]bc[bf]=nil bf=bf-1 do local ck,cl,cm=cl(ck)c[cj]=ck c[cj+(0+(1))]=cl c[cj+2]=cm end elseif ci[7362]==105 then c[ci[4999]]=-c[ci[5938]];elseif ci[7362]==171 then c[ci[4999]]=c[ci[5938]]/c[ci[3676]];end bx=bx+2 else c[k[4999]]=nil;end end else if ch>=166 then if ch<=166 then local ci=bx local cj=k if cj[7362]==146 then local ck=cj[4999]local ck=c[ck]bf=(1)+(bf)bc[bf]=ck elseif cj[7362]==237 then c[cj[4999]]=-c[cj[5938]];elseif cj[7362]==179 then j[r[cj[5938]]]=c[cj[4999]];end local cj=m[ci+1]if cj[7362]==(0+(90))then local ck=o[cj[5938]]local cl=ck[2458]local cm=#cl local cn=ba(cm)for co=1,cm do local cl=cl[co]local cm=cl[2]local cp=cl[3]if cl[1]==1 then if cp==((0)-0)then local cl=c[cm]z[cm]=cl cn[co-1]=cl else cn[co-1]=c[cm]end else local cl=h[cm]if cp==0 and cl[0]then cl=cl[0][cl[1]]end cn[co-1]=cl end end c[cj[4999]]=by(ck,cn,j)elseif cj[7362]==205 then c[cj[4999]]=c[cj[5938]];else c[cj[4999]]=-c[cj[5938]];end local cj=m[ci+2]if cj[7362]==96 then c[cj[4999]]=c[cj[5938]][c[cj[3676]]];elseif cj[7362]==283 then c[cj[4999]]=r[cj[5938]];elseif cj[7362]==203 then c[cj[4999]]=c[cj[5938]]*c[cj[3676]];end local cj=m[ci+3]if cj[7362]==((232)*1)then c[cj[4999]]=c[cj[5938]][c[cj[3676]]];elseif cj[7362]==60 then c[cj[4999]]=c[cj[5938]]*c[cj[3676]];elseif cj[7362]==226 then c[cj[4999]]=r[cj[5938]];end local cj=m[ci+4]if not((cj[7362])~=(63))then c[cj[4999]]=c[cj[5938]]+c[cj[3676]];elseif cj[7362]==143 then c[cj[4999]]=#c[cj[5938]];elseif cj[7362]==177 then c[cj[4999]]=c[cj[5938]];end local cj=m[(5)+(ci)]if cj[7362]==68 then c[cj[4999]]=#c[cj[5938]];elseif cj[7362]==168 then c[cj[4999]]=r[cj[5938]];elseif cj[7362]==157 then j[r[cj[5938]]]=c[cj[4999]];end local ci=m[ci+6]if not((ci[7362])~=(201))then c[ci[4999]]=c[ci[5938]][c[ci[3676]]];elseif ci[7362]==99 then c[ci[4999]]=(c[ci[3676]])*(c[ci[5938]]);elseif ci[7362]==256 then local cj=o[ci[5938]]local ck=cj[2458]local cl=#ck local cm=ba(cl)for cn=1,cl do local ck=ck[cn]local cl=ck[2]local co=ck[3]if ck[1]==1 then if co==0 then local ck=c[cl]z[cl]=ck cm[cn-1]=ck else cm[cn-1]=c[cl]end else local ck=h[cl]if co==0 and ck[0]then ck=ck[0][ck[1]]end cm[cn-1]=ck end end c[ci[4999]]=by(cj,cm,j)end bx=(6)+(bx)else local ci=bx local cj=k if cj[7362]==267 then c[cj[4999]]=c[cj[5938]][c[cj[3676]]];elseif cj[7362]==63 then c[cj[4999]]=c[cj[5938]];else c[cj[4999]]=c[cj[5938]]-c[cj[3676]];end local cj=m[(1)+(ci)]if not((cj[7362])~=(247))then c[cj[4999]]=#c[cj[5938]];elseif cj[7362]==135 then j[r[cj[5938]]]=c[cj[4999]];else c[cj[4999]]=(c[cj[3676]])*(c[cj[5938]]);end local ci=m[ci+2]if ci[7362]==100 then c[ci[4999]]=r[ci[5938]];elseif ci[7362]==144 then c[ci[4999]]=c[ci[5938]]-c[ci[3676]];elseif ci[7362]==118 then c[ci[4999]]=not c[ci[5938]];end bx=bx+2 end else if ch~=165 then local ci=bx local cj=k if cj[7362]==294 then local ck=cj[4999]local ck=c[ck]bf=bf+1 bc[bf]=ck elseif cj[7362]==122 then c[cj[4999]]=c[cj[5938]];else c[cj[4999]]=c[cj[5938]]/c[cj[3676]];end local cj=m[ci+1]if cj[7362]==252 then local ck=cj[4999]local ck=c[ck]bf=bf+(0+(1))bc[bf]=ck elseif cj[7362]==181 then c[cj[4999]]=#c[cj[5938]];elseif cj[7362]==224 then c[cj[4999]]=r[cj[5938]];end local cj=m[(2)+(ci)]if cj[7362]==98 then c[cj[4999]]=c[cj[5938]];elseif cj[7362]==123 then c[cj[4999]]=j[r[cj[5938]]];else c[cj[4999]]=not c[cj[5938]];end local ci=m[ci+3]if ci[7362]==105 then c[ci[4999]]=j[r[ci[5938]]];elseif ci[7362]==104 then c[ci[4999]][c[ci[5938]]]=c[ci[3676]];elseif ci[7362]==213 then local cj=o[ci[5938]]local ck=cj[2458]local cl=#ck local cm=ba(cl)do local cn=(1)local co=(1)local cl=(cl)if co>=0 then if cn<=cl then repeat local cp=ck[cn]local cq=cp[2]local cr=cp[3]if cp[1]==1 then if not((cr)~=(0))then local cp=c[cq]z[cq]=cp cm[cn-1]=cp else cm[cn-1]=c[cq]end else local cp=h[cq]if cr==0 and cp[0]then cp=cp[0][cp[1]]end cm[cn-1]=cp end cn=cn+co until not(cn<=cl)end else if cn>=cl then repeat local ck=ck[cn]local cp=ck[2]local cq=ck[3]if ck[1]==1 then if not((cq)~=(0))then local ck=c[cp]z[cp]=ck cm[cn-1]=ck else cm[cn-1]=c[cp]end else local ck=h[cp]if cq==0 and ck[0]then ck=ck[0][ck[1]]end cm[cn-1]=ck end cn=cn+co until not(cn>=cl)end end end c[ci[4999]]=by(cj,cm,j)end bx=bx+((3)*1)else local ci=bx local cj=k if not((cj[7362])~=(74))then c[cj[4999]]=c[cj[5938]]*c[cj[3676]];elseif cj[7362]==110 then c[cj[4999]]=c[cj[5938]];elseif cj[7362]==232 then c[cj[4999]]=not c[cj[5938]];end local cj=m[ci+1]if cj[7362]==165 then c[cj[4999]]=r[cj[5938]];elseif cj[7362]==172 then c[cj[4999]]=j[r[cj[5938]]];elseif cj[7362]==237 then c[cj[4999]]=c[cj[5938]]-c[cj[3676]];end local cj=m[ci+((2)+0)]if cj[7362]==297 then c[cj[4999]]=c[cj[5938]];elseif cj[7362]==109 then local ck=cj[4999]local ck=c[ck]bf=((0+(1)))+(bf)bc[bf]=ck else c[cj[4999]]=c[cj[5938]]-c[cj[3676]];end local ci=m[ci+(0+(3))]if ci[7362]==((120)-0)then c[ci[4999]]=c[ci[5938]]-c[ci[3676]];elseif ci[7362]==262 then c[ci[4999]][c[ci[5938]]]=c[ci[3676]];elseif ci[7362]==145 then j[r[ci[5938]]]=c[ci[4999]];end bx=bx+3 end end end else if ch>=176 then if ch<=177 then if ch==176 then c[k[4999]]=c[k[5938]]/c[k[3676]];else m[c[k[7362]]]={[4999]=k[4999],[5938]=((7)+(k[5938])),[3676]=(k[3676]+25),[5245]=m[c[k[7362]]][5245]}end else if ch<179 then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+15),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+8),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end else if not((ch)>(173))then if ch~=173 then h[k[5938]][1]=c[k[4999]]else local n,bv,ci=k[4999],(bv-n-1),0 if bv<((0)-0)then bv=-1 end for cj=n,n+bv do c[cj]=bs[bq+ci]ci=ci+((1)-0)end cg=n+bv end else if ch~=((175)-0)then local n=k[4999]local bq=bc[bf]bc[bf]=nil bf=bf-((1)-0)c[n]=bq()else c[k[4999]]=(c[k[3676]])+(c[k[5938]]);end end end end end else if ch>=196 then if ch<=203 then if(199)>=(ch)then if ch>=198 then if(199)>(ch)then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+27),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=((71)+(k[5938])),[3676]=(k[3676]+10),[5245]=m[c[k[7362]]][5245]}end else if ch<197 then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-((28)+0)),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-15),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end else if ch<=201 then if not((ch)~=(200))then m[c[k[7362]]]={[4999]=(k[4999]+29),[5938]=k[5938],[3676]=(k[3676]-14),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-11),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if ch<=((202)+0)then m[c[k[7362]]]={[4999]=(k[4999]-23),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+55),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end end else if ch>=208 then if ch<=209 then if ch~=((209)*1)then m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]+36),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-38),[5938]=k[5938],[3676]=(k[3676]+9),[5245]=m[c[k[7362]]][5245]}end else if ch>=((211)+0)then if ch~=(0+(212))then m[c[k[7362]]]={[4999]=(k[4999]-39),[5938]=k[5938],[3676]=(k[3676]+14),[5245]=m[c[k[7362]]][5245]}end else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]-((25)*1)),[5245]=m[c[k[7362]]][5245]}end end else if ch<=205 then if ch~=205 then m[c[k[7362]]]={[4999]=(k[4999]+7),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=((26)+(k[3676])),[5245]=m[c[k[7362]]][5245]}end else if ch~=207 then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+18),[3676]=(k[3676]-7),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-9),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end end end else if not((ch)<(188))then if ch<=(0+(191))then if(((190)-0))<=(ch)then if ch<191 then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-15),[3676]=(k[3676]-41),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-22),[5938]=k[5938],[3676]=(k[3676]-((28)*1)),[5245]=m[c[k[7362]]][5245]}end else if ch<=188 then m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]-29),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]+(0+(28))),[5938]=k[5938],[3676]=(k[3676]-4),[5245]=m[c[k[7362]]][5245]}end end else if ch<=193 then if not((ch)>(192))then m[c[k[7362]]]={[4999]=(k[4999]-17),[5938]=(k[5938]-12),[3676]=(k[3676]-((30)*1)),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-14),[3676]=(k[3676]+((28)-0)),[5245]=m[c[k[7362]]][5245]}end else if not((ch)>=(195))then m[c[k[7362]]]={[4999]=k[4999],[5938]=((4)+(k[5938])),[3676]=(k[3676]+17),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]+20),[5245]=m[c[k[7362]]][5245]}end end end else if ch<=183 then if not((ch)>(181))then if ch<181 then m[c[k[7362]]]={[4999]=(k[4999]-1),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-22),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if not((ch)>(182))then m[c[k[7362]]]={[4999]=(k[4999]-((42)*1)),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-26),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end else if ch<=185 then if ch<((185)-0)then m[c[k[7362]]]={[4999]=(k[4999]+37),[5938]=(k[5938]+9),[3676]=(k[3676]-((39)-0)),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]+6),[5938]=k[5938],[3676]=(k[3676]-6),[5245]=m[c[k[7362]]][5245]}end else if ch==186 then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-36),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-(0+(10))),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end end end end end else if ch<=((115)-0)then if ch>=100 then if ch>=108 then if ch<=111 then if ch<=109 then if ch<=((108)+0)then m[c[k[7362]]]={[4999]=((29)+(k[4999])),[5938]=(k[5938]-21),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-((17)-0)),[5938]=(k[5938]+17),[3676]=(k[3676]-18),[5245]=m[c[k[7362]]][5245]}end else if ch<=110 then m[c[k[7362]]]={[4999]=(k[4999]+11),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-((6)-0)),[5938]=k[5938],[3676]=(k[3676]+(0+(5))),[5245]=m[c[k[7362]]][5245]}end end else if ch<=113 then if ch~=113 then m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(((0+(28)))+(k[3676])),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]+33),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if not((ch)>(114))then m[c[k[7362]]]={[4999]=(k[4999]+30),[5938]=(k[5938]-(0+(46))),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=((4)+(k[4999])),[5938]=(k[5938]+29),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end end else if ch>=104 then if ch>=106 then if ch~=107 then m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]-34),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-6),[5938]=(k[5938]-33),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if ch==((104)+0)then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+47),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]+17),[5245]=m[c[k[7362]]][5245]}end end else if(102)<=(ch)then if ch==102 then m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]+19),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+24),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if ch~=((101)*1)then m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]+33),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+7),[3676]=(k[3676]+((24)+0)),[5245]=m[c[k[7362]]][5245]}end end end end else if ch<=91 then if ch>=88 then if ch>=((90)+0)then if(90)>=(ch)then m[c[k[7362]]]={[4999]=(k[4999]-28),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-21),[5938]=k[5938],[3676]=((26)+(k[3676])),[5245]=m[c[k[7362]]][5245]}end else if ch~=89 then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-13),[3676]=(k[3676]+23),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-15),[3676]=(k[3676]-24),[5245]=m[c[k[7362]]][5245]}end end else if ch<=85 then if ch<=84 then m[c[k[7362]]]={[4999]=(k[4999]-24),[5938]=((28)+(k[5938])),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]+16),[5245]=m[c[k[7362]]][5245]}end else if(87)>(ch)then m[c[k[7362]]]={[4999]=(k[4999]-3),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]+37),[5245]=m[c[k[7362]]][5245]}end end end else if ch<=95 then if ch<=93 then if ch<((93)*1)then m[c[k[7362]]]={[4999]=(k[4999]+9),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-36),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if ch==((94)-0)then m[c[k[7362]]]={[4999]=(k[4999]-((11)+0)),[5938]=(k[5938]+6),[3676]=(k[3676]-14),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-19),[5938]=(k[5938]+((74)+0)),[3676]=(k[3676]-5),[5245]=m[c[k[7362]]][5245]}end end else if ch<=((97)*1)then if ch==96 then local n=k[5938]local bq=k[4999]local n=c[n]if not n then bx=bq;end;else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+11),[3676]=(k[3676]+16),[5245]=m[c[k[7362]]][5245]}end else if ch<=98 then m[c[k[7362]]]={[4999]=((6)+(k[4999])),[5938]=(k[5938]+31),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]+34),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end end end end else if ch>=132 then if not((ch)>(139))then if ch>=136 then if ch<=137 then if ch~=137 then m[c[k[7362]]]={[4999]=k[4999],[5938]=((39)+(k[5938])),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+3),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if ch==138 then local n=k[5938]local n=c[n]bf=bf+1 bc[bf]=n else m[c[k[7362]]]={[4999]=(k[4999]-43),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end else if not((ch)<(134))then if(134)>=(ch)then m[c[k[7362]]]={[4999]=(k[4999]-15),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]+13),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if not((ch)~=(132))then m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]-25),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]-28),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end end end else if ch<=((143)+0)then if ch>=(0+(142))then if ch<((143)+0)then m[c[k[7362]]]={[4999]=(k[4999]+21),[5938]=(k[5938]+41),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-14),[5938]=k[5938],[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if ch<141 then m[c[k[7362]]]={[4999]=(k[4999]-37),[5938]=(k[5938]-12),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-31),[5938]=k[5938],[3676]=(k[3676]-24),[5245]=m[c[k[7362]]][5245]}end end else if ch>=146 then if(147)>(ch)then m[c[k[7362]]]={[4999]=(k[4999]+12),[5938]=(k[5938]+25),[3676]=((3)+(k[3676])),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]+4),[5938]=(k[5938]+28),[3676]=(k[3676]-((28)-0)),[5245]=m[c[k[7362]]][5245]}end else if ch<=144 then c[k[5938]]=c[k[4999]][c[k[3676]]];else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]-32),[5245]=m[c[k[7362]]][5245]}end end end end else if not((ch)>(123))then if(120)<=(ch)then if ch<=121 then if ch<=120 then bx=k[4999];else local n=k[5938]c[n]=c[n](c[n+1],c[n+((2)*1)]);end else if ch<=122 then local n=k[5938]local n=c[n]bf=bf+1 bc[bf]=n else local n,bq=c[k[4999]],k[5938]c[bq]=n[c[k[3676]]];c[bq+((1)+0)]=n;end end else if ch<=117 then if ch~=117 then local n,bq,bs=k[5938],k[4999],k[3676]local bq=s[bq]local n=c[n]for bv=1,#bq do if n==nil then break end n=n[r[bq[bv]]]end c[bs]=n else if c[k[5938]]then bx=k[4999];end;end else if not((ch)~=(118))then c[k[5938]]=h[k[4999]]else c[k[5938]][1]=c[k[4999]]end end end else if ch>=128 then if ch<=129 then if ch~=((129)-0)then local n,bq=c[k[4999]],k[5938]c[bq]=n[c[k[3676]]];c[bq+1]=n;else m[c[k[7362]]]={[4999]=k[4999],[5938]=((((6)-0))+(k[5938])),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if ch~=131 then m[c[k[7362]]]={[4999]=k[4999],[5938]=((((67)+0))+(k[5938])),[3676]=(k[3676]+24),[5245]=m[c[k[7362]]][5245]}else local n=k[5938]local n=c[n]bf=(((1)-0))+(bf)bc[bf]=n end end else if not((ch)<(126))then if not((ch)==(127))then local n=k[5938]local bq=k[4999]local n=c[n]if not n then bx=bq;end;else local n=k[5938]local n=c[n]bf=bf+1 bc[bf]=n end else if(124)>=(ch)then local n,bq,bs=k[5938],k[4999],k[3676]local bq=s[bq]local n=c[n]for bv=1,#bq do if n==nil then break end n=n[r[bq[bv]]]end c[bs]=n else c[k[5938]]=c[k[4999]][c[k[3676]]];end end end end end end end else if ch<=62 then if not((ch)>(58))then if(57)<=(ch)then if ch<58 then local n,bq=k[4999],k[5938]local bq=s[bq]local bs={}for bv=1,#bq do bs[bv]=r[bq[bv]]end c[n]=bs else local n=bx local bq=k if bq[7362]==208 then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];elseif bq[7362]==273 then c[bq[4999]]=j[r[bq[5938]]];elseif bq[7362]==283 then local bq=bq[4999]local bq=c[bq]bf=bf+1 bc[bf]=bq end local n=m[n+1]if n[7362]==241 then c[n[4999]]=r[n[5938]];elseif n[7362]==227 then j[r[n[5938]]]=c[n[4999]];elseif n[7362]==132 then c[n[4999]]=c[n[5938]];end bx=bx+1 end else if ch==55 then local n=bx local bq=k if bq[7362]==96 then c[bq[4999]]=(c[bq[3676]])*(c[bq[5938]]);elseif bq[7362]==285 then local bs=o[bq[5938]]local bv=bs[2458]local ci=#bv local cj=ba(ci)for ck=1,ci do local bv=bv[ck]local ci=bv[2]local cl=bv[3]if bv[1]==1 then if cl==0 then local bv=c[ci]z[ci]=bv cj[ck-1]=bv else cj[ck-1]=c[ci]end else local bv=h[ci]if cl==0 and bv[(0+(0))]then bv=bv[0][bv[1]]end cj[ck-((1)+0)]=bv end end c[bq[4999]]=by(bs,cj,j)elseif bq[7362]==68 then c[bq[4999]]=r[bq[5938]];end local bq=m[n+((1)*1)]if bq[7362]==((40)-0)then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];elseif bq[7362]==262 then c[bq[4999]]=c[bq[5938]][c[bq[3676]]];elseif bq[7362]==235 then c[bq[4999]]=#c[bq[5938]];end local n=m[n+2]if n[7362]==227 then c[n[4999]]=c[n[5938]];elseif n[7362]==156 then c[n[4999]]=c[n[5938]]/c[n[3676]];else local bq=o[n[5938]]local bs=bq[2458]local bv=#bs local ci=ba(bv)for cj=1,bv do local bs=bs[cj]local bv=bs[2]local ck=bs[3]if bs[1]==1 then if not((ck)~=(0))then local bs=c[bv]z[bv]=bs ci[cj-1]=bs else ci[cj-1]=c[bv]end else local bs=h[bv]if ck==0 and bs[0]then bs=bs[0][bs[1]]end ci[cj-1]=bs end end c[n[4999]]=by(bq,ci,j)end bx=bx+2 else local n=bx local bq=k if not((bq[7362])~=(202))then j[r[bq[5938]]]=c[bq[4999]];elseif bq[7362]==48 then c[bq[4999]]=(c[bq[3676]])*(c[bq[5938]]);else c[bq[4999]]=r[bq[5938]];end local bq=m[n+((1)-0)]if bq[7362]==79 then c[bq[4999]]=j[r[bq[5938]]];elseif bq[7362]==136 then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];else c[bq[4999]]=c[bq[5938]][c[bq[3676]]];end local n=m[n+((2)*1)]if n[7362]==143 then c[n[4999]]=c[n[5938]];elseif n[7362]==169 then c[n[4999]]=r[n[5938]];else c[n[4999]]=-c[n[5938]];end bx=bx+2 end end else if ch>=61 then if not((ch)>=(62))then local n=k[4999]local n=bf local bq=bi local bs=bq+1 local bv=bc[bs]bv(t(bc,bs+1,n))for bv=n,bs,-1 do bc[bv]=nil end bf=bq local n=bo[bp]bo[bp]=nil bp=bp-1 bi=n or 0 else local n=k[4999]local bq=k[5938]local bq=bq local bs=bf local bq=bs-bq+1 local bv=bc[bq]local bv=bw(bb,bv(t(bc,bq+1,bs)))cg=n+bv-1 for ci=1,bv do c[n+ci-1]=bb[ci]end for n=bs,bq,-1 do bc[n]=nil end bf=bq-1 end else if ch==59 then c[k[4999]]=c[k[5938]]*c[k[3676]];else local n=bx local bq=k if bq[7362]==(0+(168))then c[bq[4999]]=r[bq[5938]];elseif bq[7362]==269 then j[r[bq[5938]]]=c[bq[4999]];elseif bq[7362]==185 then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];end local bq=m[n+1]if not((bq[7362])~=(202))then c[bq[4999]]=r[bq[5938]];elseif bq[7362]==42 then j[r[bq[5938]]]=c[bq[4999]];else local bq=bq[4999]local bq=c[bq]bf=bf+1 bc[bf]=bq end local bq=m[n+(0+(2))]if bq[7362]==134 then j[r[bq[5938]]]=c[bq[4999]];elseif bq[7362]==206 then c[bq[4999]]=r[bq[5938]];elseif bq[7362]==223 then c[bq[4999]]=j[r[bq[5938]]];end local bq=m[n+3]if bq[7362]==153 then c[bq[4999]]=r[bq[5938]];elseif bq[7362]==252 then local bs=o[bq[5938]]local bv=bs[2458]local ci=#bv local cj=ba(ci)do local ck=(1)local cl=(1)local ci=(ci)if cl>=0 then while ck<=ci do local cm=bv[ck]local cn=cm[2]local co=cm[3]if not((cm[1])~=(1))then if co==((0)-0)then local cm=c[cn]z[cn]=cm cj[ck-1]=cm else cj[ck-1]=c[cn]end else local cm=h[cn]if not((co)~=(0))and cm[0]then cm=cm[0][cm[1]]end cj[ck-1]=cm end ck=ck+cl end else while ck>=ci do local bv=bv[ck]local ci=bv[2]local cm=bv[3]if not((bv[1])~=(1))then if cm==((0)-0)then local bv=c[ci]z[ci]=bv cj[ck-1]=bv else cj[ck-1]=c[ci]end else local bv=h[ci]if not((cm)~=(0))and bv[0]then bv=bv[0][bv[1]]end cj[ck-1]=bv end ck=ck+cl end end end c[bq[4999]]=by(bs,cj,j)elseif bq[7362]==192 then j[r[bq[5938]]]=c[bq[4999]];end local bq=m[n+4]if bq[7362]==((128)+0)then j[r[bq[5938]]]=c[bq[4999]];elseif bq[7362]==287 then c[bq[4999]]=r[bq[5938]];else c[bq[4999]]=#c[bq[5938]];end local bq=m[n+5]if bq[7362]==62 then c[bq[4999]]=j[r[bq[5938]]];elseif bq[7362]==77 then c[bq[4999]]=r[bq[5938]];else j[r[bq[5938]]]=c[bq[4999]];end local n=m[n+6]if not((n[7362])~=(152))then c[n[4999]][c[n[5938]]]=c[n[3676]];elseif n[7362]==297 then c[n[4999]]=r[n[5938]];elseif n[7362]==226 then j[r[n[5938]]]=c[n[4999]];end bx=bx+6 end end end else if ch>=70 then if ch>=77 then if ch<=80 then if ch>=79 then if not((ch)>(79))then c[k[4999]]=c else m[c[k[7362]]]={[4999]=k[4999],[5938]=k[5938],[3676]=(k[3676]-30),[5245]=m[c[k[7362]]][5245]}end else if ch<=77 then local n=bx local bq=k if bq[7362]==115 then c[bq[4999]]=-c[bq[5938]];elseif bq[7362]==91 then c[bq[4999]]=not c[bq[5938]];elseif bq[7362]==113 then j[r[bq[5938]]]=c[bq[4999]];end local bq=m[n+(0+(1))]if bq[7362]==134 then c[bq[4999]]=-c[bq[5938]];elseif bq[7362]==139 then c[bq[4999]]=r[bq[5938]];else c[bq[4999]]=c[bq[5938]];end local bq=m[n+2]if bq[7362]==291 then c[bq[4999]]=c[bq[5938]]+c[bq[3676]];elseif bq[7362]==242 then j[r[bq[5938]]]=c[bq[4999]];else c[bq[4999]]=-c[bq[5938]];end local bq=m[(3)+(n)]if bq[7362]==254 then c[bq[4999]]=j[r[bq[5938]]];elseif bq[7362]==144 then c[bq[4999]]=c[bq[5938]]-c[bq[3676]];elseif bq[7362]==99 then c[bq[4999]]=-c[bq[5938]];end local n=m[n+4]if n[7362]==151 then c[n[4999]]=-c[n[5938]];elseif n[7362]==118 then c[n[4999]]=r[n[5938]];elseif n[7362]==208 then c[n[4999]]=c[n[5938]]+c[n[3676]];end bx=bx+4 else c[k[4999]]=m end end else if ch<=((82)*1)then if ch~=82 then m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+61),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-2),[5938]=(k[5938]-48),[3676]=(k[3676]+17),[5245]=m[c[k[7362]]][5245]}end else bx=k[4999];end end else if ch<=73 then if not((ch)<(72))then if ch<73 then local n=bx local bq=k if bq[7362]==255 then c[bq[4999]]=not c[bq[5938]];elseif bq[7362]==111 then c[bq[4999]]=c[bq[5938]]+c[bq[3676]];elseif bq[7362]==284 then c[bq[4999]]=r[bq[5938]];end local bq=m[(1)+(n)]if bq[7362]==116 then c[bq[4999]]=-c[bq[5938]];elseif bq[7362]==154 then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];else c[bq[4999]]=c[bq[5938]][c[bq[3676]]];end local n=m[n+2]if n[7362]==94 then c[n[4999]]=c[n[5938]]/c[n[3676]];elseif n[7362]==165 then c[n[4999]]=c[n[5938]]+c[n[3676]];elseif n[7362]==92 then c[n[4999]]=c[n[5938]];end bx=(2)+(bx)else m[c[k[7362]]]={[4999]=k[4999],[5938]=(k[5938]+(0+(25))),[3676]=k[3676],[5245]=m[c[k[7362]]][5245]}end else if ch<=70 then m[c[k[7362]]]={[4999]=(k[4999]+53),[5938]=k[5938],[3676]=(k[3676]-((42)+0)),[5245]=m[c[k[7362]]][5245]}else m[c[k[7362]]]={[4999]=(k[4999]-15),[5938]=(k[5938]-74),[3676]=(k[3676]-28),[5245]=m[c[k[7362]]][5245]}end end else if ch>=((76)+0)then c[k[4999]]=r else if ch<75 then m[c[k[7362]]]={[4999]=(k[4999]-20),[5938]=(k[5938]+9),[3676]=(k[3676]+((16)*1)),[5245]=m[c[k[7362]]][5245]}else local n=k[4999]local bq=bc[bf]bc[bf]=nil bf=bf-1 local bs=bc[bf]bc[bf]=nil bf=bf-1 do local bq,bs,bv=bs(bq)c[n]=bq c[(1)+(n)]=bs c[n+2]=bv end end end end end else if ch>=66 then if ch>=68 then if ch==68 then local n=#k[4999]for bq=1,n do c[k[4999][bq]]=c[k[5938][bq]];end;else c[k[4999]]=(c[k[3676]])>(c[k[5938]]);end else if ch<67 then local n=bx local bq=k if bq[7362]==56 then c[bq[4999]]=c[bq[5938]]/c[bq[3676]];elseif bq[7362]==207 then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];else c[bq[4999]]=r[bq[5938]];end local bq=m[n+1]if bq[7362]==((244)*1)then j[r[bq[5938]]]=c[bq[4999]];elseif bq[7362]==238 then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];else c[bq[4999]]=c[bq[5938]];end local bq=m[n+2]if not((bq[7362])~=(224))then local bs=o[bq[5938]]local bv=bs[2458]local ci=#bv local cj=ba(ci)for ck=1,ci do local bv=bv[ck]local ci=bv[2]local cl=bv[3]if not((bv[1])~=(1))then if cl==0 then local bv=c[ci]z[ci]=bv cj[ck-1]=bv else cj[ck-(0+(1))]=c[ci]end else local bv=h[ci]if cl==((0)+0)and bv[0]then bv=bv[0][bv[1]]end cj[ck-1]=bv end end c[bq[4999]]=by(bs,cj,j)elseif bq[7362]==61 then c[bq[4999]]=r[bq[5938]];elseif bq[7362]==73 then c[bq[4999]]=j[r[bq[5938]]];end local bq=m[n+3]if bq[7362]==49 then c[bq[4999]]=r[bq[5938]];elseif bq[7362]==225 then c[bq[4999]]=c[bq[5938]];elseif bq[7362]==143 then j[r[bq[5938]]]=c[bq[4999]];end local bq=m[n+4]if bq[7362]==101 then c[bq[4999]]=j[r[bq[5938]]];elseif bq[7362]==280 then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];else c[bq[4999]]=#c[bq[5938]];end local n=m[n+5]if n[7362]==((264)+0)then c[n[4999]]=r[n[5938]];elseif n[7362]==241 then c[n[4999]][c[n[5938]]]=c[n[3676]];elseif n[7362]==45 then local n=n[4999]local n=c[n]bf=bf+1 bc[bf]=n end bx=bx+5 else local n=bx local bq=k if bq[7362]==241 then c[bq[4999]]=c[bq[5938]][c[bq[3676]]];elseif bq[7362]==131 then c[bq[4999]]=r[bq[5938]];else c[bq[4999]]=c[bq[5938]];end local n=m[n+1]if n[7362]==205 then c[n[4999]]=not c[n[5938]];elseif n[7362]==99 then c[n[4999]]=c[n[5938]][c[n[3676]]];elseif n[7362]==151 then c[n[4999]]=r[n[5938]];end bx=bx+1 end end else if not((ch)<(65))then local n=k[4999]local bq=bc[bf]bc[bf]=nil bf=bf-1 local bs=bc[bf]bc[bf]=nil bf=bf-1 local bq,bs=bs(bq)do local bq,bs=bq,bs c[n]=bq c[n+1]=bs end else if ch<((64)-0)then local n=k[4999]local bq=bc[bf]bc[bf]=nil bf=bf-1 local bs=bc[bf]bc[bf]=nil bf=bf-1 c[n]=bs(bq)else local n=bx local bq=k if not((bq[7362])~=(249))then c[bq[4999]][c[bq[5938]]]=c[bq[3676]];elseif bq[7362]==185 then c[bq[4999]]=r[bq[5938]];else c[bq[4999]]=-c[bq[5938]];end local bq=m[(((1)*1))+(n)]if bq[7362]==242 then j[r[bq[5938]]]=c[bq[4999]];elseif bq[7362]==227 then c[bq[4999]]=c[bq[5938]][c[bq[3676]]];else c[bq[4999]]=c[bq[5938]];end local bq=m[n+2]if bq[7362]==59 then c[bq[4999]]=j[r[bq[5938]]];elseif bq[7362]==147 then c[bq[4999]]=c[bq[5938]];else j[r[bq[5938]]]=c[bq[4999]];end local n=m[n+3]if n[7362]==161 then c[n[4999]]=r[n[5938]];elseif n[7362]==118 then c[n[4999]]=c[n[5938]]-c[n[3676]];else c[n[4999]]=c[n[5938]];end bx=bx+3 end end end end end end else if not((ch)>(44))then if ch>=42 then if(43)>=(ch)then if ch<=42 then local n,bq=k[4999],k[5938]local bs=(2)+(n)local n,bv=c[n](c[(1)+(n)],c[bs])if not((n)==(nil))then do local n,bq,bv,ci=n,n,bv,bq c[bs]=n c[bs+1]=bq c[bs+2]=bv bx=ci end end else local n,bq=k[4999],k[5938]local bs,bv,ci=c[n],c[n+1],c[n+((2)+0)]c[n]=g(function()for g,cj,ck,cl,cm,cn,co,cp,cq,cr in bs,bv,ci do f(g,cj,ck,cl,cm,cn,co,cp,cq,cr);end;end);c[n+1]=nil;c[n+2]=nil;cg=n+((2)-0);bx=bq;end else c[k[4999]]=c[k[5938]]>c[k[3676]];end else if ch>=40 then if ch~=41 then local f=k[4999]local g=bc[bf]bc[bf]=nil bf=bf-1 local n=bc[bf]bc[bf]=nil bf=bf-1 local bq=bc[bf]bc[bf]=nil bf=bf-((1)*1)c[f]=bq(n,g)else local f=#k[4999]for g=1,f do c[k[4999][g]]=r[k[5938][g]];end;end else if not((ch)==(39))then bp=(1)+(bp)bo[bp]=bi bi=bf else local f=k[4999]local g=k[5938]local g=(g==0)and cg or((g)+(f)-1)for n=f,g do bf=bf+1 bc[bf]=c[n]end end end end else if ch>=50 then if ch<=52 then if ch>=((52)*1)then c[k[4999]]=c[k[5938]]~=c[k[3676]];else if not((ch)==(51))then local f,g=k[4999],k[5938]local g=c[g]c[f]=g[1]else c[k[4999]][1]=c[k[5938]]end end else if ch<=53 then local f=bx local g=k if g[7362]==240 then local n=o[g[5938]]local bq=n[2458]local bs=#bq local bv=ba(bs)for ci=1,bs do local bq=bq[ci]local bs=bq[2]local cj=bq[3]if not((bq[1])~=(1))then if cj==0 then local bq=c[bs]z[bs]=bq bv[ci-1]=bq else bv[ci-1]=c[bs]end else local bq=h[bs]if not((cj)~=(0))and bq[0]then bq=bq[0][bq[1]]end bv[ci-1]=bq end end c[g[4999]]=by(n,bv,j)elseif g[7362]==78 then c[g[4999]][c[g[5938]]]=c[g[3676]];elseif g[7362]==243 then c[g[4999]]=c[g[5938]][c[g[3676]]];else c[g[4999]]=r[g[5938]];end local g=m[f+1]if not((g[7362])~=(59))then c[g[4999]]=c[g[5938]][c[g[3676]]];elseif g[7362]==198 then c[g[4999]]=r[g[5938]];elseif g[7362]==56 then j[r[g[5938]]]=c[g[4999]];elseif g[7362]==229 then c[g[4999]]=c[g[5938]];end local g=m[f+2]if g[7362]==221 then c[g[4999]][c[g[5938]]]=c[g[3676]];elseif g[7362]==184 then j[r[g[5938]]]=c[g[4999]];elseif g[7362]==230 then c[g[4999]]=c[g[5938]];else c[g[4999]]=r[g[5938]];end local g=m[f+3]if g[7362]==186 then local n=o[g[5938]]local bq=n[2458]local bs=#bq local bv=ba(bs)do local ci=(1)local cj=(1)local bs=(bs)if cj>=0 then while ci<=bs do local ck=bq[ci]local cl=ck[2]local cm=ck[3]if not((ck[1])~=(1))then if cm==0 then local ck=c[cl]z[cl]=ck bv[ci-1]=ck else bv[ci-1]=c[cl]end else local ck=h[cl]if cm==0 and ck[0]then ck=ck[0][ck[1]]end bv[ci-1]=ck end ci=ci+cj end else while ci>=bs do local bq=bq[ci]local bs=bq[2]local ck=bq[3]if not((bq[1])~=(1))then if ck==0 then local bq=c[bs]z[bs]=bq bv[ci-1]=bq else bv[ci-1]=c[bs]end else local bq=h[bs]if ck==0 and bq[0]then bq=bq[0][bq[1]]end bv[ci-1]=bq end ci=ci+cj end end end c[g[4999]]=by(n,bv,j)elseif g[7362]==170 then c[g[4999]]=c[g[5938]];elseif g[7362]==242 then c[g[4999]]=c[g[5938]][c[g[3676]]];end local g=m[f+((4)+0)]if g[7362]==177 then local n=o[g[5938]]local bq=n[2458]local bs=#bq local bv=ba(bs)for ci=1,bs do local bq=bq[ci]local bs=bq[2]local cj=bq[3]if bq[1]==1 then if cj==0 then local bq=c[bs]z[bs]=bq bv[ci-1]=bq else bv[ci-1]=c[bs]end else local bq=h[bs]if cj==0 and bq[0]then bq=bq[0][bq[1]]end bv[ci-1]=bq end end c[g[4999]]=by(n,bv,j)elseif g[7362]==146 then j[r[g[5938]]]=c[g[4999]];else c[g[4999]]=r[g[5938]];end local g=m[f+5]if g[7362]==206 then c[g[4999]]=c[g[5938]];elseif g[7362]==161 then c[g[4999]][c[g[5938]]]=c[g[3676]];elseif g[7362]==225 then c[g[4999]]=r[g[5938]];elseif g[7362]==275 then c[g[4999]]=c[g[5938]][c[g[3676]]];end local f=m[f+6]if f[7362]==261 then c[f[4999]]=c[f[5938]];elseif f[7362]==116 then j[r[f[5938]]]=c[f[4999]];elseif f[7362]==52 then c[f[4999]][c[f[5938]]]=c[f[3676]];elseif f[7362]==257 then local g=o[f[5938]]local n=g[2458]local bq=#n local bs=ba(bq)for bv=1,bq do local n=n[bv]local bq=n[2]local ci=n[3]if not((n[1])~=(1))then if ci==0 then local n=c[bq]z[bq]=n bs[bv-1]=n else bs[bv-1]=c[bq]end else local n=h[bq]if not((ci)~=(0))and n[0]then n=n[0][n[1]]end bs[bv-1]=n end end c[f[4999]]=by(g,bs,j)end bx=bx+6 else local f=bx local g=k if g[7362]==45 then local n=o[g[5938]]local bq=n[2458]local bs=#bq local bv=ba(bs)for ci=1,bs do local bq=bq[ci]local bs=bq[2]local cj=bq[3]if bq[(0+(1))]==1 then if cj==((0)+0)then local bq=c[bs]z[bs]=bq bv[ci-1]=bq else bv[ci-1]=c[bs]end else local bq=h[bs]if cj==(0+(0))and bq[0]then bq=bq[0][bq[1]]end bv[ci-1]=bq end end c[g[4999]]=by(n,bv,j)elseif g[7362]==245 then c[g[4999]]=by(o[g[5938]],nil,j)elseif g[7362]==134 then c[g[4999]]=c[g[5938]];elseif g[7362]==226 then c[g[4999]][c[g[5938]]]=c[g[3676]];end local g=m[f+1]if not((g[7362])~=(290))then c[g[4999]]=c[g[5938]];elseif g[7362]==259 then c[g[4999]]=r[g[5938]];else local n=o[g[5938]]local bq=n[2458]local bs=#bq local bv=ba(bs)do local ci=(1)local cj=(1)local bs=(bs)if cj>=0 then while ci<=bs do local ck=bq[ci]local cl=ck[2]local cm=ck[3]if ck[1]==1 then if cm==(0+(0))then local ck=c[cl]z[cl]=ck bv[ci-1]=ck else bv[ci-((1)+0)]=c[cl]end else local ck=h[cl]if cm==0 and ck[0]then ck=ck[0][ck[1]]end bv[ci-((1)*1)]=ck end ci=ci+cj end else while ci>=bs do local bq=bq[ci]local bs=bq[2]local ck=bq[3]if bq[1]==1 then if ck==(0+(0))then local bq=c[bs]z[bs]=bq bv[ci-1]=bq else bv[ci-((1)+0)]=c[bs]end else local bq=h[bs]if ck==0 and bq[0]then bq=bq[0][bq[1]]end bv[ci-((1)*1)]=bq end ci=ci+cj end end end c[g[4999]]=by(n,bv,j)end local g=m[f+2]if g[7362]==230 then c[g[4999]]=r[g[5938]];elseif g[7362]==99 then c[g[4999]][c[g[5938]]]=c[g[3676]];else c[g[4999]]=c[g[5938]];end local g=m[f+3]if g[7362]==(0+(276))then c[g[4999]]=c[g[5938]][c[g[3676]]];elseif g[7362]==141 then c[g[4999]]=c[g[5938]];elseif g[7362]==266 then c[g[4999]][c[g[5938]]]=c[g[3676]];end local g=m[f+4]if not((g[7362])~=(153))then c[g[4999]]=c[g[5938]];elseif g[7362]==78 then c[g[4999]]=r[g[5938]];else j[r[g[5938]]]=c[g[4999]];end local g=m[f+5]if g[7362]==240 then c[g[4999]]=r[g[5938]];elseif g[7362]==282 then c[g[4999]]=c[g[5938]][c[g[3676]]];else c[g[4999]]=c[g[5938]];end local f=m[f+6]if f[7362]==94 then c[f[4999]]=c[f[5938]][c[f[3676]]];elseif f[7362]==95 then c[f[4999]]=r[f[5938]];elseif f[7362]==74 then local g=o[f[5938]]local m=g[2458]local n=#m local bq=ba(n)for bs=1,n do local m=m[bs]local n=m[2]local bv=m[3]if m[1]==1 then if bv==((0)*1)then local m=c[n]z[n]=m bq[bs-((1)*1)]=m else bq[bs-1]=c[n]end else local m=h[n]if bv==0 and m[((0)*1)]then m=m[0][m[1]]end bq[bs-1]=m end end c[f[4999]]=by(g,bq,j)else j[r[f[5938]]]=c[f[4999]];end bx=bx+6 end end else if not((ch)<(48))then if ch==48 then c[k[4999]]=c[k[5938]]-c[k[3676]];else local f=k[4999]c[f]={c[f]}end else if(46)>=(ch)then if ch~=46 then local f=k[4999]local g=bf local m=bi local n=(1)+(m)local bq=bc[n]do local bq,bs,bv=bq(t(bc,(1)+(n),g))c[f]=bq c[f+1]=bs c[f+2]=bv end for f=g,n,-1 do bc[f]=nil end bf=m local f=bo[bp]bo[bp]=nil bp=bp-((1)-0)bi=f or 0 else local f=k[4999]local g=bw(bb,c[f](t(c,(1)+(f),k[5938])))cg=f+g-1;for m=1,g do c[f+m-1]=bb[m];end;end else local f=k[4999]c[f]=c[f]();end end end end end else if not((ch)<(30))then if ch<=33 then if ch<=((31)-0)then if ch==30 then local f=k[4999]c[f]=c[f](c[(1)+(f)],c[f+2]);else j[r[k[5938]]]=c[k[4999]];end else if ch<=32 then local f=k[4999]local f=k[5938]local f=f local g=bf local f=(1)+(g-f)local m=bc[f]m(t(bc,(1)+(f),g))for m=g,f,-1 do bc[m]=nil end bf=f-1 else local f=k[4999]local f=bc[bf]bc[bf]=nil bf=bf-1 f()end end else if ch<=35 then if ch~=35 then c[k[4999]]={};else local f,g,m=k[4999],k[5938],k[3676]local g=s[g]local f=c[f]local n=true do local t=(1)local bb=(1)local bi=(#g-1)if bb>=0 then while t<=bi do if f==nil then n=false break end f=f[r[g[t]]]t=t+bb end else while t>=bi do if f==nil then n=false break end f=f[r[g[t]]]t=t+bb end end end if n and not((f)==(nil))then f[r[g[#g]]]=c[m]end end else if ch<=36 then do for f,g in a,z do if not((g[1])~=(c))and not((f)<(0))then g[1]={c[f]}g[2]=1 z[f]=nil end end end local a=bc[bf]bc[bf]=nil bf=bf-((1)-0)do return a end else c[k[4999]]=not c[k[5938]];end end end else if ch<=((27)-0)then if(26)>=(ch)then if ch<=((25)*1)then local a,f,g=k[4999],k[5938],k[3676]local f=s[f]local a=c[a]do local m=(1)local n=(1)local s=(#f)if n>=0 then while m<=s do if a==nil then break end a=a[r[f[m]]]m=m+n end else while m>=s do if a==nil then break end a=a[r[f[m]]]m=m+n end end end c[g]=a else bx=c[k[4999]];end else c[k[4999]]=by(o[k[5938]],nil,j)end else if ch==28 then local a=o[k[5938]]local f=a[2458]local g=#f local m=ba(g)for n=1,g do local f=f[n]local g=f[2]local o=f[3]if f[((1)+0)]==1 then if o==0 then local f=c[g]z[g]=f m[n-1]=f else m[n-1]=c[g]end else local f=h[g]if o==0 and f[0]then f=f[0][f[1]]end m[n-1]=f end end c[k[4999]]=by(a,m,j)else local a=k[4999]for f=1,#a do local a=c[a[f]]bf=bf+1 bc[bf]=a end end end end end end end end bx=bx+1;end;end;end ce,cf=26163,26163 end else bj=function(a)local c local f={}local g={}local function h(j,k)g[k]=j;return g[k]end local j={}j[1]=1 j[2]=4 j[3]=0 local j=0 local j=0 local k=81882 repeat if k>=51876 then if k<81882 then return c;else c=0 for m=0,3 do c=v(c,w(e(a,bh,bh),8*m));bh=bh+1;end;f[31]=g[81882+324443]or h(51876,81882+324443)j,k=20552,20552 end else if k<=20552 then j,k=f[31],f[31]else break end end until k==32994 end cd,cf=35511,35511 end end end else if cf<=29823 then if cf<=26163 then if cf==-13869 then be=function(a)local c=33 local f=85 local g={}local h=#a local j=1 local k=1 while j<=h do local m=j+4 local h=(m<=h)and 5 or(h-j+1)if h==0 then break;end;local a,m,n,o,r=e(a,j,m)if h<5 then m=m or 117;n=n or 117;o=o or 117;r=r or 117;end;if(a<c or a>=c+f)then return"";end;if h>=2 and(m<c or m>=c+f)then return"";end;if h>=3 and(n<c or n>=c+f)then return"";end;if h>=4 and(o<c or o>=c+f)then return"";end;if h>=5 and(r<c or r>=c+f)then return"";end;local a=((((a-c)*f+(m-c))*f+(n-c))*f+(o-c))*f+(r-c)local c=y(x(a,24),255)local f=y(x(a,16),255)local m=y(x(a,8),255)local a=y(a,255)local a=d(c,f,m,a)if h<5 then a=b(a,1,h-1);end;g[k]=a;k=k+1;j=j+5;end;return i(g);end cd,cf=-27113,-27113 else bz=bu(bg)ca=by(bz,{},l())return ca();end else if cf>=27562 then if cf~=29823 then bl=function(a)local b local c={}local d={}local function f(g,h)d[h]=g;return d[h]end local g={}g[1]=4 g[2]=2 g[3]=2 local g=36245 local h=0 local h=0 repeat if g<=-12422 then if g<-12422 then h,g=c[32],c[32]else return b;end else if g<=36245 then b=0 for i=0,1 do b=v(b,w(e(a,bh,bh),8*i));bh=bh+1;end;c[32]=d[36245+11579]or f(-12422,36245+11579)h,g=-25632,-25632 else break end end until g==80780 end ce,cf=-23021,-23021 else bm=function(a)local b local c={}local d={}local function f(g,h)local i=u(h,h)local g=g+i d[h]=g;return g end local g={}g[1]=4 g[2]=3 g[3]=2 local g=0 local g=0 local g=21984 repeat if g>=21984 then if g<33054 then b=0 b=v(b,w(e(a,bh,bh),8))bh=bh+1 c[33]=d[u(21984,291315)]or f(-20849,u(21984,291315))g=-12900 else break end else if g<=-20849 then return b;else g=c[33]end end until g==33054 end cf=32560 end else p=table and table.move or function(a,b,c,d,e)local f={}local g={}local function h(i,j)g[j]=i;return g[j]end local i={}i[1]=2 i[2]=2 i[3]=1 local i=0 local i=-19791 local j=0 repeat if i<=54238 then if i<54238 then e=e or a d=d+c for j=c,b,-1 do local b={}local c={}local function k(l,m)c[m]=l;return c[m]end local l={}l[1]=1 l[2]=0 l[3]=0 local l=0 local m=0 local m=-15329 repeat if m<=-23446 then if m<-23446 then l,m=b[2],b[2]else e[d]=b[1]b[3]=c[-23446+45888]or k(83906,-23446+45888)l,m=27727,27727 end else if m>=27727 then if m<83906 then l,m=b[3],b[3]else break end else d=d-1 b[1]=a[j]b[2]=c[-15329+308030]or k(-23446,-15329+308030)l,m=-43708,-43708 end end until m==83906 end;f[4]=g[-19791+208073]or h(54238,-19791+208073)i=65582 else return e;end else if i~=75060 then i=f[4]else break end end until i==75060 end q=bit32 or bit cd,cf=-18463,-18463 end end else if cf<=35511 then if cf>=32560 then if cf~=35511 then bn=nil cd,cf=-40535,-40535 else bk=nil cf=-25452 end else cb[116]={}cd,cf=26412,26412 end else if cf<=42643 then cb[115]={}cc[1]=(cc[1]+1)%5 ce,cf=31966,31966 else if cf<50733 then bt=function(a)local b,c local d={}local e={}local function f(g,h)e[h]=g;return e[h]end local g={}g[1]=0 g[2]=1 g[3]=4 local g=0 local h=0 local h=65522 repeat if h<=27951 then if h<27951 then g,h=d[45],d[45]else if c==0 then return b;elseif(c>=2147483648)then c=c-4294967296;end;return c*4294967296+b;end else if h<65522 then break else b=br(a)c=br(a)d[45]=e[65522+339855]or f(27951,65522+339855)g,h=-39949,-39949 end end until h==65271 end cc[3]=(cc[3]+1)%5 cd,cf=-15331,-15331 else bd=setfenv cc[1]=(cc[1]+1)%5 cf=-13869 end end end end end end until cf==64701 end)(error,next,string.match,tonumber,string.gsub,string.sub,table.insert,string.char,string.byte,coroutine.yield,coroutine.wrap,string.rep,table.concat,math.floor,select,(getfenv or function()return _ENV;end),setmetatable,next,(table.unpack or unpack),(table.pack or function(...)return{...};end),math.min,(function(b)if b<=1 then return false end;if b<=3 then return true end;if b%2==0 or b%3==0 then return false end;local c=5;while c*c<=b do if b%c==0 or b%(c+2)==0 then return false end;c=c+6 end;return true end),string.len,table.remove,table.sort,(string.unpack),string.gmatch,string.find,string.reverse,tostring,math.abs,rawget,string.format);
+
+local L_1_ = getgenv().L_1_ or {}
+getgenv().L_1_ = L_1_
+
+local ProgressionModule = {}
+
+L_1_[32] = {
+        ["Snow Trooper"] = true,
+        ["Winter Warrior"] = true
+}
+L_1_[65] = {
+        ["Kingdom of Rose"] = {
+                ["CFrame"] = CFrame["new"](-180, 15, 2630),
+                ["Mobs"] = {
+                        "Swan Pirate",
+                        "Factory Staff"
+                }
+        },
+        ["Green Zone"] = {
+                ["CFrame"] = CFrame["new"](-2458, 73, -3281),
+                ["Mobs"] = {
+                        "Toga Warrior",
+                        "Gladiator"
+                }
+        },
+        ["Graveyard Island"] = {
+                ["CFrame"] = CFrame["new"](-5434, 15, -758),
+                ["Mobs"] = {
+                        "Graveyard Bandits",
+                        "Zombie"
+                }
+        },
+        ["Snow Mountain"] = {
+                ["CFrame"] = CFrame["new"](1347, 87, -1222),
+                ["Mobs"] = {
+                        "Snow Trooper",
+                        "Winter Warrior"
+                }
+        },
+        ["Hot and Cold (Cold)"] = {
+                ["CFrame"] = CFrame["new"](-6026, 15, -5062),
+                ["Mobs"] = {
+                        "Lab Subordinate",
+                        "Horned Warrior"
+                }
+        },
+        ["Hot and Cold (Hot)"] = {
+                ["CFrame"] = CFrame["new"](-5478, 15, -5240),
+                ["Mobs"] = {
+                        "Magma Ninja",
+                        "Lava Pirate"
+                }
+        },
+        ["Cursed Ship"] = {
+                ["CFrame"] = CFrame["new"](902, 126, 33071),
+                ["Mobs"] = {
+                        "Ship Deckhand",
+                        "Ship Engineer",
+                        "Ship Steward",
+                        "Ship Officer"
+                }
+        },
+        ["Ice Castle"] = {
+                ["CFrame"] = CFrame["new"](6137, 294, -6747),
+                ["Mobs"] = {
+                        "Arctic Warrior",
+                        "Snow Lurker"
+                }
+        },
+        ["Forgotten Island"] = {
+                ["CFrame"] = CFrame["new"](-3043, 238, -10191),
+                ["Mobs"] = {
+                        "Sea Soldier",
+                        "Water Fighter"
+                }
+        }
+}
+L_1_[98] = {
+        ["Port Town"] = {
+                ["CFrame"] = CFrame["new"](-290, 44, 5450),
+                ["Mobs"] = {
+                        "Pirate Millionaire",
+                        "Pistol Billionaire"
+                }
+        },
+        ["Hydra Island"] = {
+                ["CFrame"] = CFrame["new"](5228, 604, 345),
+                ["Mobs"] = {
+                        "Dragon Crew Warrior",
+                        "Dragon Crew Archer",
+                        "Female Islander",
+                        "Giant Islander",
+                        "Training Dummy"
+                }
+        },
+        ["Great Tree"] = {
+                ["CFrame"] = CFrame["new"](2682, 1682, -7190),
+                ["Mobs"] = {
+                        "Marine Commodore",
+                        "Marine Rear Admiral"
+                }
+        },
+        ["Floating Turtle"] = {
+                ["CFrame"] = CFrame["new"](-12000, 331, -8500),
+                ["Mobs"] = {
+                        "Forest Pirate",
+                        "Mythological Pirate",
+                        "Jungle Pirate",
+                        "Musketeer Pirate",
+                        "Fishman Raider",
+                        "Fishman Captain"
+                }
+        },
+        ["Haunted Castle"] = {
+                ["CFrame"] = CFrame["new"](-9515, 142, 5536),
+                ["Mobs"] = {
+                        "Reborn Skeleton",
+                        "Living Zombie",
+                        "Demonic Soul",
+                        "Posessed Mummy"
+                }
+        },
+        ["Sea of Treats"] = {
+                ["CFrame"] = CFrame["new"](-1145, 13, -14450),
+                ["Mobs"] = {
+                        "Peanut Scout",
+                        "Peanut President",
+                        "Ice Cream Commander",
+                        "Cookie Crafter",
+                        "Cake Guard",
+                        "Baking Staff",
+                        "Head Baker",
+                        "Cocoa Warrior",
+                        "Chocolate Bar Battler",
+                        "Sweet Thief",
+                        "Candy Rebel"
+                }
+        },
+        ["Tiki Outpost"] = {
+                ["CFrame"] = CFrame["new"](-16200, 90, -17300),
+                ["Mobs"] = {
+                        "Isle Outlaw",
+                        "Island Boy",
+                        "Sun-kissed Warrior",
+                        "Isle Champion"
+                }
+        },
+        ["Submerged Island"] = {
+                ["CFrame"] = CFrame["new"](-3200, -10, -10000),
+                ["Mobs"] = {
+                        "Reef Bandit",
+                        "Coral Pirate",
+                        "Sea Chanter",
+                        "Ocean Prophet",
+                        "High Disciple",
+                        "Grand Devotee"
+                }
+        }
+}
+
+if World1 then
+        L_1_[60] = L_1_[65]
+elseif World2 then
+        L_1_[60] = L_1_[32]
+elseif World3 then
+        L_1_[60] = L_1_[98]
+end
+
+AuraSkin = function(L_468_arg0)
+        local L_469_ = {}
+        L_469_[2] = L_468_arg0
+        L_469_[1] = {
+                [1] = {
+                        ["StorageName"] = L_469_[2],
+                        ["Type"] = "AuraSkin",
+                        ["Context"] = "Equip"
+                }
+        }
+        (((L_1_[18]:WaitForChild("Modules")):WaitForChild("Net")):WaitForChild("RF/FruitCustomizerRF")):InvokeServer(unpack(L_469_[1]))
+end
+
+VaildColor = function(L_470_arg0)
+        local L_471_ = {}
+        L_471_[2] = L_470_arg0
+        if L_471_[2] and L_471_[2]["BrickColor"] then
+                return tostring(L_471_[2]["BrickColor"]) == "Lime green"
+        end
+        return false -- Added explicit return
+end
+
+HakiCalculate = function(L_472_arg0)
+        local L_473_ = {}
+        L_473_[1] = L_472_arg0
+        L_473_[3] = {
+                ["Really red"] = "Pure Red",
+                ["Oyster"] = "Snow White",
+                ["Hot pink"] = "Winter Sky"
+        }
+          if L_473_[1] and L_473_[1]["BrickColor"] then
+                return L_473_[3][tostring(L_473_[1]["BrickColor"])]
+        end
+        return nil -- Added explicit return
+end
+
+L_1_[35] = function()
+        local L_444_ = {}
+        L_444_[5] = game:GetService("HttpService")
+        L_444_[3] = game:GetService("TeleportService")
+        L_444_[2] = "https://games.roblox.com/v1/games/"
+        L_444_[1] = game["PlaceId"]
+        L_444_[4] = {}
+        L_444_[8] = ""
+        L_444_[7] = false
+        repeat
+                local L_445_ = {}
+                L_445_[3], L_445_[2] = pcall(function()
+                        return game:HttpGet(L_444_[2] .. (L_444_[1] .. ("/servers/Public?sortOrder=Asc&limit=100&cursor=" .. L_444_[8])))
+                end)
+                if L_445_[3] and L_445_[2] then
+                        local L_446_ = {}
+                        L_446_[2] = L_444_[5]:JSONDecode(L_445_[2])
+                        if L_446_[2]["data"] then
+                                for L_447_forvar0, L_448_forvar1 in pairs(L_446_[2]["data"]) do
+                                        local L_449_ = {}
+                                        L_449_[2], L_449_[1] = L_447_forvar0, L_448_forvar1
+                                        if L_449_[1]["playing"] < L_449_[1]["maxPlayers"] and L_449_[1]["id"] ~= game["JobId"] then
+                                                L_444_[7] = true
+                                                L_444_[3]:TeleportToPlaceInstance(L_444_[1], L_449_[1]["id"])
+                                                break
+                                        end
+                                end
+                                L_444_[8] = L_446_[2]["nextPageCursor"] or ""
+                        end
+                end
+        until not L_444_[8] or L_444_[7]
+end
+
+function Check_Eye()
+        local L_530_ = {}
+        L_530_[4] = workspace["Map"]["TikiOutpost"]["IslandModel"]
+        L_530_[1] = {
+                L_530_[4]["Eye1"],
+                L_530_[4]["Eye2"],
+                L_530_[4]["IslandChunks"]["E"]["Eye3"],
+                L_530_[4]["IslandChunks"]["E"]["Eye4"]
+        }
+        L_530_[3] = 0
+        for L_531_forvar0, L_532_forvar1 in ipairs(L_530_[1]) do
+                local L_533_ = {}
+                L_533_[2], L_533_[3] = L_531_forvar0, L_532_forvar1
+                if L_533_[3] and L_533_[3]["Transparency"] ~= 1 then
+                        L_530_[3] = L_530_[3] + 1
+                end
+        end
+        L_530_[2] = L_530_[3] == 4
+        return L_530_[3], L_530_[2]
+end
+
+L_1_[100] = function(L_548_arg0)
+        local L_549_ = {}
+        L_549_[2] = L_548_arg0
+        L_549_[1] = game:GetService("VirtualInputManager")
+        L_549_[1]:SendKeyEvent(true, L_549_[2], false, game)
+        wait(.05)
+        L_549_[1]:SendKeyEvent(false, L_549_[2], false, game)
+end
+
+L_1_[3] = function(L_550_arg0)
+        local L_551_ = {}
+        L_551_[4] = L_550_arg0
+        L_551_[2] = L_1_[136]["Character"]
+        L_551_[3] = L_1_[136]["Backpack"]
+        if not(L_551_[2] and (L_551_[2]:FindFirstChild("Humanoid") and L_551_[2]["Humanoid"]["Health"] > 0)) then
+                return
+        end
+        for L_552_forvar0, L_553_forvar1 in pairs(L_551_[3]:GetChildren()) do
+                local L_554_ = {}
+                L_554_[3], L_554_[2] = L_552_forvar0, L_553_forvar1
+                if L_554_[2]:IsA("Tool") and L_554_[2]["ToolTip"] == L_551_[4] then
+                        L_554_[2]["Parent"] = L_551_[2]
+                        wait(.12)
+                        for L_555_forvar0, L_556_forvar1 in ipairs({
+                                "Z",
+                                "X",
+                                "C",
+                                "V",
+                                "F"
+                        }) do
+                                local L_557_ = {}
+                                L_557_[1], L_557_[2] = L_555_forvar0, L_556_forvar1
+                                if not _G["FarmPhaBinh"] then
+                                        break
+                                end
+                                pcall(function()
+                                        L_1_[100](L_557_[2])
+                                end)
+                                wait(.12)
+                        end
+                        L_554_[2]["Parent"] = L_551_[3]
+                        break
+                end
+        end
+end
+
+L_1_[101] = {
+        CFrame["new"](-16332.526367188, 158.07200622559, 1440.3249511719),
+        CFrame["new"](-16288.609375, 158.16700744629, 1470.3680419922),
+        CFrame["new"](-16245.412109375, 158.43699645996, 1463.3659667969),
+        CFrame["new"](-16212.46875, 158.16700744629, 1466.3439941406),
+        CFrame["new"](-16211.946289062, 158.07200622559, 1322.3979492188),
+        CFrame["new"](-16260.921875, 154.92100524902, 1323.6159667969)
+}
+
+L_1_[59] = game:GetService("Players")
+L_1_[57] = L_1_[59]["LocalPlayer"]
+L_1_[80] = game:GetService("Workspace")
+L_1_[56] = game:GetService("ReplicatedStorage")
+L_1_[13] = L_1_[56]:WaitForChild("FishReplicated")
+L_1_[27] = L_1_[13]:WaitForChild("FishingRequest")
+
+pcall(function()
+        L_1_[111] = require(L_1_[13]["FishingClient"]["Config"])
+        L_1_[7] = require(L_1_[56]["Util"]["GetWaterHeightAtLocation"])
+        L_1_[21] = L_1_[111]["Rod"]["MaxLaunchDistance"]
+end)
+
+L_1_[62] = game:GetService("Players")
+L_1_[68] = L_1_[62]["LocalPlayer"]
+L_1_[14] = game:GetService("ReplicatedStorage")
+
+pcall(function()
+        L_1_[72] = L_1_[14]["Modules"]["Net"]:WaitForChild("RF/JobsRemoteFunction")
+end)
+
+L_1_[31] = function()
+        local L_723_ = {}
+        L_723_[2] = L_1_[68]["PlayerGui"]:FindFirstChild("Quest") or L_1_[68]["PlayerGui"]:FindFirstChild("QuestGui")
+        if L_723_[2] and (L_723_[2]:FindFirstChild("Container") and L_723_[2]["Container"]:FindFirstChild("QuestTitle")) then
+                return true
+        end
+        return false
+end
+
+L_1_[132] = game:GetService("ReplicatedStorage")
+pcall(function()
+        L_1_[97] = L_1_[132]["Modules"]["Net"]:WaitForChild("RF/JobToolAbilities")
+end)
+
+function ProgressionModule.startLoops()
+        task["spawn"](function()
+        while task["wait"](.2) do
+                local L_418_ = {}
+                if not _G["AutoFarmIsland"] then
+                        continue
+                end
+                if not _G["SelectIsland"] then
+                        continue
+                end
+                if not L_1_[60] then
+                        continue
+                end
+                L_418_[1] = L_1_[60][_G["SelectIsland"]]
+                if not L_418_[1] then
+                        continue
+                end
+                L_418_[3] = L_418_[1]["CFrame"]
+                L_418_[2] = L_418_[1]["Mobs"]
+                L_418_[5] = {}
+                for L_419_forvar0, L_420_forvar1 in ipairs(L_418_[2]) do
+                        local L_421_ = {}
+                        L_421_[3], L_421_[1] = L_419_forvar0, L_420_forvar1
+                        L_418_[5][L_421_[1]] = true
+                end
+                L_418_[4] = false
+                for L_422_forvar0, L_423_forvar1 in pairs(workspace["Enemies"]:GetChildren()) do
+                        local L_424_ = {}
+                        L_424_[3], L_424_[2] = L_422_forvar0, L_423_forvar1
+                        if L_418_[5][L_424_[2]["Name"]] and (L_424_[2]:FindFirstChild("Humanoid") and (L_424_[2]:FindFirstChild("HumanoidRootPart") and L_424_[2]["Humanoid"]["Health"] > 0)) then
+                                L_418_[4] = true
+                                repeat
+                                        task["wait"]()
+                                        _tp(L_424_[2]["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 10, 0))
+                                        L_1_[4]["Kill"](L_424_[2], true)
+                                until not _G["AutoFarmIsland"] or not L_424_[2]["Parent"] or L_424_[2]["Humanoid"]["Health"] <= 0
+                        end
+                end
+                if not L_418_[4] then
+                        _tp(L_418_[3])
+                end
+        end
+end)
+
+spawn(function()
+        while wait(1) do
+                pcall(function()
+                        if _G["FarmEliteHunt"] then
+                                local L_429_ = {}
+                                L_429_[2] = L_1_[136]["PlayerGui"]["Main"]["Quest"]
+                                L_429_[3] = L_429_[2]["Container"]["QuestTitle"]["Title"]["Text"]
+                                if not L_429_[2]["Visible"] then
+                                        local L_430_ = {}
+                                        L_430_[2] = L_1_[18]["Remotes"]["CommF_"]:InvokeServer("EliteHunter")
+                                        if L_430_[2] == nil or string["find"](L_430_[2], "Cooldown") then
+                                                wait(10)
+                                                return
+                                        end
+                                        task["wait"](1)
+                                else
+                                        local L_431_ = {}
+                                        L_431_[2] = nil
+                                        for L_432_forvar0, L_433_forvar1 in pairs({
+                                                "Diablo",
+                                                "Urban",
+                                                "Deandre"
+                                        }) do
+                                                local L_434_ = {}
+                                                L_434_[2], L_434_[3] = L_432_forvar0, L_433_forvar1
+                                                if string["find"](L_429_[3], L_434_[3]) then
+                                                        L_431_[2] = L_434_[3]
+                                                        break
+                                                end
+                                        end
+                                        if L_431_[2] then
+                                                local L_435_ = {}
+                                                L_435_[2] = nil
+                                                for L_436_forvar0, L_437_forvar1 in pairs(L_1_[18]:GetChildren()) do
+                                                        local L_438_ = {}
+                                                        L_438_[2], L_438_[3] = L_436_forvar0, L_437_forvar1
+                                                        if L_438_[3]["Name"] == L_431_[2] and L_438_[3]:FindFirstChild("HumanoidRootPart") then
+                                                                L_435_[2] = L_438_[3]
+                                                                break
+                                                        end
+                                                end
+                                                for L_439_forvar0, L_440_forvar1 in pairs(Enemies:GetChildren()) do
+                                                        local L_441_ = {}
+                                                        L_441_[1], L_441_[3] = L_439_forvar0, L_440_forvar1
+                                                        if L_441_[3]["Name"] == L_431_[2] and L_1_[4]["Alive"](L_441_[3]) then
+                                                                L_435_[2] = L_441_[3]
+                                                                break
+                                                        end
+                                                end
+                                                if L_435_[2] and L_435_[2]:FindFirstChild("HumanoidRootPart") then
+                                                        _tp(L_435_[2]["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 30, 0))
+                                                        repeat
+                                                                wait()
+                                                                L_1_[4]["Kill"](L_435_[2], _G["FarmEliteHunt"])
+                                                        until not _G["FarmEliteHunt"] or not L_435_[2]["Parent"] or L_435_[2]["Humanoid"]["Health"] <= 0 or not L_429_[2]["Visible"]
+                                                else
+                                                        wait(5)
+                                                end
+                                        else
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("AbandonQuest")
+                                        end
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while task["wait"](1) do
+                pcall(function()
+                        if _G["FarmEliteH"] then
+                                local L_450_ = {}
+                                L_450_[2] = L_1_[136]["PlayerGui"]["Main"]["Quest"]
+                                L_450_[1] = L_450_[2]["Container"]["QuestTitle"]["Title"]["Text"]
+                                if not L_450_[2]["Visible"] then
+                                        local L_451_ = {}
+                                        L_451_[1] = L_1_[18]["Remotes"]["CommF_"]:InvokeServer("EliteHunter")
+                                        if L_451_[1] == nil or string["find"](L_451_[1], "Cooldown") then
+                                                L_1_[35]()
+                                                return
+                                        end
+                                        task["wait"](1)
+                                else
+                                        local L_452_ = {}
+                                        L_452_[1] = nil
+                                        for L_453_forvar0, L_454_forvar1 in pairs({
+                                                "Diablo",
+                                                "Urban",
+                                                "Deandre"
+                                        }) do
+                                                local L_455_ = {}
+                                                L_455_[3], L_455_[1] = L_453_forvar0, L_454_forvar1
+                                                if string["find"](L_450_[1], L_455_[1]) then
+                                                        L_452_[1] = L_455_[1]
+                                                        break
+                                                end
+                                        end
+                                        if L_452_[1] then
+                                                local L_456_ = {}
+                                                L_456_[1] = nil
+                                                for L_457_forvar0, L_458_forvar1 in pairs(L_1_[18]:GetChildren()) do
+                                                        local L_459_ = {}
+                                                        L_459_[1], L_459_[2] = L_457_forvar0, L_458_forvar1
+                                                        if L_459_[2]["Name"] == L_452_[1] and L_459_[2]:FindFirstChild("HumanoidRootPart") then
+                                                                L_456_[1] = L_459_[2]
+                                                                break
+                                                        end
+                                                end
+                                                for L_460_forvar0, L_461_forvar1 in pairs(workspace["Enemies"]:GetChildren()) do
+                                                        local L_462_ = {}
+                                                        L_462_[3], L_462_[1] = L_460_forvar0, L_461_forvar1
+                                                        if L_462_[1]["Name"] == L_452_[1] and L_1_[4]["Alive"](L_462_[1]) then
+                                                                L_456_[1] = L_462_[1]
+                                                                break
+                                                        end
+                                                end
+                                                if L_456_[1] and L_456_[1]:FindFirstChild("HumanoidRootPart") then
+                                                        _tp(L_456_[1]["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 30, 0))
+                                                        repeat
+                                                                wait()
+                                                                L_1_[4]["Kill"](L_456_[1], _G["FarmEliteH"])
+                                                        until not _G["FarmEliteH"] or not L_456_[1]["Parent"] or L_456_[1]["Humanoid"]["Health"] <= 0 or not L_450_[2]["Visible"]
+                                                else
+                                                        task["wait"](5)
+                                                        L_1_[35]()
+                                                end
+                                        else
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("AbandonQuest")
+                                                task["wait"](1)
+                                                L_1_[35]()
+                                        end
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["AutoRipIngay"] then
+                                local L_465_ = {}
+                                L_465_[2] = GetConnectionEnemies("rip_indra")
+                                if not GetWP("Dark Dagger") or not GetIn("Valkyrie") and L_465_[2] then
+                                        repeat
+                                                wait()
+                                                L_1_[4]["Kill"](L_465_[2], _G["AutoRipIngay"])
+                                        until not _G["AutoRipIngay"] or not L_465_[2]["Parent"] or L_465_[2]["Humanoid"]["Health"] <= 0
+                                else
+                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("requestEntrance", Vector3["new"](-5097.93164, 316.447021, -3142.66602, -0.405007899, -4.31682743e-08, .914313197, -1.90943332e-08, 1, 3.8755779e-08, -0.914313197, -1.76180437e-09, -0.405007899))
+                                        wait(.1)
+                                        _tp(CFrame["new"](-5344.822265625, 423.98541259766, -2725.0930175781))
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                if _G["AutoUnHaki"] then
+                        pcall(function()
+                                local L_474_ = {}
+                                L_474_[2] = workspace["Map"]["Boat Castle"]:FindFirstChild("Summoner")
+                                if L_474_[2] and L_474_[2]:FindFirstChild("Circle") then
+                                        for L_475_forvar0, L_476_forvar1 in pairs((L_474_[2]:FindFirstChild("Circle")):GetChildren()) do
+                                                local L_477_ = {}
+                                                L_477_[1], L_477_[2] = L_475_forvar0, L_476_forvar1
+                                                if L_477_[2]["Name"] == "Part" then
+                                                        local L_478_ = {}
+                                                        L_478_[1] = L_477_[2]:FindFirstChild("Part")
+                                                        if VaildColor(L_478_[1]) == false then
+                                                                AuraSkin(HakiCalculate(L_477_[2]))
+                                                                repeat
+                                                                        wait()
+                                                                        _tp(L_477_[2]["CFrame"])
+                                                                until VaildColor(L_478_[1]) == true or not _G["AutoUnHaki"]
+                                                        end
+                                                end
+                                        end
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        while task["wait"]() do
+                if _G["Auto_Cake_Prince"] and not _G["AutoRaidCastle"] then
+                        pcall(function()
+                                local L_482_ = {}
+                                L_482_[4] = game["Players"]["LocalPlayer"]
+                                L_482_[6] = L_482_[4]["Character"] and L_482_[4]["Character"]:FindFirstChild("HumanoidRootPart")
+                                L_482_[3] = L_482_[4]["PlayerGui"]["Main"]["Quest"]
+                                L_482_[5] = workspace["Enemies"]
+                                L_482_[1] = workspace["Map"]:FindFirstChild("CakeLoaf")
+                                L_482_[7] = L_482_[1] and L_482_[1]:FindFirstChild("BigMirror")
+                                if not L_482_[6] then
+                                        return
+                                end
+                                if _G["AcceptQuestC"] and (L_482_[3] and not L_482_[3]["Visible"]) then
+                                        local L_483_ = {}
+                                        L_483_[4] = CFrame["new"](-1927.92, 37.8, -12842.54)
+                                        _tp(L_483_[4])
+                                        while (L_483_[4]["Position"] - L_482_[6]["Position"])["Magnitude"] > 50 do
+                                                task["wait"](.2)
+                                        end
+                                        L_483_[1] = math["random"](1, 4)
+                                        L_483_[3] = {
+                                                [1] = {
+                                                        "StartQuest",
+                                                        "CakeQuest2",
+                                                        2
+                                                },
+                                                [2] = {
+                                                        "StartQuest",
+                                                        "CakeQuest2",
+                                                        1
+                                                },
+                                                [3] = {
+                                                        "StartQuest",
+                                                        "CakeQuest1",
+                                                        1
+                                                },
+                                                [4] = {
+                                                        "StartQuest",
+                                                        "CakeQuest1",
+                                                        2
+                                                }
+                                        }
+                                        pcall(function()
+                                                game["ReplicatedStorage"]["Remotes"]["CommF_"]:InvokeServer(unpack(L_483_[3][L_483_[1]]))
+                                        end)
+                                end
+                                if not L_482_[1] then
+                                        _tp(CFrame["new"](-2077, 252, -12373))
+                                        task["wait"](2)
+                                        return
+                                end
+                                if L_482_[7] and (L_482_[7]["Other"]["Transparency"] == 0 or L_482_[5]:FindFirstChild("Cake Prince")) then
+                                        local L_484_ = {}
+                                        L_484_[1] = GetConnectionEnemies("Cake Prince")
+                                        if L_484_[1] then
+                                                repeat
+                                                        task["wait"]()
+                                                        L_1_[4]["Kill2"](L_484_[1], _G["Auto_Cake_Prince"])
+                                                until not _G["Auto_Cake_Prince"] or not L_484_[1]["Parent"] or L_484_[1]["Humanoid"]["Health"] <= 0
+                                        else
+                                                _tp(CFrame["new"](-2151.82, 149.32, -12404.91))
+                                        end
+                                else
+                                        local L_485_ = {}
+                                        L_485_[3] = {
+                                                "Cookie Crafter",
+                                                "Cake Guard",
+                                                "Baking Staff",
+                                                "Head Baker"
+                                        }
+                                        L_485_[2] = GetConnectionEnemies(L_485_[3])
+                                        if L_485_[2] then
+                                                repeat
+                                                        task["wait"]()
+                                                        L_1_[4]["Kill"](L_485_[2], _G["Auto_Cake_Prince"])
+                                                until not _G["Auto_Cake_Prince"] or not L_485_[2]["Parent"] or L_485_[2]["Humanoid"]["Health"] <= 0 or L_482_[7] and L_482_[7]["Other"]["Transparency"] == 0
+                                        else
+                                                _tp(CFrame["new"](-2077, 252, -12373))
+                                        end
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        while task["wait"](2) do
+                if _G["AutoSpawnCP"] then
+                        pcall(function()
+                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("CakePrinceSpawner")
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        while wait(.1) do
+                if _G["AutoPhoenixF"] then
+                        pcall(function()
+                                if GetBP("Bird-Bird: Phoenix") then
+                                        if L_1_[136]["Backpack"]:FindFirstChild(L_1_[136]["Data"]["DevilFruit"]["Value"]) then
+                                                if (L_1_[136]["Backpack"]:FindFirstChild(L_1_[136]["Data"]["DevilFruit"]["Value"]))["Level"]["Value"] >= 400 then
+                                                        _tp(CFrame["new"](-2812.7670898438, 254.80346679688, -12595.560546875))
+                                                        if ((CFrame["new"](-2812.7670898438, 254.80346679688, -12595.560546875))["Position"] - L_1_[136]["Character"]["HumanoidRootPart"]["Position"])["Magnitude"] <= 10 then
+                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("SickScientist", "Check")
+                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("SickScientist", "Heal")
+                                                        end
+                                                end
+                                        elseif L_1_[136]["Character"]:FindFirstChild(L_1_[136]["Data"]["DevilFruit"]["Value"]) then
+                                                if (L_1_[136]["Character"]:FindFirstChild(L_1_[136]["Data"]["DevilFruit"]["Value"]))["Level"]["Value"] >= 400 then
+                                                        _tp(CFrame["new"](-2812.7670898438, 254.80346679688, -12595.560546875))
+                                                        if ((CFrame["new"](-2812.7670898438, 254.80346679688, -12595.560546875))["Position"] - L_1_[136]["Character"]["HumanoidRootPart"]["Position"])["Magnitude"] <= 10 then
+                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("SickScientist", "Check")
+                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("SickScientist", "Heal")
+                                                        end
+                                                end
+                                        end
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        local L_514_ = {}
+        L_514_[1] = game["Players"]["LocalPlayer"]
+        L_514_[3] = {
+                "Reborn Skeleton",
+                "Living Zombie",
+                "Demonic Soul",
+                "Possessed Mummy"
+        }
+        while wait(.5) do
+                if not _G["AutoFarm_Bone"] then
+                        continue
+                end
+                pcall(function()
+                        local L_515_ = {}
+                        L_515_[3] = L_514_[1]["Character"]
+                        L_515_[5] = L_515_[3] and L_515_[3]:FindFirstChild("HumanoidRootPart")
+                        if not L_515_[5] then
+                                return
+                        end
+                        L_515_[1] = L_514_[1]["PlayerGui"]:FindFirstChild("Main") and L_514_[1]["PlayerGui"]["Main"]:FindFirstChild("Quest")
+                        L_515_[2] = GetConnectionEnemies(L_514_[3])
+                        if _G["AcceptQuestB"] and (L_515_[1] and not L_515_[1]["Visible"]) then
+                                local L_516_ = {}
+                                L_516_[1] = CFrame["new"](-9516.99316, 172.01718, 6078.46533)
+                                _tp(L_516_[1])
+                                repeat
+                                        wait(2)
+                                until not _G["AutoFarm_Bone"] or (L_516_[1]["Position"] - L_515_[5]["Position"])["Magnitude"] <= 50
+                                if not _G["AutoFarm_Bone"] then
+                                        return
+                                end
+                                L_516_[2] = {
+                                        {
+                                                "StartQuest",
+                                                "HauntedQuest2",
+                                                2
+                                        },
+                                        {
+                                                "StartQuest",
+                                                "HauntedQuest2",
+                                                1
+                                        },
+                                        {
+                                                "StartQuest",
+                                                "HauntedQuest1",
+                                                1
+                                        },
+                                        {
+                                                "StartQuest",
+                                                "HauntedQuest1",
+                                                2
+                                        }
+                                }
+                                game["ReplicatedStorage"]["Remotes"]["CommF_"]:InvokeServer(unpack(L_516_[2][math["random"](1, #L_516_[2])]))
+                        end
+                        if L_515_[2] then
+                                repeat
+                                        wait()
+                                        L_1_[4]["Kill"](L_515_[2], true)
+                                until not _G["AutoFarm_Bone"] or not L_515_[2]["Parent"] or L_515_[2]["Humanoid"]["Health"] <= 0
+                        else
+                                _tp(CFrame["new"](-9495.6806640625, 453.58624267578, 5977.3486328125))
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                if _G["AutoHytHallow"] then
+                        pcall(function()
+                                local L_521_ = {}
+                                L_521_[2] = GetConnectionEnemies("Soul Reaper")
+                                if L_521_[2] then
+                                        repeat
+                                                task["wait"]()
+                                                L_1_[4]["Kill"](L_521_[2], _G["AutoHytHallow"])
+                                        until L_521_[2]["Humanoid"]["Health"] <= 0 or _G["AutoHytHallow"] == false
+                                else
+                                        if not GetBP("Hallow Essence") then
+                                                repeat
+                                                        task["wait"](.1)
+                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("Bones", "Buy", 1, 1)
+                                                until _G["AutoHytHallow"] == false or GetBP("Hallow Essence")
+                                        else
+                                                repeat
+                                                        wait(.1)
+                                                        _tp(CFrame["new"](-8932.322265625, 146.83154296875, 6062.55078125))
+                                                until _G["AutoHytHallow"] == false or L_1_[136]["Character"]["HumanoidRootPart"]["CFrame"] == CFrame["new"](-8932.322265625, 146.83154296875, 6062.55078125)
+                                                EquipWeapon("Hallow Essence")
+                                        end
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["Auto_Random_Bone"] then
+                                repeat
+                                        task["wait"]()
+                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("Bones", "Buy", 1, 1)
+                                until not _G["Auto_Random_Bone"]
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                if _G["TryLucky"] then
+                        local L_526_ = {}
+                        L_526_[1] = CFrame["new"](-8761.3154296875, 164.85829162598, 6161.1567382813)
+                        if L_1_[136]["Character"]["HumanoidRootPart"]["CFrame"] ~= L_526_[1] then
+                                _tp(CFrame["new"](-8761.3154296875, 164.85829162598, 6161.1567382813))
+                        elseif L_1_[136]["Character"]["HumanoidRootPart"]["CFrame"] == L_526_[1] then
+                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("gravestoneEvent", 1)
+                        end
+                end
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                if _G["Praying"] then
+                        local L_529_ = {}
+                        L_529_[2] = CFrame["new"](-8761.3154296875, 164.85829162598, 6161.1567382813)
+                        if L_1_[136]["Character"]["HumanoidRootPart"]["CFrame"] ~= L_529_[2] then
+                                _tp(CFrame["new"](-8761.3154296875, 164.85829162598, 6161.1567382813))
+                        elseif L_1_[136]["Character"]["HumanoidRootPart"]["CFrame"] == L_529_[2] then
+                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("gravestoneEvent", 2)
+                        end
+                end
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                if _G["FarmTyrant"] then
+                        pcall(function()
+                                local L_538_ = {}
+                                if not L_1_[136]["Character"] then
+                                        return
+                                end
+                                L_538_[3] = L_1_[136]["Character"]:FindFirstChild("HumanoidRootPart")
+                                if not L_538_[3] then
+                                        return
+                                end
+                                L_538_[1] = Vector3["new"](-16268.287, 152.616, 1390.773)
+                                if (L_538_[3]["Position"] - L_538_[1])["Magnitude"] > 5 then
+                                        _tp(CFrame["new"](L_538_[1]))
+                                        repeat
+                                                wait()
+                                        until not _G["FarmTyrant"] or L_1_[136]["Character"] and (L_1_[136]["Character"]:FindFirstChild("HumanoidRootPart") and (L_1_[136]["Character"]["HumanoidRootPart"]["Position"] - L_538_[1])["Magnitude"] <= 5)
+                                end
+                                L_538_[4] = workspace["Enemies"]:FindFirstChild("Tyrant of the Skies")
+                                if L_538_[4] and (L_538_[4]:FindFirstChild("Humanoid") and L_538_[4]["Humanoid"]["Health"] > 0) then
+                                        repeat
+                                                if not _G["FarmTyrant"] then
+                                                        break
+                                                end
+                                                if L_1_[4] and L_1_[4]["Kill"] then
+                                                        L_1_[4]["Kill"](L_538_[4], _G["FarmTyrant"])
+                                                end
+                                                wait()
+                                        until not _G["FarmTyrant"] or not L_538_[4]["Parent"] or L_538_[4]["Humanoid"]["Health"] <= 0
+                                        return
+                                end
+                                L_538_[5] = {
+                                        "Serpent Hunter",
+                                        "Skull Slayer",
+                                        "Isle Champion",
+                                        "Sun-kissed Warrior"
+                                }
+                                for L_539_forvar0, L_540_forvar1 in ipairs(L_538_[5]) do
+                                        local L_541_ = {}
+                                        L_541_[1], L_541_[2] = L_539_forvar0, L_540_forvar1
+                                        if not _G["FarmTyrant"] then
+                                                break
+                                        end
+                                        for L_542_forvar0, L_543_forvar1 in pairs(workspace["Enemies"]:GetChildren()) do
+                                                local L_544_ = {}
+                                                L_544_[2], L_544_[3] = L_542_forvar0, L_543_forvar1
+                                                if not _G["FarmTyrant"] then
+                                                        break
+                                                end
+                                                if L_544_[3] and (L_544_[3]["Name"] == L_541_[2] and (L_544_[3]:FindFirstChild("HumanoidRootPart") and (L_544_[3]:FindFirstChild("Humanoid") and L_544_[3]["Humanoid"]["Health"] > 0))) then
+                                                        if (L_538_[3]["Position"] - L_544_[3]["HumanoidRootPart"]["Position"])["Magnitude"] > 5000 then
+                                                                local L_545_ = {}
+                                                                _tp(L_544_[3]["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 30, 0))
+                                                                L_545_[2] = tick()
+                                                                repeat
+                                                                        wait()
+                                                                        L_538_[3] = L_1_[136]["Character"] and L_1_[136]["Character"]:FindFirstChild("HumanoidRootPart")
+                                                                until not _G["FarmTyrant"] or not L_538_[3] or (L_538_[3]["Position"] - L_544_[3]["HumanoidRootPart"]["Position"])["Magnitude"] <= 6 or tick() - L_545_[2] > 8
+                                                        end
+                                                        repeat
+                                                                if not _G["FarmTyrant"] then
+                                                                        break
+                                                                end
+                                                                if L_1_[4] and L_1_[4]["Kill"] then
+                                                                        L_1_[4]["Kill"](L_544_[3], _G["FarmTyrant"])
+                                                                end
+                                                                wait()
+                                                        until not _G["FarmTyrant"] or not L_544_[3]["Parent"] or L_544_[3]["Humanoid"]["Health"] <= 0
+                                                end
+                                        end
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        pcall(function()
+                (game:GetService("RunService"))["Stepped"]:Connect(function()
+                        if (getgenv())["NoClip"] then
+                                for L_695_forvar0, L_696_forvar1 in pairs(game["Players"]["LocalPlayer"]["Character"]:GetDescendants()) do
+                                        local L_697_ = {}
+                                        L_697_[1], L_697_[2] = L_695_forvar0, L_696_forvar1
+                                        if L_697_[2]:IsA("BasePart") or L_697_[2]:IsA("Part") then
+                                                L_697_[2]["CanCollide"] = false
+                                        end
+                                end
+                        end
+                end)
+        end)
+end)
+
+spawn(function()
+        while wait() do
+                pcall(function()
+                        if (getgenv())["HopServerAdmin"] then
+                                for L_690_forvar0, L_691_forvar1 in pairs(game["Players"]:GetPlayers()) do
+                                        local L_692_ = {}
+                                        L_692_[2], L_692_[3] = L_690_forvar0, L_691_forvar1
+                                        L_692_[4] = {
+                                                "red_game43",
+                                                "rip_indra",
+                                                "Axiore",
+                                                "Polkster",
+                                                "wenlocktoad",
+                                                "Daigrock",
+                                                "toilamvidamme",
+                                                "oofficialnoobie",
+                                                "Uzoth",
+                                                "Azarth",
+                                                "arlthmetic",
+                                                "Death_King",
+                                                "Lunoven",
+                                                "TheGreateAced",
+                                                "rip_fud",
+                                                "drip_mama",
+                                                "layandikit12",
+                                                "Hingoi"
+                                        }
+                                        if table["find"](L_692_[4], L_692_[3]["Name"]) then
+                                                Hop()
+                                        end
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["Auto_Melee"] then
+                                statsSetings("Melee", pSats)
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["Auto_Sword"] then
+                                statsSetings("Sword", pSats)
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["Auto_Gun"] then
+                                statsSetings("Gun", pSats)
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["Auto_DevilFruit"] then
+                                statsSetings("Devil", pSats)
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["Auto_Defense"] then
+                                statsSetings("Defense", pSats)
+                        end
+                end)
+        end
+end)
+
+task["spawn"](function()
+        while task["wait"](2) do
+                if _G["AutoBuyBait"] and _G["SelectedBait"] then
+                        pcall(function()
+                                L_1_[64]["RFCraft"]:InvokeServer("Craft", _G["SelectedBait"], {})
+                        end)
+                end
+        end
+end)
+
+task["spawn"](function()
+        while task["wait"](.5) do
+                if _G["AutoFishing"] then
+                        pcall(function()
+                                local L_718_ = {}
+                                L_718_[3] = L_1_[57]["Character"] or L_1_[57]["CharacterAdded"]:Wait()
+                                L_718_[2] = L_718_[3]:FindFirstChild("HumanoidRootPart")
+                                if not L_718_[2] then
+                                        return
+                                end
+                                L_718_[1] = L_718_[3]:FindFirstChildOfClass("Tool")
+                                if _G["SelectedRod"] and (not L_718_[1] or L_718_[1]["Name"] ~= _G["SelectedRod"]) then
+                                        local L_719_ = {}
+                                        L_719_[2] = L_1_[57]["Backpack"]:FindFirstChild(_G["SelectedRod"])
+                                        if L_719_[2] then
+                                                L_718_[3]["Humanoid"]:EquipTool(L_719_[2])
+                                                L_718_[1] = L_719_[2]
+                                        end
+                                end
+                                if L_718_[1] then
+                                        local L_720_ = {}
+                                        L_720_[3] = L_1_[7](L_718_[2]["Position"])
+                                        L_720_[5], L_720_[6] = L_1_[80]:FindPartOnRayWithIgnoreList(Ray["new"](L_718_[3]["Head"]["Position"], L_718_[2]["CFrame"]["LookVector"] * L_1_[21]), {
+                                                L_718_[3],
+                                                L_1_[80]["Characters"],
+                                                L_1_[80]["Enemies"]
+                                        })
+                                        L_720_[7] = L_720_[6] and Vector3["new"](L_720_[6]["X"], math["max"](L_720_[6]["Y"], L_720_[3]), L_720_[6]["Z"])
+                                        L_720_[4] = L_718_[1]:GetAttribute("State")
+                                        L_720_[1] = L_718_[1]:GetAttribute("ServerState")
+                                        if L_720_[7] and (L_720_[4] == "ReeledIn" or L_720_[1] == "ReeledIn") then
+                                                L_1_[27]:InvokeServer("StartCasting")
+                                                task["wait"]()
+                                                L_1_[27]:InvokeServer("CastLineAtLocation", L_720_[7], 100, true)
+                                        elseif L_720_[1] == "Biting" then
+                                                L_1_[27]:InvokeServer("Catching", true)
+                                                task["wait"](.1)
+                                                L_1_[27]:InvokeServer("Catch", 1)
+                                        end
+                                end
+                        end)
+                end
+        end
+end)
+
+task["spawn"](function()
+        while task["wait"](1) do
+                if _G["AutoFishingQuest"] then
+                        pcall(function()
+                                if not L_1_[31]() then
+                                        L_1_[72]:InvokeServer("FishingNPC", "Angler", "AskQuest")
+                                end
+                        end)
+                end
+        end
+end)
+
+task["spawn"](function()
+        while task["wait"](5) do
+                if _G["AutoQuestComplete"] then
+                        pcall(function()
+                                L_1_[64]["RFJobsRemoteFunction"]:InvokeServer("FishingNPC", "FinishQuest")
+                        end)
+                end
+        end
+end)
+
+task["spawn"](function()
+        while task["wait"](5) do
+                if _G["AutoSellFish"] then
+                        pcall(function()
+                                L_1_[64]["RFJobsRemoteFunction"]:InvokeServer("FishingNPC", "SellFish")
+                        end)
+                end
+        end
+end)
+
+task["spawn"](function()
+        while task["wait"](.5) do
+                if _G["AutoSkillZ"] then
+                        pcall(function()
+                                L_1_[97]:InvokeServer("Z", true)
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["TravelDres"] then
+                                if L_1_[45]["Data"]["Level"]["Value"] >= 700 then
+                                        if workspace["Map"]["Ice"]["Door"]["CanCollide"] == true and workspace["Map"]["Ice"]["Door"]["Transparency"] == 0 then
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("DressrosaQuestProgress", "Detective")
+                                                EquipWeapon("Key")
+                                                repeat
+                                                        wait()
+                                                        _tp(CFrame["new"](1347.7124, 37.3751602, -1325.6488))
+                                                until not _G["TravelDres"] or Root["Position"] == (CFrame["new"](1347.7124, 37.3751602, -1325.6488))["Position"]
+                                        elseif workspace["Map"]["Ice"]["Door"]["CanCollide"] == false and workspace["Map"]["Ice"]["Door"]["Transparency"] == 1 then
+                                                if Enemies:FindFirstChild("Ice Admiral") then
+                                                        for L_732_forvar0, L_733_forvar1 in pairs(Enemies:GetChildren()) do
+                                                                local L_734_ = {}
+                                                                L_734_[1], L_734_[2] = L_732_forvar0, L_733_forvar1
+                                                                if L_734_[2]["Name"] == "Ice Admiral" and L_1_[4]["Alive"](L_734_[2]) then
+                                                                        repeat
+                                                                                task["wait"]()
+                                                                                L_1_[4]["Kill"](L_734_[2], _G["TravelDres"])
+                                                                        until _G["TravelDres"] == false or L_734_[2]["Humanoid"]["Health"] <= 0
+                                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("TravelDressrosa")
+                                                                end
+                                                        end
+                                                else
+                                                        _tp(CFrame["new"](1347.7124, 37.3751602, -1325.6488))
+                                                end
+                                        else
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("TravelDressrosa")
+                                        end
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["AutoZou"] then
+                                if L_1_[45]["Data"]["Level"]["Value"] >= 1500 then
+                                        if L_1_[18]["Remotes"]["CommF_"]:InvokeServer("BartiloQuestProgress", "Bartilo") == 3 then
+                                                if (L_1_[18]["Remotes"]["CommF_"]:InvokeServer("GetUnlockables"))["FlamingoAccess"] ~= nil then
+                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("F_", "TravelZou")
+                                                        if L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ZQuestProgress", "Check") == 0 then
+                                                                local L_737_ = {}
+                                                                L_737_[2] = GetConnectionEnemies("rip_indra")
+                                                                if L_737_[2] then
+                                                                        repeat
+                                                                                wait()
+                                                                                L_1_[4]["Kill"](L_737_[2], _G["AutoZou"])
+                                                                        until not _G["AutoZou"] or not L_737_[2]["Parent"] or L_737_[2]["Humanoid"]["Health"] <= 0
+                                                                        Check = 2
+                                                                        repeat
+                                                                                wait()
+                                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("F_", "TravelZou")
+                                                                        until Check == 1
+                                                                else
+                                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("F_", "ZQuestProgress", "Check")
+                                                                        wait(.1)
+                                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("F_", "ZQuestProgress", "Begin")
+                                                                end
+                                                        elseif L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ZQuestProgress", "Check") == 1 then
+                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("F_", "TravelZou")
+                                                        else
+                                                                local L_738_ = {}
+                                                                L_738_[1] = GetConnectionEnemies("Don Swan")
+                                                                if L_738_[1] then
+                                                                        repeat
+                                                                                wait()
+                                                                                L_1_[4]["Kill"](L_738_[1], _G["AutoZou"])
+                                                                        until not _G["AutoZou"] or not L_738_[1]["Parent"] or L_738_[1]["Humanoid"]["Health"] <= 0
+                                                                end
+                                                        end
+                                                end
+                                        end
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                if _G["Tp_LgS"] then
+                        pcall(function()
+                                for L_842_forvar0, L_843_forvar1 in pairs(L_1_[18]["NPCs"]:GetChildren()) do
+                                        local L_844_ = {}
+                                        L_844_[2], L_844_[1] = L_842_forvar0, L_843_forvar1
+                                        if L_844_[1]["Name"] == "Legendary Sword Dealer " then
+                                                _tp(L_844_[1]["HumanoidRootPart"]["CFrame"])
+                                        end
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                if _G["AutoPole"] then
+                        pcall(function()
+                                local L_847_ = {}
+                                L_847_[2] = GetConnectionEnemies("Thunder God")
+                                if L_847_[2] then
+                                        repeat
+                                                task["wait"]()
+                                                L_1_[4]["Kill"](L_847_[2], _G["AutoPole"])
+                                        until not _G["AutoPole"] or not L_847_[2]["Parent"] or L_847_[2]["Humanoid"]["Health"] <= 0
+                                else
+                                        _tp(CFrame["new"](-7994.984375, 5761.025390625, -2088.6479492188))
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["AutoPoleV2"] then
+                                if not GetBP("Pole (1st Form)") then
+                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("LoadItem", "Pole (1st Form)")
+                                end
+                                if not GetBP("Pole (2nd Form)") then
+                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("LoadItem", "Pole (2nd Form)")
+                                end
+                                if GetBP("Pole (1st Form)") and (GetBP("Pole (1st Form)"))["Level"]["Value"] <= 179 then
+                                        _G["Level"] = true
+                                elseif GetBP("Pole (1st Form)") and (GetBP("Pole (1st Form)"))["Level"]["Value"] >= 180 then
+                                        _G["Level"] = false
+                                end
+                                if not GetBP("Rumble Fruit") then
+                                        return
+                                end
+                                if (GetBP("Rumble Fruit"))["AwakenedMoves"]:FindFirstChild("Z") and ((GetBP("Rumble Fruit"))["AwakenedMoves"]:FindFirstChild("X") and ((GetBP("Rumble Fruit"))["AwakenedMoves"]:FindFirstChild("C") and ((GetBP("Rumble Fruit"))["AwakenedMoves"]:FindFirstChild("V") and (GetBP("Rumble Fruit"))["AwakenedMoves"]:FindFirstChild("F")))) then
+                                        _G["SelectChip"] = nil
+                                        _G["Raiding"] = false
+                                        _G["Auto_Awakener"] = false
+                                        if L_1_[45]["Data"]["Fragments"]["Value"] >= 5000 then
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("Thunder God", "Talk")
+                                                wait(Sec)
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("Thunder God", "Sure")
+                                        end
+                                elseif L_1_[18]["Remotes"]["CommF_"]:InvokeServer("Awakener", "Check") == nil or L_1_[18]["Remotes"]["CommF_"]:InvokeServer("Awakener", "Check") == 0 then
+                                        local L_850_ = {}
+                                        _G["SelectChip"] = "Rumble"
+                                        L_850_[1] = L_1_[18]["Remotes"]["CommF_"]:InvokeServer("RaidsNpc", "Select", _G["SelectChip"])
+                                        if L_850_[1] then
+                                                L_850_[1]:Stop()
+                                        end
+                                        _G["Raiding"] = true
+                                        _G["Auto_Awakener"] = true
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(.2) do
+                pcall(function()
+                        if _G["AutoSaw"] then
+                                local L_853_ = {}
+                                L_853_[2] = GetConnectionEnemies("The Saw")
+                                if L_853_[2] then
+                                        repeat
+                                                task["wait"]()
+                                                L_1_[4]["Kill"](L_853_[2], _G["AutoSaw"])
+                                        until _G["AutoSaw"] == false or L_853_[2]["Humanoid"]["Health"] <= 0
+                                else
+                                        _tp(CFrame["new"](-784.89715576172, 72.427383422852, 1603.5822753906))
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(.2) do
+                pcall(function()
+                        if _G["AutoSaber"] and (L_1_[45]["Data"]["Level"]["Value"] >= 200 and (not L_1_[45]["Backpack"]:FindFirstChild("Saber") and not L_1_[45]["Character"]:FindFirstChild("Saber"))) then
+                                if workspace["Map"]["Jungle"]["Final"]["Part"]["Transparency"] == 0 then
+                                        if workspace["Map"]["Jungle"]["QuestPlates"]["Door"]["Transparency"] == 0 then
+                                                if ((CFrame["new"](-1612.55884, 36.9774132, 148.719543, .37091279, 3.0717151e-09, -0.928667724, 3.97099491e-08, 1, 1.91679348e-08, .928667724, -4.39869794e-08, .37091279))["Position"] - L_1_[45]["Character"]["HumanoidRootPart"]["Position"])["Magnitude"] <= 100 then
+                                                        _tp(L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"])
+                                                        wait(.5)
+                                                        L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = workspace["Map"]["Jungle"]["QuestPlates"]["Plate1"]["Button"]["CFrame"]
+                                                        wait(.5)
+                                                        L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = workspace["Map"]["Jungle"]["QuestPlates"]["Plate2"]["Button"]["CFrame"]
+                                                        wait(.5)
+                                                        L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = workspace["Map"]["Jungle"]["QuestPlates"]["Plate3"]["Button"]["CFrame"]
+                                                        wait(.5)
+                                                        L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = workspace["Map"]["Jungle"]["QuestPlates"]["Plate4"]["Button"]["CFrame"]
+                                                        wait(.5)
+                                                        L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = workspace["Map"]["Jungle"]["QuestPlates"]["Plate5"]["Button"]["CFrame"]
+                                                        wait(.5)
+                                                else
+                                                        _tp(CFrame["new"](-1612.55884, 36.9774132, 148.719543, .37091279, 3.0717151e-09, -0.928667724, 3.97099491e-08, 1, 1.91679348e-08, .928667724, -4.39869794e-08, .37091279))
+                                                end
+                                        else
+                                                if workspace["Map"]["Desert"]["Burn"]["Part"]["Transparency"] == 0 then
+                                                        if L_1_[45]["Backpack"]:FindFirstChild("Torch") or L_1_[45]["Character"]:FindFirstChild("Torch") then
+                                                                EquipWeapon("Torch")
+                                                                firetouchinterest(L_1_[45]["Character"]["Torch"]["Handle"], workspace["Map"]["Desert"]["Burn"]["Fire"], 0)
+                                                                firetouchinterest(L_1_[45]["Character"]["Torch"]["Handle"], workspace["Map"]["Desert"]["Burn"]["Fire"], 1)
+                                                                _tp(CFrame["new"](1114.61475, 5.04679728, 4350.22803, -0.648466587, -1.28799094e-09, .761243105, -5.70652914e-10, 1, 1.20584542e-09, -0.761243105, 3.47544882e-10, -0.648466587))
+                                                        else
+                                                                _tp(CFrame["new"](-1610.00757, 11.5049858, 164.001587, .984807551, -0.167722285, -0.0449818149, .17364943, .951244235, .254912198, 3.42372805e-05, -0.258850515, .965917408))
+                                                        end
+                                                else
+                                                        if L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "SickMan") ~= 0 then
+                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "GetCup")
+                                                                wait(.5)
+                                                                EquipWeapon("Cup")
+                                                                wait(.5)
+                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "FillCup", L_1_[45]["Character"]["Cup"])
+                                                                wait(Sec)
+                                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "SickMan")
+                                                        else
+                                                                if L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "RichSon") == nil then
+                                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "RichSon")
+                                                                elseif L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "RichSon") == 0 then
+                                                                        if workspace["Enemies"]:FindFirstChild("Mob Leader") or L_1_[18]:FindFirstChild("Mob Leader") then
+                                                                                _tp(CFrame["new"](-2967.59521, -4.91089821, 5328.70703, .342208564, -0.0227849055, .939347804, .0251603816, .999569714, .0150796166, -0.939287126, .0184739735, .342634559))
+                                                                                for L_856_forvar0, L_857_forvar1 in pairs(workspace["Enemies"]:GetChildren()) do
+                                                                                        local L_858_ = {}
+                                                                                        L_858_[2], L_858_[3] = L_856_forvar0, L_857_forvar1
+                                                                                        if L_858_[3]["Name"] == "Mob Leader" and L_1_[4]["Alive"](L_858_[3]) then
+                                                                                                repeat
+                                                                                                        task["wait"]()
+                                                                                                        L_1_[4]["Kill"](L_858_[3], _G["AutoSaber"])
+                                                                                                until L_858_[3]["Humanoid"]["Health"] <= 0 or _G["AutoSaber"] == false
+                                                                                        end
+                                                                                end
+                                                                        end
+                                                                elseif L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "RichSon") == 1 then
+                                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "RichSon")
+                                                                        EquipWeapon("Relic")
+                                                                        _tp(CFrame["new"](-1404.91504, 29.9773273, 3.80598116, .876514494, 5.66906877e-09, .481375456, 2.53851997e-08, 1, -5.79995607e-08, -0.481375456, 6.30572643e-08, .876514494))
+                                                                end
+                                                        end
+                                                end
+                                        end
+                                else
+                                        if workspace["Enemies"]:FindFirstChild("Saber Expert") or L_1_[18]:FindFirstChild("Saber Expert") then
+                                                for L_859_forvar0, L_860_forvar1 in pairs(workspace["Enemies"]:GetChildren()) do
+                                                        local L_861_ = {}
+                                                        L_861_[2], L_861_[1] = L_859_forvar0, L_860_forvar1
+                                                        if L_861_[1]["Name"] == "Saber Expert" and L_1_[4]["Alive"](L_861_[1]) then
+                                                                repeat
+                                                                        task["wait"]()
+                                                                        L_1_[4]["Kill"](L_861_[1], _G["AutoSaber"])
+                                                                until L_861_[1]["Humanoid"]["Health"] <= 0 or _G["AutoSaber"] == false
+                                                                if L_861_[1]["Humanoid"]["Health"] <= 0 then
+                                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("ProQuestProgress", "PlaceRelic")
+                                                                end
+                                                        end
+                                                end
+                                        else
+                                                _tp(CFrame["new"](-1401.85046, 29.9773273, 8.81916237, .85820812, 8.76083845e-08, .513301849, -8.55007443e-08, 1, -2.77243419e-08, -0.513301849, -2.00944328e-08, .85820812))
+                                        end
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(.2) do
+                if _G["AutoColShad"] then
+                        pcall(function()
+                                local L_864_ = {}
+                                L_864_[2] = GetConnectionEnemies("Cyborg")
+                                if L_864_[2] then
+                                        repeat
+                                                task["wait"]()
+                                                L_1_[4]["Kill"](L_864_[2], _G["AutoColShad"])
+                                        until _G["AutoColShad"] == false or not L_864_[2]["Parent"] or L_864_[2]["Humanoid"]["Health"] <= 0
+                                else
+                                        _tp(CFrame["new"](6094.0249023438, 73.770050048828, 3825.7348632813))
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        while task["wait"](Sec) do
+                pcall(function()
+                        if _G["AutoGetUsoap"] then
+                                for L_867_forvar0, L_868_forvar1 in pairs(workspace["Characters"]:GetChildren()) do
+                                        local L_869_ = {}
+                                        L_869_[3], L_869_[2] = L_867_forvar0, L_868_forvar1
+                                        if L_869_[2]["Name"] ~= L_1_[45]["Name"] then
+                                                if L_869_[2]["Humanoid"]["Health"] > 0 and (L_869_[2]:FindFirstChild("HumanoidRootPart") and (L_869_[2]["Parent"] and (Root["Position"] - L_869_[2]["HumanoidRootPart"]["Position"])["Magnitude"] <= 230)) then
+                                                        repeat
+                                                                task["wait"]()
+                                                                EquipWeapon(_G["SelectWeapon"])
+                                                                _tp(L_869_[2]["HumanoidRootPart"]["CFrame"] * CFrame["new"](1, 1, 2))
+                                                        until _G["AutoGetUsoap"] == false or L_869_[2]["Humanoid"]["Health"] <= 0 or not L_869_[2]["Parent"] or not L_869_[2]:FindFirstChild("HumanoidRootPart") or not L_869_[2]:FindFirstChild("Humanoid")
+                                                end
+                                        end
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(.2) do
+                pcall(function()
+                        if _G["obsFarm"] then
+                                L_1_[18]["Remotes"]["CommE"]:FireServer("Ken", true)
+                                if L_1_[45]:GetAttribute("KenDodgesLeft") == 0 then
+                                        KenTest = false
+                                elseif L_1_[45]:GetAttribute("KenDodgesLeft") > 0 then
+                                        L_1_[18]["Remotes"]["CommE"]:FireServer("Ken", true)
+                                        KenTest = true
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(.2) do
+                pcall(function()
+                        if _G["obsFarm"] then
+                                if World1 then
+                                        if workspace["Enemies"]:FindFirstChild("Galley Captain") then
+                                                if KenTest then
+                                                        repeat
+                                                                wait()
+                                                                L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = (workspace["Enemies"]:FindFirstChild("Galley Captain"))["HumanoidRootPart"]["CFrame"] * CFrame["new"](3, 0, 0)
+                                                        until _G["obsFarm"] == false or KenTest == false
+                                                else
+                                                        repeat
+                                                                wait()
+                                                                L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = (workspace["Enemies"]:FindFirstChild("Galley Captain"))["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 50, 0)
+                                                        until _G["obsFarm"] == false or KenTest
+                                                end
+                                        else
+                                                _tp(CFrame["new"](5533.29785, 88.1079102, 4852.3916))
+                                        end
+                                elseif World2 then
+                                        if workspace["Enemies"]:FindFirstChild("Lava Pirate") then
+                                                if KenTest then
+                                                        repeat
+                                                                wait()
+                                                                L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = (workspace["Enemies"]:FindFirstChild("Lava Pirate"))["HumanoidRootPart"]["CFrame"] * CFrame["new"](3, 0, 0)
+                                                        until _G["obsFarm"] == false or KenTest == false
+                                                else
+                                                        repeat
+                                                                wait()
+                                                                L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] = (workspace["Enemies"]:FindFirstChild("Lava Pirate"))["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 50, 0)
+                                                        until _G["obsFarm"] == false or KenTest
+                                                end
+                                        else
+                                                _tp(CFrame["new"](-5478.39209, 15.9775667, -5246.9126))
+                                        end
+                                elseif World3 then
+                                        if workspace["Enemies"]:FindFirstChild("Venomous Assailant") then
+                                                if KenTest then
+                                                        repeat
+                                                                wait()
+                                                                _tp((workspace["Enemies"]:FindFirstChild("Venomous Assailant"))["HumanoidRootPart"]["CFrame"] * CFrame["new"](3, 0, 0))
+                                                        until _G["obsFarm"] == false or KenTest == false
+                                                else
+                                                        repeat
+                                                                wait()
+                                                                _tp((workspace["Enemies"]:FindFirstChild("Venomous Assailant"))["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 50, 0))
+                                                        until _G["obsFarm"] == false or KenTest
+                                                end
+                                        else
+                                                _tp(CFrame["new"](4530.3540039063, 656.75695800781, -131.60952758789))
+                                        end
+                                end
+                        end
+                end)
+        end
+end)
+
+spawn(function()
+        while wait(Sec) do
+                if _G["AutoKenVTWO"] then
+                        pcall(function()
+                                local L_960_ = {}
+                                L_960_[1] = CFrame["new"](-12444.78515625, 332.40396118164, -7673.1806640625)
+                                L_960_[5] = "Kuy"
+                                L_960_[3] = CFrame["new"](-10920.125, 624.20275878906, -10266.995117188)
+                                L_960_[2] = CFrame["new"](-13277.568359375, 370.34185791016, -7821.1572265625)
+                                L_960_[4] = CFrame["new"](-13493.12890625, 318.89553833008, -8373.7919921875)
+                                if L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == true and string["find"](L_1_[45]["PlayerGui"]["Main"]["Quest"]["Container"]["QuestTitle"]["Title"]["Text"], "Defeat 50 Forest Pirates") then
+                                        local L_961_ = {}
+                                        L_961_[1] = GetConnectionEnemies("Forest Pirate")
+                                        if L_961_[1] then
+                                                repeat
+                                                        wait()
+                                                        L_1_[4]["Kill"](L_961_[1], _G["AutoKenVTWO"])
+                                                until not _G["AutoKenVTWO"] or L_961_[1]["Humanoid"]["Health"] <= 0 or L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false
+                                        else
+                                                _tp(L_960_[2])
+                                        end
+                                elseif L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == true then
+                                        local L_962_ = {}
+                                        L_962_[1] = GetConnectionEnemies("Captain Elephant")
+                                        if L_962_[1] then
+                                                repeat
+                                                        wait()
+                                                        L_1_[4]["Kill"](L_962_[1], _G["AutoKenVTWO"])
+                                                until not _G["AutoKenVTWO"] or L_962_[1]["Humanoid"]["Health"] <= 0 or L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false
+                                        else
+                                                _tp(L_960_[4])
+                                        end
+                                elseif L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false then
+                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("CitizenQuestProgress", "Citizen")
+                                        wait(.1)
+                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("StartQuest", "CitizenQuest", 1)
+                                end
+                                if L_1_[18]["Remotes"]["CommF_"]:InvokeServer("CitizenQuestProgress", "Citizen") == 2 then
+                                        _tp(CFrame["new"](-12513.51953125, 340.11373901367, -9873.048828125))
+                                end
+                                if not L_1_[45]["Backpack"]:FindFirstChild("Fruit Bowl") or not L_1_[45]["Character"]:FindFirstChild("Fruit Bowl") then
+                                        if not GetBP("Fruit Bowl") then
+                                                if not GetBP("Apple") then
+                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("requestEntrance", Vector3["new"](-12471.169921875, 374.94024658203, -7551.677734375))
+                                                        for L_963_forvar0, L_964_forvar1 in pairs(workspace:GetDescendants()) do
+                                                                local L_965_ = {}
+                                                                L_965_[2], L_965_[3] = L_963_forvar0, L_964_forvar1
+                                                                if L_965_[3]["Name"] == "Apple" then
+                                                                        L_965_[3]["Handle"]["CFrame"] = L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 1, 10)
+                                                                        wait()
+                                                                        firetouchinterest(L_1_[45]["Character"]["HumanoidRootPart"], L_965_[3]["Handle"], 0)
+                                                                        wait()
+                                                                end
+                                                        end
+                                                elseif not GetBP("Banana") then
+                                                        _tp(CFrame["new"](2286.0078125, 73.133918762207, -7159.8090820312))
+                                                        for L_966_forvar0, L_967_forvar1 in pairs(workspace:GetDescendants()) do
+                                                                local L_968_ = {}
+                                                                L_968_[2], L_968_[3] = L_966_forvar0, L_967_forvar1
+                                                                if L_968_[3]["Name"] == "Banana" then
+                                                                        L_968_[3]["Handle"]["CFrame"] = L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 1, 10)
+                                                                        wait()
+                                                                        firetouchinterest(L_1_[45]["Character"]["HumanoidRootPart"], L_968_[3]["Handle"], 0)
+                                                                        wait()
+                                                                end
+                                                        end
+                                                elseif not GetBP("Pineapple") then
+                                                        _tp(CFrame["new"](-712.82727050781, 98.577049255371, 5711.9541015625))
+                                                        for L_969_forvar0, L_970_forvar1 in pairs(workspace:GetDescendants()) do
+                                                                local L_971_ = {}
+                                                                L_971_[1], L_971_[2] = L_969_forvar0, L_970_forvar1
+                                                                if L_971_[2]["Name"] == "Pineapple" then
+                                                                        L_971_[2]["Handle"]["CFrame"] = L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] * CFrame["new"](0, 1, 10)
+                                                                        wait()
+                                                                        firetouchinterest(L_1_[45]["Character"]["HumanoidRootPart"], L_971_[2]["Handle"], 0)
+                                                                        wait()
+                                                                end
+                                                        end
+                                                end
+                                        end
+                                        if L_1_[45]["Backpack"]:FindFirstChild("Banana") and (L_1_[45]["Backpack"]:FindFirstChild("Apple") and L_1_[45]["Backpack"]:FindFirstChild("Pineapple")) or L_1_[45]:FindFirstChild("Banana") and (L_1_[45]:FindFirstChild("Apple") and L_1_[45]:FindFirstChild("Pineapple")) then
+                                                repeat
+                                                        wait()
+                                                        _tp(L_960_[1])
+                                                until _G["AutoKenVTWO"] or L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] == L_960_[1]
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("CitizenQuestProgress", "Citizen")
+                                        end
+                                        if L_1_[45]["Backpack"]:FindFirstChild("Fruit Bowl") or L_1_[45]["Character"]:FindFirstChild("Fruit Bowl") then
+                                                if L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] ~= L_960_[3] then
+                                                        _tp(L_960_[3])
+                                                elseif L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] == L_960_[3] then
+                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("KenTalk2", "Start")
+                                                        wait(.1)
+                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("KenTalk2", "Buy")
+                                                end
+                                        end
+                                end
+                        end)
+                end
+        end
+end)
+
+spawn(function()
+        pcall(function()
+                while wait(Sec) do
+                        if _G["Auto_Rainbow_Haki"] then
+                                if L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false then
+                                        if _G["GetQFast"] then
+                                                if L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false then
+                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("HornedMan", "Bet")
+                                                end
+                                        else
+                                                Rainbow1 = CFrame["new"](-11892.0703125, 930.57672119141, -8760.1591796875)
+                                                if L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] ~= Rainbow1 then
+                                                        _tp(Rainbow1)
+                                                elseif L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"] == Rainbow1 then
+                                                        wait(1)
+                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("HornedMan", "Bet")
+                                                end
+                                        end
+                                elseif L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == true and string["find"](L_1_[45]["PlayerGui"]["Main"]["Quest"]["Container"]["QuestTitle"]["Title"]["Text"], "Stone") then
+                                        local L_947_ = {}
+                                        L_947_[1] = GetConnectionEnemies("Stone")
+                                        if L_947_[1] then
+                                                repeat
+                                                        wait()
+                                                        L_1_[4]["Kill"](L_947_[1], _G["Auto_Rainbow_Haki"])
+                                                until _G["Auto_Rainbow_Haki"] == false or L_947_[1]["Humanoid"]["Health"] <= 0 or not L_947_[1]["Parent"] or L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false
+                                        else
+                                                _tp(CFrame["new"](-1086.11621, 38.8425903, 6768.71436, .0231462717, -0.592676699, .805107772, 2.03251839e-05, .805323839, .592835128, -0.999732077, -0.0137055516, .0186523199))
+                                        end
+                                elseif L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == true and string["find"](L_1_[45]["PlayerGui"]["Main"]["Quest"]["Container"]["QuestTitle"]["Title"]["Text"], "Hydra Leader") then
+                                        local L_948_ = {}
+                                        L_948_[2] = GetConnectionEnemies("Hydra Leader")
+                                        if L_948_[2] then
+                                                repeat
+                                                        task["wait"]()
+                                                        L_1_[4]["Kill"](L_948_[2], _G["Auto_Rainbow_Haki"])
+                                                until _G["Auto_Rainbow_Haki"] == false or L_948_[2]["Humanoid"]["Health"] <= 0 or not L_948_[2]["Parent"] or L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false
+                                        else
+                                                local L_949_ = {}
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("requestEntrance", Vector3["new"](5643.4526367188, 1013.0858154297, -340.51025390625))
+                                                L_949_[2] = Vector3["new"](5643.4526367188, 1013.0858154297, -340.51025390625)
+                                                L_949_[1] = CFrame["new"](5821.8979492188, 1019.0950927734, -73.719230651855)
+                                                if L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"]["Position"] == L_949_[2] then
+                                                        _tp(L_949_[1])
+                                                end
+                                        end
+                                elseif L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == true and string["find"](L_1_[45]["PlayerGui"]["Main"]["Quest"]["Container"]["QuestTitle"]["Title"]["Text"], "Kilo Admiral") then
+                                        local L_950_ = {}
+                                        L_950_[2] = GetConnectionEnemies("Kilo Admiral")
+                                        if L_950_[2] then
+                                                repeat
+                                                        task["wait"]()
+                                                        L_1_[4]["Kill"](L_950_[2], _G["Auto_Rainbow_Haki"])
+                                                until _G["Auto_Rainbow_Haki"] == false or L_950_[2]["Humanoid"]["Health"] <= 0 or not L_950_[2]["Parent"] or L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false
+                                        else
+                                                _tp(CFrame["new"](2877.61743, 423.558685, -7207.31006, -0.989591599, 0, -0.143904909, 0, 1.00000012, 0, .143904924, 0, -0.989591479))
+                                        end
+                                elseif L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == true and string["find"](L_1_[45]["PlayerGui"]["Main"]["Quest"]["Container"]["QuestTitle"]["Title"]["Text"], "Captain Elephant") then
+                                        local L_951_ = {}
+                                        L_951_[2] = GetConnectionEnemies("Captain Elephant")
+                                        if L_951_[2] then
+                                                repeat
+                                                        task["wait"]()
+                                                        L_1_[4]["Kill"](L_951_[2], _G["Auto_Rainbow_Haki"])
+                                                until _G["Auto_Rainbow_Haki"] == false or L_951_[2]["Humanoid"]["Health"] <= 0 or not L_951_[2]["Parent"] or L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false
+                                        else
+                                                local L_952_ = {}
+                                                L_952_[3] = Vector3["new"](-12471.169921875, 374.94024658203, -7551.677734375)
+                                                L_952_[1] = CFrame["new"](-13376.7578125, 433.28689575195, -8071.392578125)
+                                                if L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"]["Position"] ~= L_952_[3] then
+                                                        L_1_[18]["Remotes"]["CommF_"]:InvokeServer("requestEntrance", Vector3["new"](-12471.169921875, 374.94024658203, -7551.677734375))
+                                                elseif L_1_[45]["Character"]["HumanoidRootPart"]["CFrame"]["Position"] == L_952_[3] then
+                                                        _tp(L_952_[1])
+                                                end
+                                        end
+                                elseif L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == true and string["find"](L_1_[45]["PlayerGui"]["Main"]["Quest"]["Container"]["QuestTitle"]["Title"]["Text"], "Beautiful Pirate") then
+                                        local L_953_ = {}
+                                        L_953_[2] = GetConnectionEnemies("Captain Elephant")
+                                        if L_953_[2] then
+                                                repeat
+                                                        task["wait"]()
+                                                        L_1_[4]["Kill"](L_953_[2], _G["Auto_Rainbow_Haki"])
+                                                until _G["Auto_Rainbow_Haki"] == false or L_953_[2]["Humanoid"]["Health"] <= 0 or not L_953_[2]["Parent"] or L_1_[45]["PlayerGui"]["Main"]["Quest"]["Visible"] == false
+                                        else
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("requestEntrance", Vector3["new"](5314.5463867188, 22.562219619751, -127.06755065918))
+                                        end
+                                end
+                        end
+                end
+        end)
+end)
+
+spawn(function()
+        while wait(Sec) do
+                pcall(function()
+                        if _G["Bartilo_Quest"] and Lv >= 850 then
+                                local L_974_ = {}
+                                L_974_[2] = L_1_[45]["PlayerGui"]["Main"]["Quest"]
+                                if L_1_[18]["Remotes"]["CommF_"]:InvokeServer("BartiloQuestProgress", "Bartilo") == 0 then
+                                        if L_974_[2]["Visible"] == false then
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("StartQuest", "BartiloQuest", 1)
+                                        elseif L_974_[2]["Visible"] == true then
+                                                local L_975_ = {}
+                                                L_975_[1] = GetConnectionEnemies("Swan Pirate")
+                                                if L_975_[1] then
+                                                        repeat
+                                                                wait()
+                                                                L_1_[4]["Kill"](L_975_[1], _G["Bartilo_Quest"])
+                                                        until not _G["Bartilo_Quest"] or L_975_[1]["Humanoid"]["Health"] <= 0 or L_974_[2]["Visible"] == false
+                                                else
+                                                        _tp(CFrame["new"](-428.99899291992, 72.983779907227, 1836.43359375))
+                                                end
+                                        end
+                                elseif L_1_[18]["Remotes"]["CommF_"]:InvokeServer("BartiloQuestProgress", "Bartilo") == 1 then
+                                        if L_974_[2]["Visible"] == false then
+                                                L_1_[18]["Remotes"]["CommF_"]:InvokeServer("StartQuest", "BartiloQuest", 2)
+                                        elseif L_974_[2]["Visible"] == true then
+                                                local L_976_ = {}
+                                                L_976_[1] = GetConnectionEnemies("Factory Staff")
+                                                if L_976_[1] then
+                                                        repeat
+                                                                wait()
+                                                                L_1_[4]["Kill"](L_976_[1], _G["Bartilo_Quest"])
+                                                        until not _G["Bartilo_Quest"] or L_976_[1]["Humanoid"]["Health"] <= 0 or L_974_[2]["Visible"] == false
+                                                else
+                                                        _tp(CFrame["new"](447.99932861328, 73.983779907227, 1840.3334960938))
+                                                end
+                                        end
+                                elseif L_1_[18]["Remotes"]["CommF_"]:InvokeServer("BartiloQuestProgress", "Bartilo") == 2 then
+                                        local L_977_ = {}
+                                        L_977_[1] = GetConnectionEnemies("Jeremy")
+                                        if L_977_[1] then
+                                                repeat
+                                                        wait()
+                                                        L_1_[4]["Kill"](L_977_[1], _G["Bartilo_Quest"])
+                                                until not _G["Bartilo_Quest"] or L_977_[1]["Humanoid"]["Health"] <= 0
+                                        else
+                                                _tp(CFrame["new"](-10, 331.12097167969, 2815.4951171875))
+                                        end
+                                end
+                        end
+                end)
+        end
+        end)
+end
+
+return ProgressionModule
